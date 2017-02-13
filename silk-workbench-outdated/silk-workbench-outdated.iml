@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/src/main/webapp" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/scala" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="silk-workspace" />
+    <orderEntry type="module" module-name="silk-core" />
+    <orderEntry type="library" name="Maven: com.rockymadden.stringmetric:stringmetric-core:0.25.3" level="project" />
+    <orderEntry type="library" name="Maven: com.thoughtworks.paranamer:paranamer:2.5.7" level="project" />
+    <orderEntry type="library" name="Maven: org.mockito:mockito-all:1.9.0" level="project" />
+    <orderEntry type="library" name="Maven: org.clapper:classutil_2.10:1.0.3" level="project" />
+    <orderEntry type="library" name="Maven: asm:asm:3.3" level="project" />
+    <orderEntry type="library" name="Maven: asm:asm-commons:3.3" level="project" />
+    <orderEntry type="library" name="Maven: asm:asm-tree:3.3" level="project" />
+    <orderEntry type="library" name="Maven: asm:asm-util:3.3" level="project" />
+    <orderEntry type="library" name="Maven: org.clapper:grizzled-scala_2.10:1.1.2" level="project" />
+    <orderEntry type="library" name="Maven: jline:jline:2.6" level="project" />
+    <orderEntry type="library" name="Maven: org.clapper:grizzled-slf4j_2.10:1.0.1" level="project" />
+    <orderEntry type="module" module-name="silk-jena" />
+    <orderEntry type="library" name="Maven: org.apache.jena:jena-core:2.11.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jena:jena-iri:1.0.0" level="project" />
+    <orderEntry type="library" name="Maven: xerces:xercesImpl:2.11.0" level="project" />
+    <orderEntry type="library" name="Maven: xml-apis:xml-apis:1.4.01" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-log4j12:1.6.4" level="project" />
+    <orderEntry type="library" name="Maven: log4j:log4j:1.2.16" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.jena:jena-arq:2.11.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpclient:4.2.3" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpcore:4.2.2" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:jcl-over-slf4j:1.6.4" level="project" />
+    <orderEntry type="module" module-name="silk-learning" />
+    <orderEntry type="library" name="Maven: net.liftweb:lift-webkit_2.10:2.5-M4" level="project" />
+    <orderEntry type="library" name="Maven: net.liftweb:lift-util_2.10:2.5-M4" level="project" />
+    <orderEntry type="library" name="Maven: net.liftweb:lift-actor_2.10:2.5-M4" level="project" />
+    <orderEntry type="library" name="Maven: net.liftweb:lift-common_2.10:2.5-M4" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.2" level="project" />
+    <orderEntry type="library" name="Maven: net.liftweb:lift-json_2.10:2.5-M4" level="project" />
+    <orderEntry type="library" name="Maven: org.scala-lang:scalap:2.10.0" level="project" />
+    <orderEntry type="library" name="Maven: org.specs2:specs2_2.10:1.12.3" level="project" />
+    <orderEntry type="library" name="Maven: org.specs2:specs2-scalaz-core_2.10.0-RC3:6.0.1" level="project" />
+    <orderEntry type="library" name="Maven: joda-time:joda-time:2.1" level="project" />
+    <orderEntry type="library" name="Maven: org.joda:joda-convert:1.2" level="project" />
+    <orderEntry type="library" name="Maven: commons-codec:commons-codec:1.6" level="project" />
+    <orderEntry type="library" name="Maven: javax.mail:mail:1.4.4" level="project" />
+    <orderEntry type="library" name="Maven: javax.activation:activation:1.1" level="project" />
+    <orderEntry type="library" name="Maven: nu.validator.htmlparser:htmlparser:1.4" level="project" />
+    <orderEntry type="library" name="Maven: commons-fileupload:commons-fileupload:1.2.2" level="project" />
+    <orderEntry type="library" name="Maven: org.scala-lang:scala-actors:2.10.0" level="project" />
+    <orderEntry type="library" name="Maven: net.liftmodules:widgets_2.10:2.5-M4-1.2" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-server:8.1.9.v20130131" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty.orbit:javax.servlet:3.0.0.v201112011016" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-http:8.1.9.v20130131" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-io:8.1.9.v20130131" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-webapp:8.1.9.v20130131" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-xml:8.1.9.v20130131" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-util:8.1.9.v20130131" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-servlet:8.1.9.v20130131" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-security:8.1.9.v20130131" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-continuation:8.1.9.v20130131" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.scala-lang:scala-compiler:2.10.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.scala-lang:scala-reflect:2.10.2" level="project" />
+    <orderEntry type="library" name="Maven: org.scala-lang:scala-library:2.10.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.scalatest:scalatest_2.10:1.9.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.11" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.hamcrest:hamcrest-core:1.3" level="project" />
+  </component>
+</module>

@@ -1,0 +1,113 @@
+@(name: String,
+  plugins: Seq[de.fuberlin.wiwiss.silk.runtime.plugin.PluginDescription[_]],
+  currentObj: Option[de.fuberlin.wiwiss.silk.runtime.plugin.AnyPlugin],
+  resources: List[String])(contents: Html)
+
+@import de.fuberlin.wiwiss.silk.runtime.plugin.PluginDescription
+@import de.fuberlin.wiwiss.silk.runtime.plugin.Parameter
+
+@dialog(title = "Edit Properties", width = 500) {
+  <div id="plugintabs">
+    <ul>
+      @for(plugin <- plugins) {
+        <li><a href='#@plugin.id'>@plugin.label</a></li>
+      }
+    </ul>
+    @for(plugin <- plugins) {
+      @createTab(plugin)
+    }
+  </div>
+  <script>
+    $(function() {
+      $('#plugintabs').tabs({ @for(obj <- currentObj) { active: @(plugins.indexWhere(_.id == obj.plugin.id)) } });
+    });
+  </script>
+  @contents
+}
+
+@createTab(plugin: PluginDescription[_]) = {
+  <div id='@plugin.id'>
+    @for(line <- plugin.description.split('\n')) {
+      @line
+      <br/>
+    }
+    <table>
+      <tr>
+        <td>name</td>
+        <td><input type="text" name='@(plugin.id)_name' value='@name'/></td>
+      </tr>
+      @for(param <- plugin.parameters) {
+        @createField(plugin.id, param)
+      }
+    </table>
+    <button onclick='@(plugin.id)_submit()'>Ok</button>
+  </div>
+
+  <script type="text/javascript">
+    function @(plugin.id)_submit() {
+      // Retrieve the name of the plugin
+      var name = $('[name=\'@(plugin.id)_name\']').val();
+      if(name.length === 0) {
+        alert("Name is empty.");
+        return;
+      }
+
+      // Retrieve all plugin parameters
+      var parameters = [
+        @for(param <- plugin.parameters) {
+          { name: '@param.name',
+            value: $('[name=\'@(plugin.id)_@(param.name)\']').val() },
+        }
+      ];
+
+      // Submit dialog
+      submit('@plugin.id', name, parameters);
+    }
+  </script>
+}
+
+@**
+ * Creates a new field for a plugin paramter
+ *@
+@createField(pluginId: String, param: Parameter) = @{
+  param.dataType match {
+    case Parameter.Type.Resource => createResourceField(pluginId, param)
+    case _ => createTextField(pluginId, param)
+  }
+}
+
+@createTextField(pluginId: String, param: Parameter) = {
+  <tr>
+    <td>@param.name</td>
+    <td><input type="text" name='@(pluginId)_@(param.name)' title='@param.description' value='@value(pluginId, param)'/></td>
+  </tr>
+}
+
+@createResourceField(pluginId: String, param: Parameter) = {
+  <tr>
+    <td>@param.name</td>
+    <td>
+      @if(resources.isEmpty) {
+        <div style="text-align:center">
+          No resources found!
+        </div>
+      } else {
+        <select name='@(pluginId)_@(param.name)' title='@param.description'>
+          @for(resource <- resources) {
+            <option @if(resource == value(pluginId, param)) { selected="selected" }>@resource</option>
+          }
+        </select>
+      }
+    </td>
+  </tr>
+}
+
+@**
+ * Retrieves the value of a specific paramter
+ *@
+@value(pluginId: String, param: Parameter) = @{
+  currentObj match {
+    case Some(obj) if obj.plugin.id == pluginId => Option(param(obj)).getOrElse("").toString
+    case _ => param.defaultValue.flatMap(Option(_)).getOrElse("").toString
+  }
+}

@@ -1,0 +1,11 @@
+@(title: String, width: Int = 700)(content: Html)
+
+@content
+
+<script type="text/javascript">
+  $(function() {
+    dialog.dialog('option', 'title', '@title');
+    dialog.dialog('option', 'width', @width);
+    $("button[type!='radio'], input:submit, input:checkbox, a.button").button();
+  })
+</script>
