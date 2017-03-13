@@ -69,8 +69,8 @@
     <module>silk-learning</module>
     <module>silk-jena</module>
     <module>silk-singlemachine</module>
-    <module>silk-mapreduce</module>
-    <module>silk-server</module>
+    <!-- <module>silk-mapreduce</module> -->
+    <!-- <module>silk-server</module> -->
     <module>silk-workspace</module>
     <!-- module>silk-workbench</module -->
   </modules>

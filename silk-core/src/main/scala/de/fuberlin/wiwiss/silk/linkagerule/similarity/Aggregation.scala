@@ -57,7 +57,7 @@ case class Aggregation(id: Identifier = Operator.generateId,
     for(op <- operators) {
       val opThreshold = aggregator.computeThreshold(limit, op.weight.toDouble / totalWeights)
       op(entities, opThreshold) match {
-        case Some(v) => weightedValues ::= (op.weight, Some(v))
+        case Some(v) => weightedValues ::= (op.weight, v)
         //we dont care wether the operator is required
         //case None if op.required => return None
         case None => nilOps += 1
@@ -96,11 +96,10 @@ case class Aggregation(id: Identifier = Operator.generateId,
   }
 
   override def toXML(implicit prefixes: Prefixes) = aggregator match {
-    case Aggregator(plugin, params) => {
+    case Aggregator(plugin, params) =>
       <Aggregate id={id} required={required.toString} weight={weight.toString} type={plugin.id}>
         {operators.map(_.toXML)}
       </Aggregate>
-    }
   }
 
 
