@@ -23,9 +23,9 @@ import de.fuberlin.wiwiss.silk.entity.Index
  */
 @Plugin(id = "quadraticMean", label = "Euclidian distance", description = "Calculates the Euclidian distance.")
 case class QuadraticMeanAggregator() extends Aggregator {
-  override def evaluate(values: Traversable[(Int, Double)]) = {
+  override def evaluate(values: Traversable[(Int, Option[Double])]) = {
     if (!values.isEmpty) {
-      val sqDistance = values.map { case (weight, value) => weight * value * value }.reduceLeft(_ + _)
+      val sqDistance = values.map { case (weight, value) => if(value.isDefined) weight * value.get * value.get else 0}.reduceLeft(_ + _)
       val totalWeights = values.map { case (weight, value) => weight }.sum
 
       Some(math.sqrt(sqDistance / totalWeights))

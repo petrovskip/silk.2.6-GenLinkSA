@@ -61,7 +61,7 @@ object DetailedEvaluator {
       }
     }
 
-    val weightedValues = for((weight, Some(value)) <- agg.operators.map(_.weight) zip operatorValues.map(_.score)) yield (weight, value)
+    val weightedValues = for((weight, Some(value)) <- agg.operators.map(_.weight) zip operatorValues.map(_.score)) yield (weight, Some(value))
 
     val aggregatedValue = agg.aggregator.evaluate(weightedValues)
 

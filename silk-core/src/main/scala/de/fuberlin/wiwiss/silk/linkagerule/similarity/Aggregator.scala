@@ -18,7 +18,7 @@ import de.fuberlin.wiwiss.silk.runtime.plugin.{PluginFactory, AnyPlugin}
 import de.fuberlin.wiwiss.silk.entity.Index
 
 trait Aggregator extends AnyPlugin {
-  def evaluate(weightedValues: Traversable[(Int, Double)]): Option[Double]
+  def evaluate(weightedValues: Traversable[(Int, Option[Double])]): Option[Double]
 
   /**
    * Combines two indexes into one.

@@ -27,9 +27,9 @@ import de.fuberlin.wiwiss.silk.entity.Index
   label = "Geometric mean",
   description = "Compute the (weighted) geometric mean.")
 case class GeometricMeanAggregator() extends Aggregator {
-  override def evaluate(values: Traversable[(Int, Double)]) = {
+  override def evaluate(values: Traversable[(Int, Option[Double])]) = {
     if (!values.isEmpty) {
-      val weightedProduct = values.map { case (weight, value) => pow(value, weight) }.reduceLeft(_ * _)
+      val weightedProduct = values.map { case (weight, value) => if(value.isDefined)pow(value.get, weight) else 1 }.reduceLeft(_ * _)
       val totalWeights = values.map { case (weight, value) => weight }.sum
 
       Some(pow(weightedProduct, 1.0 / totalWeights))

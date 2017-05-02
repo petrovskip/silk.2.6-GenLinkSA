@@ -23,16 +23,21 @@ case class MinimumAggregator() extends Aggregator {
   /**
    * Returns the minimum of the provided values.
    */
-  override def evaluate(values: Traversable[(Int, Double)]) = {
+  override def evaluate(values: Traversable[(Int, Option[Double])]) = {
     if (values.isEmpty)
       None
     else {
       var min = Double.MaxValue
+      var allNil = true
       for(value <- values) {
-        if(value._2 < min)
-          min = value._2
+        if (value._2.isDefined) {
+          if(allNil) allNil = false
+          if (value._2.get < min)
+            min = value._2.get
+        }
       }
-      Some(min)
+      if(allNil) None
+      else Some(min)
     }
   }
 

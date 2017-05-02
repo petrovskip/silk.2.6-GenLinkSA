@@ -51,16 +51,19 @@ case class Aggregation(id: Identifier = Operator.generateId,
   override def apply(entities: DPair[Entity], limit: Double): Option[Double] = {
     val totalWeights = operators.foldLeft(0)(_ + _.weight)
 
-    var weightedValues: List[(Int, Double)] = Nil
+    var weightedValues: List[(Int, Option[Double])]= Nil
     //var for the sum of operators which returned None
     var nilOps = 0
     for(op <- operators) {
       val opThreshold = aggregator.computeThreshold(limit, op.weight.toDouble / totalWeights)
       op(entities, opThreshold) match {
-        case Some(v) => weightedValues ::= (op.weight, v)
+        case Some(v) => weightedValues ::= (op.weight, Some(v))
         //we dont care wether the operator is required
         //case None if op.required => return None
-        case None => nilOps += 1
+        case None => {
+          weightedValues ::= (op.weight, None)
+          nilOps += 1
+        }
       }
     }
 

@@ -23,25 +23,33 @@ case class AverageAggregator() extends Aggregator {
   private val positiveWeight: Int = 9
   private val negativeWeight: Int = 10
 
-  override def evaluate(values: Traversable[(Int, Double)]) = {
+  override def evaluate(values: Traversable[(Int, Option[Double])]) = {
     if (!values.isEmpty) {
       var sumWeights = 0
       var sumValues = 0.0
+      var allNil = true
 
       for ((weight, value) <- values) {
-        if (value >= 0.0) {
-          sumWeights += weight * positiveWeight
-          sumValues += weight * positiveWeight * value
+        if(value.isDefined) {
+          if(allNil) allNil = false
+          if (value.get >= 0.0) {
+            sumWeights += weight * positiveWeight
+            sumValues += weight * positiveWeight * value.get
+          }
+          else if (value.get < 0.0) {
+            sumWeights += weight * negativeWeight
+            sumValues += weight * negativeWeight * value.get
+          }
         }
-        else if (value < 0.0) {
+        else{
           sumWeights += weight * negativeWeight
-          sumValues += weight * negativeWeight * value
         }
       }
 
       val average = sumValues / sumWeights
 
-      Some(average)
+      if(allNil) None
+      else Some(average)
     }
     else {
       None

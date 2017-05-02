@@ -44,7 +44,7 @@ object LearningConfiguration {
                         linear: Boolean = true,
                         boolean: Boolean = true,
                         hierarchies: Boolean = true,
-                        transformations: Boolean = true,
+                        transformations: Boolean = false,
                         useSpecializedCrossover: Boolean = true)
 
   /**
@@ -59,7 +59,7 @@ object LearningConfiguration {
    */
   case class Parameters(seed: Boolean = true,
                         populationSize: Int = 500,
-                        maxIterations: Int = 50,
+                        maxIterations: Int = 100,
                         maxIneffectiveIterations: Int = 50,
                         cleanFrequency: Int = 5,
                         destinationfMeasure: Double = 0.999)

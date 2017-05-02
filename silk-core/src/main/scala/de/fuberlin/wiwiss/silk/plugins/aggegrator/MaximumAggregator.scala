@@ -23,16 +23,21 @@ case class MaximumAggregator() extends Aggregator {
   /**
    * Returns the maximum of the provided values.
    */
-  override def evaluate(values: Traversable[(Int, Double)]) = {
+  override def evaluate(values: Traversable[(Int, Option[Double])]) = {
     if (values.isEmpty)
       None
     else {
       var max = Double.MinValue
+      var allNil = true
       for(value <- values) {
-        if(value._2 > max)
-          max = value._2
+        if(value._2.isDefined) {
+          if (allNil) allNil = false
+          if (value._2.get > max)
+            max = value._2.get
+        }
       }
-      Some(max)
+      if(allNil) None
+      else Some(max)
     }
   }
 
