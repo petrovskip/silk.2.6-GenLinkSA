@@ -1,0 +1,37 @@
+<Interlink id="catalog-wdc">
+  <LinkType>&lt;http://www.w3.org/2002/07/owl#sameAs&gt;</LinkType>
+  <SourceDataset dataSource="catalog" var="a">
+    <RestrictTo> ?a ?p ?v . </RestrictTo>
+  </SourceDataset>
+  <TargetDataset dataSource="wdc" var="b">
+    <RestrictTo> ?b ?p ?v . </RestrictTo>
+  </TargetDataset>
+  <LinkageRule>
+    <Aggregate id="unnamed_14" required="true" weight="5" type="average">
+      <Aggregate id="unnamed_16" required="true" weight="8" type="min">
+        <Compare id="unnamed_9" required="true" weight="11" metric="levenshteinDistance" threshold="0.9797649689875638" indexing="true">
+          <Input id="unnamed_4" path="?a/&lt;http://schema.org/Product/phone_type&gt;"/>
+          <Input id="unnamed_3" path="?b/&lt;http://schema.org/Product/phone_type&gt;"/>
+          <Param name="minChar" value="0"/>
+          <Param name="maxChar" value="z"/>
+        </Compare>
+        <Compare id="unnamed_11" required="true" weight="5" metric="equality" threshold="0.9456367385246816" indexing="true">
+          <Input id="unnamed_6" path="?a/&lt;http://schema.org/Product/memory&gt;"/>
+          <Input id="unnamed_5" path="?b/&lt;http://schema.org/Product/memory&gt;"/>
+        </Compare>
+      </Aggregate>
+      <Aggregate id="unnamed_15" required="true" weight="1" type="average">
+        <Compare id="unnamed_13" required="true" weight="1" metric="jaccard" threshold="0.5" indexing="true">
+          <Input id="unnamed_8" path="?a/&lt;http://schema.org/Product/display_size&gt;"/>
+          <Input id="unnamed_7" path="?b/&lt;http://schema.org/Product/display_size&gt;"/>
+        </Compare>
+        <Compare id="unnamed_10" required="true" weight="3" metric="equality" threshold="0.38" indexing="true">
+          <Input id="unnamed_1" path="?a/&lt;http://schema.org/Product/brand&gt;"/>
+          <Input id="unnamed_2" path="?b/&lt;http://schema.org/Product/brand&gt;"/>
+        </Compare>
+      </Aggregate>
+    </Aggregate>
+  </LinkageRule>
+  <Filter/>
+  <Outputs> </Outputs>
+</Interlink>

@@ -40,16 +40,18 @@ case class AverageAggregator() extends Aggregator {
             sumWeights += weight * negativeWeight
             sumValues += weight * negativeWeight * value.get
           }
-        }
-        else{
-          sumWeights += weight * negativeWeight
-        }
+       }
+//        else{
+//          sumWeights += weight * negativeWeight
+//        }
       }
 
-      val average = sumValues / sumWeights
 
       if(allNil) None
-      else Some(average)
+      else {
+        val average = sumValues / sumWeights
+        Some(average)
+      }
     }
     else {
       None

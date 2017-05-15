@@ -23,7 +23,10 @@ import de.fuberlin.wiwiss.silk.linkagerule.{input, LinkageRule}
 /**
  * Generates a new population of linkage rules.
  */
-class GeneratePopulationTask(seedLinkageRules: Traversable[LinkageRule], generator: LinkageRuleGenerator, config: LearningConfiguration) extends Task[Population] {
+class GeneratePopulationTask(seedLinkageRules: Traversable[LinkageRule],
+                             fitnessFunction: (LinkageRule => Double),
+                             generator: LinkageRuleGenerator,
+                             config: LearningConfiguration) extends Task[Population] {
 
   override def execute(): Population = {
     val individuals = for(i <- (0 until config.params.populationSize).par) yield {
@@ -36,7 +39,7 @@ class GeneratePopulationTask(seedLinkageRules: Traversable[LinkageRule], generat
 
   private def generateIndividual(): Individual = {
     val linkageRule = generateRule()
-    Individual(linkageRule, 0.0)
+    Individual(linkageRule, fitnessFunction(linkageRule.build))
   }
 
   private def generateRule() = {

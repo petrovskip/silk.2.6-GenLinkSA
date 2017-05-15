@@ -49,11 +49,13 @@ class ActiveLearningTask(config: LearningConfiguration,
       LinkageRuleGenerator(referenceEntities merge ReferenceEntities.fromEntities(pool.map(_.entities.get), Nil), config.components)
     }
     val targetFitness = if(population.isEmpty) 1.0 else population.bestIndividual.fitness
-    
-    buildPopulation(generator)
 
     val completeEntities = Timer("CompleteReferenceLinks") { CompleteReferenceLinks(referenceEntities, pool, population) }
     val fitnessFunction = config.fitnessFunction(completeEntities)
+    
+    buildPopulation(generator, fitnessFunction)
+
+
     
     updatePopulation(generator, targetFitness, completeEntities, fitnessFunction)
 
@@ -81,11 +83,11 @@ class ActiveLearningTask(config: LearningConfiguration,
     pool = pool.filterNot(referenceEntities.positive.contains).filterNot(referenceEntities.negative.contains)
   }
   
-  private def buildPopulation(generator: LinkageRuleGenerator) = Timer("Generating population") {
+  private def buildPopulation(generator: LinkageRuleGenerator, fitnessFunction: (LinkageRule => Double)) = Timer("Generating population") {
     if(population.isEmpty) {
       updateStatus("Generating population", 0.5)
       val seedRules = if(config.params.seed) linkSpec.rule :: Nil else Nil
-      population = executeSubTask(new GeneratePopulationTask(seedRules, generator, config), 0.6, silent = true)
+      population = executeSubTask(new GeneratePopulationTask(seedRules,fitnessFunction, generator, config), 0.6, silent = true)
     }
   }
   

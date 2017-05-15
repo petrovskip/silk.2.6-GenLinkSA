@@ -75,7 +75,7 @@ class CompatiblePathsGenerator(components: Components) {
   private def createGenerators(pathPair: DPair[Path]) = {
     new ComparisonGenerator(InputGenerator.fromPathPair(pathPair, components.transformations), FunctionNode("levenshteinDistance", Nil, DistanceMeasure), 2.0) ::
     new ComparisonGenerator(InputGenerator.fromPathPair(pathPair, components.transformations), FunctionNode("jaccard", Nil, DistanceMeasure), 1.0) ::
-    new ComparisonGenerator(InputGenerator.fromPathPair(pathPair, components.transformations), FunctionNode("date", Nil, DistanceMeasure), 1000.0) :: Nil
+    new ComparisonGenerator(InputGenerator.fromPathPair(pathPair, components.transformations), FunctionNode("equality", Nil, DistanceMeasure), 1.0) :: Nil
   }
 
   /**

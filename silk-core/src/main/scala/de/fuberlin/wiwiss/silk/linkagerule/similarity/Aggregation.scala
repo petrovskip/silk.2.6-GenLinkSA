@@ -35,7 +35,7 @@ case class Aggregation(id: Identifier = Operator.generateId,
   //require(!operators.isEmpty, "!operators.isEmpty")
 
   //constant penalty factor (0.01, 0.03, 0.05)
-  val alpha = 0.01
+  val alpha = 0.05
 
   def indexing = operators.exists(_.indexing)
 

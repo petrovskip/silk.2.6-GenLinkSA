@@ -56,7 +56,7 @@ class LearningTask(input: LearningInput = LearningInput.empty,
     val generator = LinkageRuleGenerator(referenceEntities, config.components)
 
     //Generate initial population
-    if(!stop) executeTask(new GeneratePopulationTask(input.seedLinkageRules, generator, config))
+    if(!stop) executeTask(new GeneratePopulationTask(input.seedLinkageRules, fitnessFunction, generator, config))
 
     while (!stop && !value.get.status.isInstanceOf[LearningResult.Finished]) {
       executeTask(new ReproductionTask(value.get.population, fitnessFunction, generator, config))
@@ -101,6 +101,8 @@ class LearningTask(input: LearningInput = LearningInput.empty,
         LearningResult.Running
 
     val bestRule = population.bestIndividual.node.build
+    println(bestRule) // print best rule
+    //println(bestRule.toXML) //copy XML in  linkspec
 
     val result =
       LearningResult(

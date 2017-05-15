@@ -58,9 +58,9 @@ object LearningConfiguration {
    * @param destinationfMeasure The desired fMeasure. The algorithm will stop after reaching it.
    */
   case class Parameters(seed: Boolean = true,
-                        populationSize: Int = 500,
+                        populationSize: Int = 1000,
                         maxIterations: Int = 100,
                         maxIneffectiveIterations: Int = 50,
-                        cleanFrequency: Int = 5,
+                        cleanFrequency: Int = 2,
                         destinationfMeasure: Double = 0.999)
 }

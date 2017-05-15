@@ -112,4 +112,14 @@ object Experiment {
                        LearningConfiguration("Our Approach", active = ActiveLearningConfiguration(selector = JensenShannonDivergenceSelector())):: Nil,
       metrics = MaxFMeasure(10) :: Nil
     )
+
+
+  /**
+    * Product data.
+    */
+  val phones =
+    Experiment("Phones",
+      configurations = LearningConfiguration("Phones") :: Nil,
+      metrics = Nil
+    )
 }

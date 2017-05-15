@@ -42,21 +42,21 @@ class ReproductionTask(population: Population,
     val count = individuals.size - config.reproduction.elitismCount
 
     val offspring = for(i <- (0 until count).par) yield {
-      updateStatus(i.toDouble / count); reproduce()
+      updateStatus(i.toDouble / count); reproduce(individuals.sortBy(-_.fitness).drop(config.reproduction.elitismCount))
     }
 
     Population(elite ++ offspring)
   }
 
-  private def reproduce(): Individual = {
+  private def reproduce(pop : Array[Individual]): Individual = {
     if(Random.nextDouble < config.reproduction.mutationProbability)
-      mutation(select())
+      mutation(select(pop))
     else
-      crossover(select(), select())
+      crossover(select(pop), select(pop))
   }
 
-  private def select(): Individual = {
-    val tournamentNodes = List.fill(config.reproduction.tournamentSize)(individuals(Random.nextInt(individuals.size)))
+  private def select(pop : Array[Individual]): Individual = {
+    val tournamentNodes = List.fill(config.reproduction.tournamentSize)(pop(Random.nextInt(pop.size)))
 
     tournamentNodes.reduceLeft((n1, n2) => if (n1.fitness > n2.fitness) n1 else n2)
   }

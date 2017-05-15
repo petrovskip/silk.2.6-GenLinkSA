@@ -19,13 +19,13 @@ import de.fuberlin.wiwiss.silk.linkagerule.similarity.{Comparison, Aggregation, 
 import de.fuberlin.wiwiss.silk.evaluation.{LinkageRuleEvaluator, ReferenceEntities}
 import math.max
 
-case class MCCFitnessFunction(sizePenalty: Double = 0.005) extends FitnessFunction {
+case class MCCFitnessFunction(sizePenalty: Double = 0.001) extends FitnessFunction {
 
   def apply(referenceEntities: ReferenceEntities) = { (linkageRule: LinkageRule) =>
     val score = LinkageRuleEvaluator(linkageRule, referenceEntities).score
     val penalty = linkageRule.operator.map(countComparisons).getOrElse(0) * sizePenalty
 
-    max(score - penalty, 0.0)
+    max(score - penalty , 0.0) // for penalty
   }
 
   private def countComparisons(op: SimilarityOperator): Int = op match {

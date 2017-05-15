@@ -1,0 +1,1500 @@
+<http://dws.products.catalog/19bbcbe4-5d36-43e0-9b23-e6a76e96f751> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://dws.products.catalog/19bbcbe4-5d36-43e0-9b23-e6a76e96f751> <http://schema.org/Product/ram> "1gb" .
+<http://dws.products.catalog/19bbcbe4-5d36-43e0-9b23-e6a76e96f751> <http://schema.org/Product/memory> "16gb" .
+<http://dws.products.catalog/19bbcbe4-5d36-43e0-9b23-e6a76e96f751> <http://schema.org/Product/brand> "apple" .
+<http://dws.products.catalog/19bbcbe4-5d36-43e0-9b23-e6a76e96f751> <http://schema.org/Product/phone_type> "iphone 6" .
+<http://dws.products.catalog/19bbcbe4-5d36-43e0-9b23-e6a76e96f751> <http://schema.org/Product/computer_operating_system> "ios 8" .
+<http://dws.products.catalog/19bbcbe4-5d36-43e0-9b23-e6a76e96f751> <http://schema.org/Product/phone_carrier> "verizon wireless" .
+<http://dws.products.catalog/19bbcbe4-5d36-43e0-9b23-e6a76e96f751> <http://schema.org/Product/product_type> "smartphone" .
+<http://dws.products.catalog/19bbcbe4-5d36-43e0-9b23-e6a76e96f751> <http://schema.org/Product/core_count> "null" .
+<http://dws.products.catalog/19bbcbe4-5d36-43e0-9b23-e6a76e96f751> <http://schema.org/Product/processor_type> "a8" .
+<http://dws.products.catalog/19bbcbe4-5d36-43e0-9b23-e6a76e96f751> <http://schema.org/Product/rear_cam_resolution> "8 mp" .
+<http://dws.products.catalog/19bbcbe4-5d36-43e0-9b23-e6a76e96f751> <http://schema.org/Product/front_cam_resolution> "1.2 mp" .
+<http://dws.products.catalog/19bbcbe4-5d36-43e0-9b23-e6a76e96f751> <http://schema.org/Product/color> "space gray|silver|gold" .
+<http://dws.products.catalog/19bbcbe4-5d36-43e0-9b23-e6a76e96f751> <http://schema.org/Product/wattage> "" .
+<http://dws.products.catalog/19bbcbe4-5d36-43e0-9b23-e6a76e96f751> <http://schema.org/Product/power_supply> "" .
+<http://dws.products.catalog/19bbcbe4-5d36-43e0-9b23-e6a76e96f751> <http://schema.org/Product/display_size> "4.7 in" .
+<http://dws.products.catalog/19bbcbe4-5d36-43e0-9b23-e6a76e96f751> <http://schema.org/Product/display_resolution> "750 x 1334 pixels" .
+<http://dws.products.catalog/19bbcbe4-5d36-43e0-9b23-e6a76e96f751> <http://schema.org/Product/voltage> "1810 mah" .
+<http://dws.products.catalog/19bbcbe4-5d36-43e0-9b23-e6a76e96f751> <http://schema.org/Product/mpn> "mg5w2ll/a" .
+<http://dws.products.catalog/19bbcbe4-5d36-43e0-9b23-e6a76e96f751> <http://schema.org/Product/modelnum> "" .
+<http://dws.products.catalog/19bbcbe4-5d36-43e0-9b23-e6a76e96f751> <http://schema.org/Product/width> "2.6 in" .
+<http://dws.products.catalog/19bbcbe4-5d36-43e0-9b23-e6a76e96f751> <http://schema.org/Product/height> "5.4 in" .
+<http://dws.products.catalog/19bbcbe4-5d36-43e0-9b23-e6a76e96f751> <http://schema.org/Product/depth> "0.3 in" .
+<http://dws.products.catalog/19bbcbe4-5d36-43e0-9b23-e6a76e96f751> <http://schema.org/Product/weight> "6.1oz" .
+<http://dws.products.catalog/19bbcbe4-5d36-43e0-9b23-e6a76e96f751> <http://schema.org/Product/dimensions> "138.1 x 67 x 6.9 mm" .
+<http://dws.products.catalog/19bbcbe4-5d36-43e0-9b23-e6a76e96f751> <http://schema.org/Product/body_material> "stainless steel, glass, anodized aluminum" .
+<http://dws.products.catalog/19bbcbe4-5d36-43e0-9b23-e6a76e96f751> <http://schema.org/Product/package_height> "" .
+<http://dws.products.catalog/19bbcbe4-5d36-43e0-9b23-e6a76e96f751> <http://schema.org/Product/product_code> "" .
+<http://dws.products.catalog/19bbcbe4-5d36-43e0-9b23-e6a76e96f751> <http://schema.org/Product/product_gtin> "00885909950928" .
+<http://dws.products.catalog/19bbcbe4-5d36-43e0-9b23-e6a76e96f751> <http://schema.org/Product/manufacturer> "" .
+<http://dws.products.catalog/a7b16fc1-3a7d-4265-b4a6-a1a1cd548b80> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://dws.products.catalog/a7b16fc1-3a7d-4265-b4a6-a1a1cd548b80> <http://schema.org/Product/ram> "1gb" .
+<http://dws.products.catalog/a7b16fc1-3a7d-4265-b4a6-a1a1cd548b80> <http://schema.org/Product/memory> "64gb" .
+<http://dws.products.catalog/a7b16fc1-3a7d-4265-b4a6-a1a1cd548b80> <http://schema.org/Product/brand> "apple" .
+<http://dws.products.catalog/a7b16fc1-3a7d-4265-b4a6-a1a1cd548b80> <http://schema.org/Product/phone_type> "iphone 6" .
+<http://dws.products.catalog/a7b16fc1-3a7d-4265-b4a6-a1a1cd548b80> <http://schema.org/Product/computer_operating_system> "ios 8" .
+<http://dws.products.catalog/a7b16fc1-3a7d-4265-b4a6-a1a1cd548b80> <http://schema.org/Product/phone_carrier> "verizon wireless" .
+<http://dws.products.catalog/a7b16fc1-3a7d-4265-b4a6-a1a1cd548b80> <http://schema.org/Product/product_type> "smartphone" .
+<http://dws.products.catalog/a7b16fc1-3a7d-4265-b4a6-a1a1cd548b80> <http://schema.org/Product/core_count> "null" .
+<http://dws.products.catalog/a7b16fc1-3a7d-4265-b4a6-a1a1cd548b80> <http://schema.org/Product/processor_type> "a8" .
+<http://dws.products.catalog/a7b16fc1-3a7d-4265-b4a6-a1a1cd548b80> <http://schema.org/Product/rear_cam_resolution> "8 mp" .
+<http://dws.products.catalog/a7b16fc1-3a7d-4265-b4a6-a1a1cd548b80> <http://schema.org/Product/front_cam_resolution> "1.2 mp" .
+<http://dws.products.catalog/a7b16fc1-3a7d-4265-b4a6-a1a1cd548b80> <http://schema.org/Product/color> "space gray|silver|gold" .
+<http://dws.products.catalog/a7b16fc1-3a7d-4265-b4a6-a1a1cd548b80> <http://schema.org/Product/wattage> "" .
+<http://dws.products.catalog/a7b16fc1-3a7d-4265-b4a6-a1a1cd548b80> <http://schema.org/Product/power_supply> "" .
+<http://dws.products.catalog/a7b16fc1-3a7d-4265-b4a6-a1a1cd548b80> <http://schema.org/Product/display_size> "4.7 in" .
+<http://dws.products.catalog/a7b16fc1-3a7d-4265-b4a6-a1a1cd548b80> <http://schema.org/Product/display_resolution> "750 x 1334 pixels" .
+<http://dws.products.catalog/a7b16fc1-3a7d-4265-b4a6-a1a1cd548b80> <http://schema.org/Product/voltage> "1810 mah" .
+<http://dws.products.catalog/a7b16fc1-3a7d-4265-b4a6-a1a1cd548b80> <http://schema.org/Product/mpn> "mg642ll/a" .
+<http://dws.products.catalog/a7b16fc1-3a7d-4265-b4a6-a1a1cd548b80> <http://schema.org/Product/modelnum> "" .
+<http://dws.products.catalog/a7b16fc1-3a7d-4265-b4a6-a1a1cd548b80> <http://schema.org/Product/width> "2.6 in" .
+<http://dws.products.catalog/a7b16fc1-3a7d-4265-b4a6-a1a1cd548b80> <http://schema.org/Product/height> "5.4 in" .
+<http://dws.products.catalog/a7b16fc1-3a7d-4265-b4a6-a1a1cd548b80> <http://schema.org/Product/depth> "0.3 in" .
+<http://dws.products.catalog/a7b16fc1-3a7d-4265-b4a6-a1a1cd548b80> <http://schema.org/Product/weight> "4.5 oz" .
+<http://dws.products.catalog/a7b16fc1-3a7d-4265-b4a6-a1a1cd548b80> <http://schema.org/Product/dimensions> "138.1 x 67 x 6.9 mm" .
+<http://dws.products.catalog/a7b16fc1-3a7d-4265-b4a6-a1a1cd548b80> <http://schema.org/Product/body_material> "stainless steel, glass, anodized aluminum" .
+<http://dws.products.catalog/a7b16fc1-3a7d-4265-b4a6-a1a1cd548b80> <http://schema.org/Product/package_height> "" .
+<http://dws.products.catalog/a7b16fc1-3a7d-4265-b4a6-a1a1cd548b80> <http://schema.org/Product/product_code> "" .
+<http://dws.products.catalog/a7b16fc1-3a7d-4265-b4a6-a1a1cd548b80> <http://schema.org/Product/product_gtin> "00885909950997" .
+<http://dws.products.catalog/a7b16fc1-3a7d-4265-b4a6-a1a1cd548b80> <http://schema.org/Product/manufacturer> "" .
+<http://dws.products.catalog/110d9912-96fd-4b0c-a95f-cf61b2adb406> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://dws.products.catalog/110d9912-96fd-4b0c-a95f-cf61b2adb406> <http://schema.org/Product/ram> "1gb" .
+<http://dws.products.catalog/110d9912-96fd-4b0c-a95f-cf61b2adb406> <http://schema.org/Product/memory> "128gb" .
+<http://dws.products.catalog/110d9912-96fd-4b0c-a95f-cf61b2adb406> <http://schema.org/Product/brand> "apple" .
+<http://dws.products.catalog/110d9912-96fd-4b0c-a95f-cf61b2adb406> <http://schema.org/Product/phone_type> "iphone 6 plus" .
+<http://dws.products.catalog/110d9912-96fd-4b0c-a95f-cf61b2adb406> <http://schema.org/Product/computer_operating_system> "ios 8" .
+<http://dws.products.catalog/110d9912-96fd-4b0c-a95f-cf61b2adb406> <http://schema.org/Product/phone_carrier> "verizon wireless" .
+<http://dws.products.catalog/110d9912-96fd-4b0c-a95f-cf61b2adb406> <http://schema.org/Product/product_type> "smartphone" .
+<http://dws.products.catalog/110d9912-96fd-4b0c-a95f-cf61b2adb406> <http://schema.org/Product/core_count> "null" .
+<http://dws.products.catalog/110d9912-96fd-4b0c-a95f-cf61b2adb406> <http://schema.org/Product/processor_type> "a8" .
+<http://dws.products.catalog/110d9912-96fd-4b0c-a95f-cf61b2adb406> <http://schema.org/Product/rear_cam_resolution> "8 mp" .
+<http://dws.products.catalog/110d9912-96fd-4b0c-a95f-cf61b2adb406> <http://schema.org/Product/front_cam_resolution> "1.2 mp" .
+<http://dws.products.catalog/110d9912-96fd-4b0c-a95f-cf61b2adb406> <http://schema.org/Product/color> "space gray|silver|gold" .
+<http://dws.products.catalog/110d9912-96fd-4b0c-a95f-cf61b2adb406> <http://schema.org/Product/wattage> "" .
+<http://dws.products.catalog/110d9912-96fd-4b0c-a95f-cf61b2adb406> <http://schema.org/Product/power_supply> "" .
+<http://dws.products.catalog/110d9912-96fd-4b0c-a95f-cf61b2adb406> <http://schema.org/Product/display_size> "5.5 in" .
+<http://dws.products.catalog/110d9912-96fd-4b0c-a95f-cf61b2adb406> <http://schema.org/Product/display_resolution> "1920 x 1080 pixels" .
+<http://dws.products.catalog/110d9912-96fd-4b0c-a95f-cf61b2adb406> <http://schema.org/Product/voltage> "2915 mah" .
+<http://dws.products.catalog/110d9912-96fd-4b0c-a95f-cf61b2adb406> <http://schema.org/Product/mpn> "mgcn2ll/a" .
+<http://dws.products.catalog/110d9912-96fd-4b0c-a95f-cf61b2adb406> <http://schema.org/Product/modelnum> "" .
+<http://dws.products.catalog/110d9912-96fd-4b0c-a95f-cf61b2adb406> <http://schema.org/Product/width> "3.1 in" .
+<http://dws.products.catalog/110d9912-96fd-4b0c-a95f-cf61b2adb406> <http://schema.org/Product/height> "6.2 in" .
+<http://dws.products.catalog/110d9912-96fd-4b0c-a95f-cf61b2adb406> <http://schema.org/Product/depth> "0.3 in" .
+<http://dws.products.catalog/110d9912-96fd-4b0c-a95f-cf61b2adb406> <http://schema.org/Product/weight> "6.07 oz" .
+<http://dws.products.catalog/110d9912-96fd-4b0c-a95f-cf61b2adb406> <http://schema.org/Product/dimensions> "158.1 x 77.8 x 7.1 mm" .
+<http://dws.products.catalog/110d9912-96fd-4b0c-a95f-cf61b2adb406> <http://schema.org/Product/body_material> "stainless steel, glass, anodized aluminum" .
+<http://dws.products.catalog/110d9912-96fd-4b0c-a95f-cf61b2adb406> <http://schema.org/Product/package_height> "" .
+<http://dws.products.catalog/110d9912-96fd-4b0c-a95f-cf61b2adb406> <http://schema.org/Product/product_code> "" .
+<http://dws.products.catalog/110d9912-96fd-4b0c-a95f-cf61b2adb406> <http://schema.org/Product/product_gtin> "00885909971558" .
+<http://dws.products.catalog/110d9912-96fd-4b0c-a95f-cf61b2adb406> <http://schema.org/Product/manufacturer> "" .
+<http://dws.products.catalog/9d6d80b5-cc25-4f52-831e-7cc8f11f69c1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://dws.products.catalog/9d6d80b5-cc25-4f52-831e-7cc8f11f69c1> <http://schema.org/Product/ram> "512mb" .
+<http://dws.products.catalog/9d6d80b5-cc25-4f52-831e-7cc8f11f69c1> <http://schema.org/Product/memory> "16gb" .
+<http://dws.products.catalog/9d6d80b5-cc25-4f52-831e-7cc8f11f69c1> <http://schema.org/Product/brand> "apple" .
+<http://dws.products.catalog/9d6d80b5-cc25-4f52-831e-7cc8f11f69c1> <http://schema.org/Product/phone_type> "iphone 4" .
+<http://dws.products.catalog/9d6d80b5-cc25-4f52-831e-7cc8f11f69c1> <http://schema.org/Product/computer_operating_system> "ios 4" .
+<http://dws.products.catalog/9d6d80b5-cc25-4f52-831e-7cc8f11f69c1> <http://schema.org/Product/phone_carrier> "verizon wireless" .
+<http://dws.products.catalog/9d6d80b5-cc25-4f52-831e-7cc8f11f69c1> <http://schema.org/Product/product_type> "smartphone" .
+<http://dws.products.catalog/9d6d80b5-cc25-4f52-831e-7cc8f11f69c1> <http://schema.org/Product/core_count> "null" .
+<http://dws.products.catalog/9d6d80b5-cc25-4f52-831e-7cc8f11f69c1> <http://schema.org/Product/processor_type> "a4" .
+<http://dws.products.catalog/9d6d80b5-cc25-4f52-831e-7cc8f11f69c1> <http://schema.org/Product/rear_cam_resolution> "5 mp" .
+<http://dws.products.catalog/9d6d80b5-cc25-4f52-831e-7cc8f11f69c1> <http://schema.org/Product/front_cam_resolution> "" .
+<http://dws.products.catalog/9d6d80b5-cc25-4f52-831e-7cc8f11f69c1> <http://schema.org/Product/color> "black|white" .
+<http://dws.products.catalog/9d6d80b5-cc25-4f52-831e-7cc8f11f69c1> <http://schema.org/Product/wattage> "" .
+<http://dws.products.catalog/9d6d80b5-cc25-4f52-831e-7cc8f11f69c1> <http://schema.org/Product/power_supply> "" .
+<http://dws.products.catalog/9d6d80b5-cc25-4f52-831e-7cc8f11f69c1> <http://schema.org/Product/display_size> "3.5 in" .
+<http://dws.products.catalog/9d6d80b5-cc25-4f52-831e-7cc8f11f69c1> <http://schema.org/Product/display_resolution> "960 x 640 pixels" .
+<http://dws.products.catalog/9d6d80b5-cc25-4f52-831e-7cc8f11f69c1> <http://schema.org/Product/voltage> "1420 mah" .
+<http://dws.products.catalog/9d6d80b5-cc25-4f52-831e-7cc8f11f69c1> <http://schema.org/Product/mpn> "mc676ll/a" .
+<http://dws.products.catalog/9d6d80b5-cc25-4f52-831e-7cc8f11f69c1> <http://schema.org/Product/modelnum> "" .
+<http://dws.products.catalog/9d6d80b5-cc25-4f52-831e-7cc8f11f69c1> <http://schema.org/Product/width> "2.3 in" .
+<http://dws.products.catalog/9d6d80b5-cc25-4f52-831e-7cc8f11f69c1> <http://schema.org/Product/height> "4.5 in" .
+<http://dws.products.catalog/9d6d80b5-cc25-4f52-831e-7cc8f11f69c1> <http://schema.org/Product/depth> "0.4 in" .
+<http://dws.products.catalog/9d6d80b5-cc25-4f52-831e-7cc8f11f69c1> <http://schema.org/Product/weight> "4.8 oz" .
+<http://dws.products.catalog/9d6d80b5-cc25-4f52-831e-7cc8f11f69c1> <http://schema.org/Product/dimensions> "115.2 x 58.6 x 9.3 mm" .
+<http://dws.products.catalog/9d6d80b5-cc25-4f52-831e-7cc8f11f69c1> <http://schema.org/Product/body_material> "stainless steel, glass" .
+<http://dws.products.catalog/9d6d80b5-cc25-4f52-831e-7cc8f11f69c1> <http://schema.org/Product/package_height> "" .
+<http://dws.products.catalog/9d6d80b5-cc25-4f52-831e-7cc8f11f69c1> <http://schema.org/Product/product_code> "" .
+<http://dws.products.catalog/9d6d80b5-cc25-4f52-831e-7cc8f11f69c1> <http://schema.org/Product/product_gtin> "00885909406487, 00885909420438" .
+<http://dws.products.catalog/9d6d80b5-cc25-4f52-831e-7cc8f11f69c1> <http://schema.org/Product/manufacturer> "" .
+<http://dws.products.catalog/6ea11f61-95ca-4815-a078-2d6f4359558b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://dws.products.catalog/6ea11f61-95ca-4815-a078-2d6f4359558b> <http://schema.org/Product/ram> "512mb" .
+<http://dws.products.catalog/6ea11f61-95ca-4815-a078-2d6f4359558b> <http://schema.org/Product/memory> "32gb" .
+<http://dws.products.catalog/6ea11f61-95ca-4815-a078-2d6f4359558b> <http://schema.org/Product/brand> "apple" .
+<http://dws.products.catalog/6ea11f61-95ca-4815-a078-2d6f4359558b> <http://schema.org/Product/phone_type> "iphone 4" .
+<http://dws.products.catalog/6ea11f61-95ca-4815-a078-2d6f4359558b> <http://schema.org/Product/computer_operating_system> "ios 4" .
+<http://dws.products.catalog/6ea11f61-95ca-4815-a078-2d6f4359558b> <http://schema.org/Product/phone_carrier> "verizon wireless" .
+<http://dws.products.catalog/6ea11f61-95ca-4815-a078-2d6f4359558b> <http://schema.org/Product/product_type> "smartphone" .
+<http://dws.products.catalog/6ea11f61-95ca-4815-a078-2d6f4359558b> <http://schema.org/Product/core_count> "null" .
+<http://dws.products.catalog/6ea11f61-95ca-4815-a078-2d6f4359558b> <http://schema.org/Product/processor_type> "a4" .
+<http://dws.products.catalog/6ea11f61-95ca-4815-a078-2d6f4359558b> <http://schema.org/Product/rear_cam_resolution> "5 mp" .
+<http://dws.products.catalog/6ea11f61-95ca-4815-a078-2d6f4359558b> <http://schema.org/Product/front_cam_resolution> "" .
+<http://dws.products.catalog/6ea11f61-95ca-4815-a078-2d6f4359558b> <http://schema.org/Product/color> "black|white" .
+<http://dws.products.catalog/6ea11f61-95ca-4815-a078-2d6f4359558b> <http://schema.org/Product/wattage> "" .
+<http://dws.products.catalog/6ea11f61-95ca-4815-a078-2d6f4359558b> <http://schema.org/Product/power_supply> "" .
+<http://dws.products.catalog/6ea11f61-95ca-4815-a078-2d6f4359558b> <http://schema.org/Product/display_size> "3.5 in" .
+<http://dws.products.catalog/6ea11f61-95ca-4815-a078-2d6f4359558b> <http://schema.org/Product/display_resolution> "960 x 640 pixels" .
+<http://dws.products.catalog/6ea11f61-95ca-4815-a078-2d6f4359558b> <http://schema.org/Product/voltage> "1420 mah" .
+<http://dws.products.catalog/6ea11f61-95ca-4815-a078-2d6f4359558b> <http://schema.org/Product/mpn> "mc679ll/a" .
+<http://dws.products.catalog/6ea11f61-95ca-4815-a078-2d6f4359558b> <http://schema.org/Product/modelnum> "" .
+<http://dws.products.catalog/6ea11f61-95ca-4815-a078-2d6f4359558b> <http://schema.org/Product/width> "2.3 in" .
+<http://dws.products.catalog/6ea11f61-95ca-4815-a078-2d6f4359558b> <http://schema.org/Product/height> "4.5 in" .
+<http://dws.products.catalog/6ea11f61-95ca-4815-a078-2d6f4359558b> <http://schema.org/Product/depth> "0.4 in" .
+<http://dws.products.catalog/6ea11f61-95ca-4815-a078-2d6f4359558b> <http://schema.org/Product/weight> "4.8 oz" .
+<http://dws.products.catalog/6ea11f61-95ca-4815-a078-2d6f4359558b> <http://schema.org/Product/dimensions> "115.2 x 58.6 x 9.3 mm" .
+<http://dws.products.catalog/6ea11f61-95ca-4815-a078-2d6f4359558b> <http://schema.org/Product/body_material> "stainless steel, glass" .
+<http://dws.products.catalog/6ea11f61-95ca-4815-a078-2d6f4359558b> <http://schema.org/Product/package_height> "" .
+<http://dws.products.catalog/6ea11f61-95ca-4815-a078-2d6f4359558b> <http://schema.org/Product/product_code> "" .
+<http://dws.products.catalog/6ea11f61-95ca-4815-a078-2d6f4359558b> <http://schema.org/Product/product_gtin> "00885909420469" .
+<http://dws.products.catalog/6ea11f61-95ca-4815-a078-2d6f4359558b> <http://schema.org/Product/manufacturer> "" .
+<http://dws.products.catalog/16446ad3-5a1e-4080-b9c4-dd5d5ad32e3a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://dws.products.catalog/16446ad3-5a1e-4080-b9c4-dd5d5ad32e3a> <http://schema.org/Product/ram> "3gb" .
+<http://dws.products.catalog/16446ad3-5a1e-4080-b9c4-dd5d5ad32e3a> <http://schema.org/Product/memory> "32gb" .
+<http://dws.products.catalog/16446ad3-5a1e-4080-b9c4-dd5d5ad32e3a> <http://schema.org/Product/brand> "samsung" .
+<http://dws.products.catalog/16446ad3-5a1e-4080-b9c4-dd5d5ad32e3a> <http://schema.org/Product/phone_type> "galaxy s6" .
+<http://dws.products.catalog/16446ad3-5a1e-4080-b9c4-dd5d5ad32e3a> <http://schema.org/Product/computer_operating_system> "android 5.0 (lollipop)" .
+<http://dws.products.catalog/16446ad3-5a1e-4080-b9c4-dd5d5ad32e3a> <http://schema.org/Product/phone_carrier> "verizon wireless" .
+<http://dws.products.catalog/16446ad3-5a1e-4080-b9c4-dd5d5ad32e3a> <http://schema.org/Product/product_type> "smartphone" .
+<http://dws.products.catalog/16446ad3-5a1e-4080-b9c4-dd5d5ad32e3a> <http://schema.org/Product/core_count> "8" .
+<http://dws.products.catalog/16446ad3-5a1e-4080-b9c4-dd5d5ad32e3a> <http://schema.org/Product/processor_type> "exynos 7 octa" .
+<http://dws.products.catalog/16446ad3-5a1e-4080-b9c4-dd5d5ad32e3a> <http://schema.org/Product/rear_cam_resolution> "16 mp" .
+<http://dws.products.catalog/16446ad3-5a1e-4080-b9c4-dd5d5ad32e3a> <http://schema.org/Product/front_cam_resolution> "5 mp" .
+<http://dws.products.catalog/16446ad3-5a1e-4080-b9c4-dd5d5ad32e3a> <http://schema.org/Product/color> "white pearl|black sapphire|gold platinum|blue topaz" .
+<http://dws.products.catalog/16446ad3-5a1e-4080-b9c4-dd5d5ad32e3a> <http://schema.org/Product/wattage> "" .
+<http://dws.products.catalog/16446ad3-5a1e-4080-b9c4-dd5d5ad32e3a> <http://schema.org/Product/power_supply> "" .
+<http://dws.products.catalog/16446ad3-5a1e-4080-b9c4-dd5d5ad32e3a> <http://schema.org/Product/display_size> "5.1 in" .
+<http://dws.products.catalog/16446ad3-5a1e-4080-b9c4-dd5d5ad32e3a> <http://schema.org/Product/display_resolution> "2560 x 1440 pixels" .
+<http://dws.products.catalog/16446ad3-5a1e-4080-b9c4-dd5d5ad32e3a> <http://schema.org/Product/voltage> "2550 mah" .
+<http://dws.products.catalog/16446ad3-5a1e-4080-b9c4-dd5d5ad32e3a> <http://schema.org/Product/mpn> "sm-g920vzkavzw|smg920vzka" .
+<http://dws.products.catalog/16446ad3-5a1e-4080-b9c4-dd5d5ad32e3a> <http://schema.org/Product/modelnum> "" .
+<http://dws.products.catalog/16446ad3-5a1e-4080-b9c4-dd5d5ad32e3a> <http://schema.org/Product/width> "2.8 in" .
+<http://dws.products.catalog/16446ad3-5a1e-4080-b9c4-dd5d5ad32e3a> <http://schema.org/Product/height> "5.6 in" .
+<http://dws.products.catalog/16446ad3-5a1e-4080-b9c4-dd5d5ad32e3a> <http://schema.org/Product/depth> "0.3 in" .
+<http://dws.products.catalog/16446ad3-5a1e-4080-b9c4-dd5d5ad32e3a> <http://schema.org/Product/weight> "4.94 oz" .
+<http://dws.products.catalog/16446ad3-5a1e-4080-b9c4-dd5d5ad32e3a> <http://schema.org/Product/dimensions> "143.4 x 70.5 x 6.8 mm" .
+<http://dws.products.catalog/16446ad3-5a1e-4080-b9c4-dd5d5ad32e3a> <http://schema.org/Product/body_material> "aluminum" .
+<http://dws.products.catalog/16446ad3-5a1e-4080-b9c4-dd5d5ad32e3a> <http://schema.org/Product/package_height> "" .
+<http://dws.products.catalog/16446ad3-5a1e-4080-b9c4-dd5d5ad32e3a> <http://schema.org/Product/product_code> "" .
+<http://dws.products.catalog/16446ad3-5a1e-4080-b9c4-dd5d5ad32e3a> <http://schema.org/Product/product_gtin> "00887276107790" .
+<http://dws.products.catalog/16446ad3-5a1e-4080-b9c4-dd5d5ad32e3a> <http://schema.org/Product/manufacturer> "" .
+<http://dws.products.catalog/43f4ed9f-1571-414c-93c2-e62a4407c11a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://dws.products.catalog/43f4ed9f-1571-414c-93c2-e62a4407c11a> <http://schema.org/Product/ram> "3gb" .
+<http://dws.products.catalog/43f4ed9f-1571-414c-93c2-e62a4407c11a> <http://schema.org/Product/memory> "128gb" .
+<http://dws.products.catalog/43f4ed9f-1571-414c-93c2-e62a4407c11a> <http://schema.org/Product/brand> "samsung" .
+<http://dws.products.catalog/43f4ed9f-1571-414c-93c2-e62a4407c11a> <http://schema.org/Product/phone_type> "galaxy s6 edge" .
+<http://dws.products.catalog/43f4ed9f-1571-414c-93c2-e62a4407c11a> <http://schema.org/Product/computer_operating_system> "android os, v5.0.2" .
+<http://dws.products.catalog/43f4ed9f-1571-414c-93c2-e62a4407c11a> <http://schema.org/Product/phone_carrier> "" .
+<http://dws.products.catalog/43f4ed9f-1571-414c-93c2-e62a4407c11a> <http://schema.org/Product/product_type> "smartphone" .
+<http://dws.products.catalog/43f4ed9f-1571-414c-93c2-e62a4407c11a> <http://schema.org/Product/core_count> "8" .
+<http://dws.products.catalog/43f4ed9f-1571-414c-93c2-e62a4407c11a> <http://schema.org/Product/processor_type> "exynos 7420" .
+<http://dws.products.catalog/43f4ed9f-1571-414c-93c2-e62a4407c11a> <http://schema.org/Product/rear_cam_resolution> "16 mp" .
+<http://dws.products.catalog/43f4ed9f-1571-414c-93c2-e62a4407c11a> <http://schema.org/Product/front_cam_resolution> "5 mp" .
+<http://dws.products.catalog/43f4ed9f-1571-414c-93c2-e62a4407c11a> <http://schema.org/Product/color> "white pearl|black sapphire|gold platinum|green emerald" .
+<http://dws.products.catalog/43f4ed9f-1571-414c-93c2-e62a4407c11a> <http://schema.org/Product/wattage> "" .
+<http://dws.products.catalog/43f4ed9f-1571-414c-93c2-e62a4407c11a> <http://schema.org/Product/power_supply> "" .
+<http://dws.products.catalog/43f4ed9f-1571-414c-93c2-e62a4407c11a> <http://schema.org/Product/display_size> "5.1 in" .
+<http://dws.products.catalog/43f4ed9f-1571-414c-93c2-e62a4407c11a> <http://schema.org/Product/display_resolution> "2560 x 1440 pixels" .
+<http://dws.products.catalog/43f4ed9f-1571-414c-93c2-e62a4407c11a> <http://schema.org/Product/voltage> "2600 mah" .
+<http://dws.products.catalog/43f4ed9f-1571-414c-93c2-e62a4407c11a> <http://schema.org/Product/mpn> "sm-g925" .
+<http://dws.products.catalog/43f4ed9f-1571-414c-93c2-e62a4407c11a> <http://schema.org/Product/modelnum> "" .
+<http://dws.products.catalog/43f4ed9f-1571-414c-93c2-e62a4407c11a> <http://schema.org/Product/width> "2.75in" .
+<http://dws.products.catalog/43f4ed9f-1571-414c-93c2-e62a4407c11a> <http://schema.org/Product/height> "5.59in" .
+<http://dws.products.catalog/43f4ed9f-1571-414c-93c2-e62a4407c11a> <http://schema.org/Product/depth> "0.27in" .
+<http://dws.products.catalog/43f4ed9f-1571-414c-93c2-e62a4407c11a> <http://schema.org/Product/weight> "4.6oz" .
+<http://dws.products.catalog/43f4ed9f-1571-414c-93c2-e62a4407c11a> <http://schema.org/Product/dimensions> "142.1 x 70.1 x 7 mm" .
+<http://dws.products.catalog/43f4ed9f-1571-414c-93c2-e62a4407c11a> <http://schema.org/Product/body_material> "" .
+<http://dws.products.catalog/43f4ed9f-1571-414c-93c2-e62a4407c11a> <http://schema.org/Product/package_height> "" .
+<http://dws.products.catalog/43f4ed9f-1571-414c-93c2-e62a4407c11a> <http://schema.org/Product/product_code> "" .
+<http://dws.products.catalog/43f4ed9f-1571-414c-93c2-e62a4407c11a> <http://schema.org/Product/product_gtin> "" .
+<http://dws.products.catalog/43f4ed9f-1571-414c-93c2-e62a4407c11a> <http://schema.org/Product/manufacturer> "" .
+<http://dws.products.catalog/627680b4-6099-444c-813e-2a2290157a22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://dws.products.catalog/627680b4-6099-444c-813e-2a2290157a22> <http://schema.org/Product/ram> "4gb" .
+<http://dws.products.catalog/627680b4-6099-444c-813e-2a2290157a22> <http://schema.org/Product/memory> "32gb" .
+<http://dws.products.catalog/627680b4-6099-444c-813e-2a2290157a22> <http://schema.org/Product/brand> "samsung" .
+<http://dws.products.catalog/627680b4-6099-444c-813e-2a2290157a22> <http://schema.org/Product/phone_type> "galaxy s6 edge+" .
+<http://dws.products.catalog/627680b4-6099-444c-813e-2a2290157a22> <http://schema.org/Product/computer_operating_system> "android 5.1.1 (lollipop)" .
+<http://dws.products.catalog/627680b4-6099-444c-813e-2a2290157a22> <http://schema.org/Product/phone_carrier> "verizon wireless" .
+<http://dws.products.catalog/627680b4-6099-444c-813e-2a2290157a22> <http://schema.org/Product/product_type> "smartphone" .
+<http://dws.products.catalog/627680b4-6099-444c-813e-2a2290157a22> <http://schema.org/Product/core_count> "8" .
+<http://dws.products.catalog/627680b4-6099-444c-813e-2a2290157a22> <http://schema.org/Product/processor_type> "exynos 7 octa" .
+<http://dws.products.catalog/627680b4-6099-444c-813e-2a2290157a22> <http://schema.org/Product/rear_cam_resolution> "16 mp" .
+<http://dws.products.catalog/627680b4-6099-444c-813e-2a2290157a22> <http://schema.org/Product/front_cam_resolution> "5 mp" .
+<http://dws.products.catalog/627680b4-6099-444c-813e-2a2290157a22> <http://schema.org/Product/color> "black sapphire|gold platinum|silver titan|white pearl|pink" .
+<http://dws.products.catalog/627680b4-6099-444c-813e-2a2290157a22> <http://schema.org/Product/wattage> "" .
+<http://dws.products.catalog/627680b4-6099-444c-813e-2a2290157a22> <http://schema.org/Product/power_supply> "" .
+<http://dws.products.catalog/627680b4-6099-444c-813e-2a2290157a22> <http://schema.org/Product/display_size> "5.7 in" .
+<http://dws.products.catalog/627680b4-6099-444c-813e-2a2290157a22> <http://schema.org/Product/display_resolution> "2560 x 1440 pixels" .
+<http://dws.products.catalog/627680b4-6099-444c-813e-2a2290157a22> <http://schema.org/Product/voltage> "3000 mah" .
+<http://dws.products.catalog/627680b4-6099-444c-813e-2a2290157a22> <http://schema.org/Product/mpn> "sm-g925vzdavzw|sm-g928vzdavzw|smg925vzda|smg928vzda" .
+<http://dws.products.catalog/627680b4-6099-444c-813e-2a2290157a22> <http://schema.org/Product/modelnum> "" .
+<http://dws.products.catalog/627680b4-6099-444c-813e-2a2290157a22> <http://schema.org/Product/width> "3 in" .
+<http://dws.products.catalog/627680b4-6099-444c-813e-2a2290157a22> <http://schema.org/Product/height> "6.1 in" .
+<http://dws.products.catalog/627680b4-6099-444c-813e-2a2290157a22> <http://schema.org/Product/depth> "0.3 in" .
+<http://dws.products.catalog/627680b4-6099-444c-813e-2a2290157a22> <http://schema.org/Product/weight> "5.4 oz" .
+<http://dws.products.catalog/627680b4-6099-444c-813e-2a2290157a22> <http://schema.org/Product/dimensions> "154.4 x 75.8 x 6.9 mm " .
+<http://dws.products.catalog/627680b4-6099-444c-813e-2a2290157a22> <http://schema.org/Product/body_material> "" .
+<http://dws.products.catalog/627680b4-6099-444c-813e-2a2290157a22> <http://schema.org/Product/package_height> "" .
+<http://dws.products.catalog/627680b4-6099-444c-813e-2a2290157a22> <http://schema.org/Product/product_code> "" .
+<http://dws.products.catalog/627680b4-6099-444c-813e-2a2290157a22> <http://schema.org/Product/product_gtin> "00887276080772, 00887276152790" .
+<http://dws.products.catalog/627680b4-6099-444c-813e-2a2290157a22> <http://schema.org/Product/manufacturer> "" .
+<http://dws.products.catalog/50e80183-f789-44ca-b075-7d4068f56d60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://dws.products.catalog/50e80183-f789-44ca-b075-7d4068f56d60> <http://schema.org/Product/ram> "2gb" .
+<http://dws.products.catalog/50e80183-f789-44ca-b075-7d4068f56d60> <http://schema.org/Product/memory> "16gb" .
+<http://dws.products.catalog/50e80183-f789-44ca-b075-7d4068f56d60> <http://schema.org/Product/brand> "samsung" .
+<http://dws.products.catalog/50e80183-f789-44ca-b075-7d4068f56d60> <http://schema.org/Product/phone_type> "galaxy s4" .
+<http://dws.products.catalog/50e80183-f789-44ca-b075-7d4068f56d60> <http://schema.org/Product/computer_operating_system> "android 4.2.2 (jelly bean)" .
+<http://dws.products.catalog/50e80183-f789-44ca-b075-7d4068f56d60> <http://schema.org/Product/phone_carrier> "t-mobile" .
+<http://dws.products.catalog/50e80183-f789-44ca-b075-7d4068f56d60> <http://schema.org/Product/product_type> "smartphone" .
+<http://dws.products.catalog/50e80183-f789-44ca-b075-7d4068f56d60> <http://schema.org/Product/core_count> "4" .
+<http://dws.products.catalog/50e80183-f789-44ca-b075-7d4068f56d60> <http://schema.org/Product/processor_type> "qualcomm snapdragon 600" .
+<http://dws.products.catalog/50e80183-f789-44ca-b075-7d4068f56d60> <http://schema.org/Product/rear_cam_resolution> "13 mp" .
+<http://dws.products.catalog/50e80183-f789-44ca-b075-7d4068f56d60> <http://schema.org/Product/front_cam_resolution> "2 mp" .
+<http://dws.products.catalog/50e80183-f789-44ca-b075-7d4068f56d60> <http://schema.org/Product/color> "white frost|black mist|arctic blue|black edition" .
+<http://dws.products.catalog/50e80183-f789-44ca-b075-7d4068f56d60> <http://schema.org/Product/wattage> "" .
+<http://dws.products.catalog/50e80183-f789-44ca-b075-7d4068f56d60> <http://schema.org/Product/power_supply> "" .
+<http://dws.products.catalog/50e80183-f789-44ca-b075-7d4068f56d60> <http://schema.org/Product/display_size> "5 in" .
+<http://dws.products.catalog/50e80183-f789-44ca-b075-7d4068f56d60> <http://schema.org/Product/display_resolution> "1920 x 1080 pixels" .
+<http://dws.products.catalog/50e80183-f789-44ca-b075-7d4068f56d60> <http://schema.org/Product/voltage> "2600 mah" .
+<http://dws.products.catalog/50e80183-f789-44ca-b075-7d4068f56d60> <http://schema.org/Product/mpn> "s4 sgh-m919" .
+<http://dws.products.catalog/50e80183-f789-44ca-b075-7d4068f56d60> <http://schema.org/Product/modelnum> "" .
+<http://dws.products.catalog/50e80183-f789-44ca-b075-7d4068f56d60> <http://schema.org/Product/width> "2.7 in" .
+<http://dws.products.catalog/50e80183-f789-44ca-b075-7d4068f56d60> <http://schema.org/Product/height> "5.4 in" .
+<http://dws.products.catalog/50e80183-f789-44ca-b075-7d4068f56d60> <http://schema.org/Product/depth> "0.3 in" .
+<http://dws.products.catalog/50e80183-f789-44ca-b075-7d4068f56d60> <http://schema.org/Product/weight> "4.6 oz" .
+<http://dws.products.catalog/50e80183-f789-44ca-b075-7d4068f56d60> <http://schema.org/Product/dimensions> "136.6 x 69.8 x 7.9 mm" .
+<http://dws.products.catalog/50e80183-f789-44ca-b075-7d4068f56d60> <http://schema.org/Product/body_material> "" .
+<http://dws.products.catalog/50e80183-f789-44ca-b075-7d4068f56d60> <http://schema.org/Product/package_height> "" .
+<http://dws.products.catalog/50e80183-f789-44ca-b075-7d4068f56d60> <http://schema.org/Product/product_code> "" .
+<http://dws.products.catalog/50e80183-f789-44ca-b075-7d4068f56d60> <http://schema.org/Product/product_gtin> "00610214632630" .
+<http://dws.products.catalog/50e80183-f789-44ca-b075-7d4068f56d60> <http://schema.org/Product/manufacturer> "" .
+<http://dws.products.catalog/d7fef98e-1ab9-4314-9c68-1fea8365eded> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://dws.products.catalog/d7fef98e-1ab9-4314-9c68-1fea8365eded> <http://schema.org/Product/ram> "2gb" .
+<http://dws.products.catalog/d7fef98e-1ab9-4314-9c68-1fea8365eded> <http://schema.org/Product/memory> "16gb" .
+<http://dws.products.catalog/d7fef98e-1ab9-4314-9c68-1fea8365eded> <http://schema.org/Product/brand> "samsung" .
+<http://dws.products.catalog/d7fef98e-1ab9-4314-9c68-1fea8365eded> <http://schema.org/Product/phone_type> "galaxy s5" .
+<http://dws.products.catalog/d7fef98e-1ab9-4314-9c68-1fea8365eded> <http://schema.org/Product/computer_operating_system> "android 4.4 (kitkat)" .
+<http://dws.products.catalog/d7fef98e-1ab9-4314-9c68-1fea8365eded> <http://schema.org/Product/phone_carrier> "verizon wireless" .
+<http://dws.products.catalog/d7fef98e-1ab9-4314-9c68-1fea8365eded> <http://schema.org/Product/product_type> "smartphone" .
+<http://dws.products.catalog/d7fef98e-1ab9-4314-9c68-1fea8365eded> <http://schema.org/Product/core_count> "4" .
+<http://dws.products.catalog/d7fef98e-1ab9-4314-9c68-1fea8365eded> <http://schema.org/Product/processor_type> "qualcomm msm8974ac snapdragon 801" .
+<http://dws.products.catalog/d7fef98e-1ab9-4314-9c68-1fea8365eded> <http://schema.org/Product/rear_cam_resolution> "16 mp" .
+<http://dws.products.catalog/d7fef98e-1ab9-4314-9c68-1fea8365eded> <http://schema.org/Product/front_cam_resolution> "2 mp" .
+<http://dws.products.catalog/d7fef98e-1ab9-4314-9c68-1fea8365eded> <http://schema.org/Product/color> "charcoal black|copper gold|electric blue|shimmery white" .
+<http://dws.products.catalog/d7fef98e-1ab9-4314-9c68-1fea8365eded> <http://schema.org/Product/wattage> "" .
+<http://dws.products.catalog/d7fef98e-1ab9-4314-9c68-1fea8365eded> <http://schema.org/Product/power_supply> "" .
+<http://dws.products.catalog/d7fef98e-1ab9-4314-9c68-1fea8365eded> <http://schema.org/Product/display_size> "5.1 in" .
+<http://dws.products.catalog/d7fef98e-1ab9-4314-9c68-1fea8365eded> <http://schema.org/Product/display_resolution> "1920 x 1080 pixels" .
+<http://dws.products.catalog/d7fef98e-1ab9-4314-9c68-1fea8365eded> <http://schema.org/Product/voltage> "2800 mah" .
+<http://dws.products.catalog/d7fef98e-1ab9-4314-9c68-1fea8365eded> <http://schema.org/Product/mpn> "sm-g900vzwavzw" .
+<http://dws.products.catalog/d7fef98e-1ab9-4314-9c68-1fea8365eded> <http://schema.org/Product/modelnum> "" .
+<http://dws.products.catalog/d7fef98e-1ab9-4314-9c68-1fea8365eded> <http://schema.org/Product/width> "2.9 in" .
+<http://dws.products.catalog/d7fef98e-1ab9-4314-9c68-1fea8365eded> <http://schema.org/Product/height> "5.6 in" .
+<http://dws.products.catalog/d7fef98e-1ab9-4314-9c68-1fea8365eded> <http://schema.org/Product/depth> "0.3 in" .
+<http://dws.products.catalog/d7fef98e-1ab9-4314-9c68-1fea8365eded> <http://schema.org/Product/weight> "5.1 oz" .
+<http://dws.products.catalog/d7fef98e-1ab9-4314-9c68-1fea8365eded> <http://schema.org/Product/dimensions> "142 x 72.5 x 8.1 mm" .
+<http://dws.products.catalog/d7fef98e-1ab9-4314-9c68-1fea8365eded> <http://schema.org/Product/body_material> "" .
+<http://dws.products.catalog/d7fef98e-1ab9-4314-9c68-1fea8365eded> <http://schema.org/Product/package_height> "" .
+<http://dws.products.catalog/d7fef98e-1ab9-4314-9c68-1fea8365eded> <http://schema.org/Product/product_code> "" .
+<http://dws.products.catalog/d7fef98e-1ab9-4314-9c68-1fea8365eded> <http://schema.org/Product/product_gtin> "00887276973920" .
+<http://dws.products.catalog/d7fef98e-1ab9-4314-9c68-1fea8365eded> <http://schema.org/Product/manufacturer> "" .
+<http://dws.products.catalog/9e1bd633-daef-4aa1-93c2-1464d4409563> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://dws.products.catalog/9e1bd633-daef-4aa1-93c2-1464d4409563> <http://schema.org/Product/ram> "3gb" .
+<http://dws.products.catalog/9e1bd633-daef-4aa1-93c2-1464d4409563> <http://schema.org/Product/memory> "32gb" .
+<http://dws.products.catalog/9e1bd633-daef-4aa1-93c2-1464d4409563> <http://schema.org/Product/brand> "lg" .
+<http://dws.products.catalog/9e1bd633-daef-4aa1-93c2-1464d4409563> <http://schema.org/Product/phone_type> "g4" .
+<http://dws.products.catalog/9e1bd633-daef-4aa1-93c2-1464d4409563> <http://schema.org/Product/computer_operating_system> "android 5.1 (lollipop)" .
+<http://dws.products.catalog/9e1bd633-daef-4aa1-93c2-1464d4409563> <http://schema.org/Product/phone_carrier> "verizon wireless" .
+<http://dws.products.catalog/9e1bd633-daef-4aa1-93c2-1464d4409563> <http://schema.org/Product/product_type> "smartphone" .
+<http://dws.products.catalog/9e1bd633-daef-4aa1-93c2-1464d4409563> <http://schema.org/Product/core_count> "6" .
+<http://dws.products.catalog/9e1bd633-daef-4aa1-93c2-1464d4409563> <http://schema.org/Product/processor_type> "qualcomm snapdragon 808" .
+<http://dws.products.catalog/9e1bd633-daef-4aa1-93c2-1464d4409563> <http://schema.org/Product/rear_cam_resolution> "16 mp" .
+<http://dws.products.catalog/9e1bd633-daef-4aa1-93c2-1464d4409563> <http://schema.org/Product/front_cam_resolution> "8 mp" .
+<http://dws.products.catalog/9e1bd633-daef-4aa1-93c2-1464d4409563> <http://schema.org/Product/color> "grey|white|gold|leather black|leather brown|leather red|white/gold" .
+<http://dws.products.catalog/9e1bd633-daef-4aa1-93c2-1464d4409563> <http://schema.org/Product/wattage> "" .
+<http://dws.products.catalog/9e1bd633-daef-4aa1-93c2-1464d4409563> <http://schema.org/Product/power_supply> "" .
+<http://dws.products.catalog/9e1bd633-daef-4aa1-93c2-1464d4409563> <http://schema.org/Product/display_size> "5.5 in" .
+<http://dws.products.catalog/9e1bd633-daef-4aa1-93c2-1464d4409563> <http://schema.org/Product/display_resolution> "2560 x 1440 pixels" .
+<http://dws.products.catalog/9e1bd633-daef-4aa1-93c2-1464d4409563> <http://schema.org/Product/voltage> "3000 mah" .
+<http://dws.products.catalog/9e1bd633-daef-4aa1-93c2-1464d4409563> <http://schema.org/Product/mpn> "lg-vs986;lg-vs815" .
+<http://dws.products.catalog/9e1bd633-daef-4aa1-93c2-1464d4409563> <http://schema.org/Product/modelnum> "" .
+<http://dws.products.catalog/9e1bd633-daef-4aa1-93c2-1464d4409563> <http://schema.org/Product/width> "3 in" .
+<http://dws.products.catalog/9e1bd633-daef-4aa1-93c2-1464d4409563> <http://schema.org/Product/height> "5.9 in" .
+<http://dws.products.catalog/9e1bd633-daef-4aa1-93c2-1464d4409563> <http://schema.org/Product/depth> "0.4 in" .
+<http://dws.products.catalog/9e1bd633-daef-4aa1-93c2-1464d4409563> <http://schema.org/Product/weight> "5.47 oz" .
+<http://dws.products.catalog/9e1bd633-daef-4aa1-93c2-1464d4409563> <http://schema.org/Product/dimensions> "148.9 x 76.1 x 6.3 - 9.8 mm" .
+<http://dws.products.catalog/9e1bd633-daef-4aa1-93c2-1464d4409563> <http://schema.org/Product/body_material> "" .
+<http://dws.products.catalog/9e1bd633-daef-4aa1-93c2-1464d4409563> <http://schema.org/Product/package_height> "" .
+<http://dws.products.catalog/9e1bd633-daef-4aa1-93c2-1464d4409563> <http://schema.org/Product/product_code> "" .
+<http://dws.products.catalog/9e1bd633-daef-4aa1-93c2-1464d4409563> <http://schema.org/Product/product_gtin> "00652810815772" .
+<http://dws.products.catalog/9e1bd633-daef-4aa1-93c2-1464d4409563> <http://schema.org/Product/manufacturer> "" .
+<http://dws.products.catalog/15ff8065-eb3b-4d80-917d-28f5b7c8fa4e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://dws.products.catalog/15ff8065-eb3b-4d80-917d-28f5b7c8fa4e> <http://schema.org/Product/ram> "3gb" .
+<http://dws.products.catalog/15ff8065-eb3b-4d80-917d-28f5b7c8fa4e> <http://schema.org/Product/memory> "64gb" .
+<http://dws.products.catalog/15ff8065-eb3b-4d80-917d-28f5b7c8fa4e> <http://schema.org/Product/brand> "huawei" .
+<http://dws.products.catalog/15ff8065-eb3b-4d80-917d-28f5b7c8fa4e> <http://schema.org/Product/phone_type> "nexus 6p" .
+<http://dws.products.catalog/15ff8065-eb3b-4d80-917d-28f5b7c8fa4e> <http://schema.org/Product/computer_operating_system> "android 6.0 marshmallow" .
+<http://dws.products.catalog/15ff8065-eb3b-4d80-917d-28f5b7c8fa4e> <http://schema.org/Product/phone_carrier> "" .
+<http://dws.products.catalog/15ff8065-eb3b-4d80-917d-28f5b7c8fa4e> <http://schema.org/Product/product_type> "smartphone" .
+<http://dws.products.catalog/15ff8065-eb3b-4d80-917d-28f5b7c8fa4e> <http://schema.org/Product/core_count> "8" .
+<http://dws.products.catalog/15ff8065-eb3b-4d80-917d-28f5b7c8fa4e> <http://schema.org/Product/processor_type> "qualcomm msm8994 snapdragon 810" .
+<http://dws.products.catalog/15ff8065-eb3b-4d80-917d-28f5b7c8fa4e> <http://schema.org/Product/rear_cam_resolution> "12.3 mp" .
+<http://dws.products.catalog/15ff8065-eb3b-4d80-917d-28f5b7c8fa4e> <http://schema.org/Product/front_cam_resolution> "8 mp" .
+<http://dws.products.catalog/15ff8065-eb3b-4d80-917d-28f5b7c8fa4e> <http://schema.org/Product/color> "aluminium|graphite|frost" .
+<http://dws.products.catalog/15ff8065-eb3b-4d80-917d-28f5b7c8fa4e> <http://schema.org/Product/wattage> "" .
+<http://dws.products.catalog/15ff8065-eb3b-4d80-917d-28f5b7c8fa4e> <http://schema.org/Product/power_supply> "" .
+<http://dws.products.catalog/15ff8065-eb3b-4d80-917d-28f5b7c8fa4e> <http://schema.org/Product/display_size> "5.7 in" .
+<http://dws.products.catalog/15ff8065-eb3b-4d80-917d-28f5b7c8fa4e> <http://schema.org/Product/display_resolution> "2560 x 1440 pixels" .
+<http://dws.products.catalog/15ff8065-eb3b-4d80-917d-28f5b7c8fa4e> <http://schema.org/Product/voltage> "3450 mah " .
+<http://dws.products.catalog/15ff8065-eb3b-4d80-917d-28f5b7c8fa4e> <http://schema.org/Product/mpn> "h1511 64gb " .
+<http://dws.products.catalog/15ff8065-eb3b-4d80-917d-28f5b7c8fa4e> <http://schema.org/Product/modelnum> "" .
+<http://dws.products.catalog/15ff8065-eb3b-4d80-917d-28f5b7c8fa4e> <http://schema.org/Product/width> "3.06 in" .
+<http://dws.products.catalog/15ff8065-eb3b-4d80-917d-28f5b7c8fa4e> <http://schema.org/Product/height> "6.27 in" .
+<http://dws.products.catalog/15ff8065-eb3b-4d80-917d-28f5b7c8fa4e> <http://schema.org/Product/depth> "0.29 in" .
+<http://dws.products.catalog/15ff8065-eb3b-4d80-917d-28f5b7c8fa4e> <http://schema.org/Product/weight> "6.28 oz" .
+<http://dws.products.catalog/15ff8065-eb3b-4d80-917d-28f5b7c8fa4e> <http://schema.org/Product/dimensions> "159.3 x 77.8 x 7.3 mm" .
+<http://dws.products.catalog/15ff8065-eb3b-4d80-917d-28f5b7c8fa4e> <http://schema.org/Product/body_material> "anodized aluminum" .
+<http://dws.products.catalog/15ff8065-eb3b-4d80-917d-28f5b7c8fa4e> <http://schema.org/Product/package_height> "" .
+<http://dws.products.catalog/15ff8065-eb3b-4d80-917d-28f5b7c8fa4e> <http://schema.org/Product/product_code> "" .
+<http://dws.products.catalog/15ff8065-eb3b-4d80-917d-28f5b7c8fa4e> <http://schema.org/Product/product_gtin> "00886598036078" .
+<http://dws.products.catalog/15ff8065-eb3b-4d80-917d-28f5b7c8fa4e> <http://schema.org/Product/manufacturer> "" .
+<http://dws.products.catalog/42438220-752d-492b-b0e5-66bcba59862b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://dws.products.catalog/42438220-752d-492b-b0e5-66bcba59862b> <http://schema.org/Product/ram> "3gb" .
+<http://dws.products.catalog/42438220-752d-492b-b0e5-66bcba59862b> <http://schema.org/Product/memory> "32gb" .
+<http://dws.products.catalog/42438220-752d-492b-b0e5-66bcba59862b> <http://schema.org/Product/brand> "sony" .
+<http://dws.products.catalog/42438220-752d-492b-b0e5-66bcba59862b> <http://schema.org/Product/phone_type> "xperia z5 premium" .
+<http://dws.products.catalog/42438220-752d-492b-b0e5-66bcba59862b> <http://schema.org/Product/computer_operating_system> "google android 5.1.1" .
+<http://dws.products.catalog/42438220-752d-492b-b0e5-66bcba59862b> <http://schema.org/Product/phone_carrier> "" .
+<http://dws.products.catalog/42438220-752d-492b-b0e5-66bcba59862b> <http://schema.org/Product/product_type> "smartphone" .
+<http://dws.products.catalog/42438220-752d-492b-b0e5-66bcba59862b> <http://schema.org/Product/core_count> "8" .
+<http://dws.products.catalog/42438220-752d-492b-b0e5-66bcba59862b> <http://schema.org/Product/processor_type> "qualcomm snapdragon 810 msm8994" .
+<http://dws.products.catalog/42438220-752d-492b-b0e5-66bcba59862b> <http://schema.org/Product/rear_cam_resolution> "23 mp" .
+<http://dws.products.catalog/42438220-752d-492b-b0e5-66bcba59862b> <http://schema.org/Product/front_cam_resolution> "5.1 mp" .
+<http://dws.products.catalog/42438220-752d-492b-b0e5-66bcba59862b> <http://schema.org/Product/color> "chrome|black|gold" .
+<http://dws.products.catalog/42438220-752d-492b-b0e5-66bcba59862b> <http://schema.org/Product/wattage> "" .
+<http://dws.products.catalog/42438220-752d-492b-b0e5-66bcba59862b> <http://schema.org/Product/power_supply> "" .
+<http://dws.products.catalog/42438220-752d-492b-b0e5-66bcba59862b> <http://schema.org/Product/display_size> "5.5 in" .
+<http://dws.products.catalog/42438220-752d-492b-b0e5-66bcba59862b> <http://schema.org/Product/display_resolution> "2160 x 3840 pixels" .
+<http://dws.products.catalog/42438220-752d-492b-b0e5-66bcba59862b> <http://schema.org/Product/voltage> "3430 mah" .
+<http://dws.products.catalog/42438220-752d-492b-b0e5-66bcba59862b> <http://schema.org/Product/mpn> "" .
+<http://dws.products.catalog/42438220-752d-492b-b0e5-66bcba59862b> <http://schema.org/Product/modelnum> "" .
+<http://dws.products.catalog/42438220-752d-492b-b0e5-66bcba59862b> <http://schema.org/Product/width> "2.98 in" .
+<http://dws.products.catalog/42438220-752d-492b-b0e5-66bcba59862b> <http://schema.org/Product/height> "6.08 in" .
+<http://dws.products.catalog/42438220-752d-492b-b0e5-66bcba59862b> <http://schema.org/Product/depth> "0.31 in" .
+<http://dws.products.catalog/42438220-752d-492b-b0e5-66bcba59862b> <http://schema.org/Product/weight> "6.35 oz" .
+<http://dws.products.catalog/42438220-752d-492b-b0e5-66bcba59862b> <http://schema.org/Product/dimensions> "154.4 x 75.8 x 7.8 mm" .
+<http://dws.products.catalog/42438220-752d-492b-b0e5-66bcba59862b> <http://schema.org/Product/body_material> "" .
+<http://dws.products.catalog/42438220-752d-492b-b0e5-66bcba59862b> <http://schema.org/Product/package_height> "" .
+<http://dws.products.catalog/42438220-752d-492b-b0e5-66bcba59862b> <http://schema.org/Product/product_code> "" .
+<http://dws.products.catalog/42438220-752d-492b-b0e5-66bcba59862b> <http://schema.org/Product/product_gtin> "" .
+<http://dws.products.catalog/42438220-752d-492b-b0e5-66bcba59862b> <http://schema.org/Product/manufacturer> "" .
+<http://dws.products.catalog/f7b18a6d-8abc-4372-b2b1-c7efc6ed7668> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://dws.products.catalog/f7b18a6d-8abc-4372-b2b1-c7efc6ed7668> <http://schema.org/Product/ram> "3gb" .
+<http://dws.products.catalog/f7b18a6d-8abc-4372-b2b1-c7efc6ed7668> <http://schema.org/Product/memory> "32gb" .
+<http://dws.products.catalog/f7b18a6d-8abc-4372-b2b1-c7efc6ed7668> <http://schema.org/Product/brand> "htc" .
+<http://dws.products.catalog/f7b18a6d-8abc-4372-b2b1-c7efc6ed7668> <http://schema.org/Product/phone_type> "one m9" .
+<http://dws.products.catalog/f7b18a6d-8abc-4372-b2b1-c7efc6ed7668> <http://schema.org/Product/computer_operating_system> "android 5.0 (lollipop)" .
+<http://dws.products.catalog/f7b18a6d-8abc-4372-b2b1-c7efc6ed7668> <http://schema.org/Product/phone_carrier> "" .
+<http://dws.products.catalog/f7b18a6d-8abc-4372-b2b1-c7efc6ed7668> <http://schema.org/Product/product_type> "smartphone" .
+<http://dws.products.catalog/f7b18a6d-8abc-4372-b2b1-c7efc6ed7668> <http://schema.org/Product/core_count> "8" .
+<http://dws.products.catalog/f7b18a6d-8abc-4372-b2b1-c7efc6ed7668> <http://schema.org/Product/processor_type> "qualcomm msm8994 snapdragon 810" .
+<http://dws.products.catalog/f7b18a6d-8abc-4372-b2b1-c7efc6ed7668> <http://schema.org/Product/rear_cam_resolution> "20 mp" .
+<http://dws.products.catalog/f7b18a6d-8abc-4372-b2b1-c7efc6ed7668> <http://schema.org/Product/front_cam_resolution> "4 mp" .
+<http://dws.products.catalog/f7b18a6d-8abc-4372-b2b1-c7efc6ed7668> <http://schema.org/Product/color> "gunmetal gray|amber gold|silver/rose gold|gold/pink|pink" .
+<http://dws.products.catalog/f7b18a6d-8abc-4372-b2b1-c7efc6ed7668> <http://schema.org/Product/wattage> "" .
+<http://dws.products.catalog/f7b18a6d-8abc-4372-b2b1-c7efc6ed7668> <http://schema.org/Product/power_supply> "" .
+<http://dws.products.catalog/f7b18a6d-8abc-4372-b2b1-c7efc6ed7668> <http://schema.org/Product/display_size> "5 in" .
+<http://dws.products.catalog/f7b18a6d-8abc-4372-b2b1-c7efc6ed7668> <http://schema.org/Product/display_resolution> "1080 x 1920 pixels " .
+<http://dws.products.catalog/f7b18a6d-8abc-4372-b2b1-c7efc6ed7668> <http://schema.org/Product/voltage> "2840 mah" .
+<http://dws.products.catalog/f7b18a6d-8abc-4372-b2b1-c7efc6ed7668> <http://schema.org/Product/mpn> "" .
+<http://dws.products.catalog/f7b18a6d-8abc-4372-b2b1-c7efc6ed7668> <http://schema.org/Product/modelnum> "" .
+<http://dws.products.catalog/f7b18a6d-8abc-4372-b2b1-c7efc6ed7668> <http://schema.org/Product/width> "2.74 in" .
+<http://dws.products.catalog/f7b18a6d-8abc-4372-b2b1-c7efc6ed7668> <http://schema.org/Product/height> "5.69 in" .
+<http://dws.products.catalog/f7b18a6d-8abc-4372-b2b1-c7efc6ed7668> <http://schema.org/Product/depth> "0.38 in" .
+<http://dws.products.catalog/f7b18a6d-8abc-4372-b2b1-c7efc6ed7668> <http://schema.org/Product/weight> "5.54 oz" .
+<http://dws.products.catalog/f7b18a6d-8abc-4372-b2b1-c7efc6ed7668> <http://schema.org/Product/dimensions> "144.6 x 69.7 x 9.6 mm" .
+<http://dws.products.catalog/f7b18a6d-8abc-4372-b2b1-c7efc6ed7668> <http://schema.org/Product/body_material> "" .
+<http://dws.products.catalog/f7b18a6d-8abc-4372-b2b1-c7efc6ed7668> <http://schema.org/Product/package_height> "" .
+<http://dws.products.catalog/f7b18a6d-8abc-4372-b2b1-c7efc6ed7668> <http://schema.org/Product/product_code> "" .
+<http://dws.products.catalog/f7b18a6d-8abc-4372-b2b1-c7efc6ed7668> <http://schema.org/Product/product_gtin> "" .
+<http://dws.products.catalog/f7b18a6d-8abc-4372-b2b1-c7efc6ed7668> <http://schema.org/Product/manufacturer> "" .
+<http://dws.products.catalog/2aecdf00-c852-4f04-a831-194a09187a83> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://dws.products.catalog/2aecdf00-c852-4f04-a831-194a09187a83> <http://schema.org/Product/ram> "1gb" .
+<http://dws.products.catalog/2aecdf00-c852-4f04-a831-194a09187a83> <http://schema.org/Product/memory> "32gb" .
+<http://dws.products.catalog/2aecdf00-c852-4f04-a831-194a09187a83> <http://schema.org/Product/brand> "nokia" .
+<http://dws.products.catalog/2aecdf00-c852-4f04-a831-194a09187a83> <http://schema.org/Product/phone_type> "lumia 920" .
+<http://dws.products.catalog/2aecdf00-c852-4f04-a831-194a09187a83> <http://schema.org/Product/computer_operating_system> "microsoft windows phone 8" .
+<http://dws.products.catalog/2aecdf00-c852-4f04-a831-194a09187a83> <http://schema.org/Product/phone_carrier> "" .
+<http://dws.products.catalog/2aecdf00-c852-4f04-a831-194a09187a83> <http://schema.org/Product/product_type> "smartphone" .
+<http://dws.products.catalog/2aecdf00-c852-4f04-a831-194a09187a83> <http://schema.org/Product/core_count> "2" .
+<http://dws.products.catalog/2aecdf00-c852-4f04-a831-194a09187a83> <http://schema.org/Product/processor_type> "qualcomm msm8960 snapdragon s4 plus" .
+<http://dws.products.catalog/2aecdf00-c852-4f04-a831-194a09187a83> <http://schema.org/Product/rear_cam_resolution> "8 mp" .
+<http://dws.products.catalog/2aecdf00-c852-4f04-a831-194a09187a83> <http://schema.org/Product/front_cam_resolution> "1.3 mp" .
+<http://dws.products.catalog/2aecdf00-c852-4f04-a831-194a09187a83> <http://schema.org/Product/color> "black|gray|red|yellow|white" .
+<http://dws.products.catalog/2aecdf00-c852-4f04-a831-194a09187a83> <http://schema.org/Product/wattage> "" .
+<http://dws.products.catalog/2aecdf00-c852-4f04-a831-194a09187a83> <http://schema.org/Product/power_supply> "" .
+<http://dws.products.catalog/2aecdf00-c852-4f04-a831-194a09187a83> <http://schema.org/Product/display_size> "4.5 in" .
+<http://dws.products.catalog/2aecdf00-c852-4f04-a831-194a09187a83> <http://schema.org/Product/display_resolution> "768 x 1280 pixels" .
+<http://dws.products.catalog/2aecdf00-c852-4f04-a831-194a09187a83> <http://schema.org/Product/voltage> "2000 mah" .
+<http://dws.products.catalog/2aecdf00-c852-4f04-a831-194a09187a83> <http://schema.org/Product/mpn> "" .
+<http://dws.products.catalog/2aecdf00-c852-4f04-a831-194a09187a83> <http://schema.org/Product/modelnum> "" .
+<http://dws.products.catalog/2aecdf00-c852-4f04-a831-194a09187a83> <http://schema.org/Product/width> "2.79 in" .
+<http://dws.products.catalog/2aecdf00-c852-4f04-a831-194a09187a83> <http://schema.org/Product/height> "5.13 in" .
+<http://dws.products.catalog/2aecdf00-c852-4f04-a831-194a09187a83> <http://schema.org/Product/depth> "0.42 in" .
+<http://dws.products.catalog/2aecdf00-c852-4f04-a831-194a09187a83> <http://schema.org/Product/weight> "6.53 oz" .
+<http://dws.products.catalog/2aecdf00-c852-4f04-a831-194a09187a83> <http://schema.org/Product/dimensions> "130.3 x 70.8 x 10.7 mm" .
+<http://dws.products.catalog/2aecdf00-c852-4f04-a831-194a09187a83> <http://schema.org/Product/body_material> "" .
+<http://dws.products.catalog/2aecdf00-c852-4f04-a831-194a09187a83> <http://schema.org/Product/package_height> "" .
+<http://dws.products.catalog/2aecdf00-c852-4f04-a831-194a09187a83> <http://schema.org/Product/product_code> "" .
+<http://dws.products.catalog/2aecdf00-c852-4f04-a831-194a09187a83> <http://schema.org/Product/product_gtin> "" .
+<http://dws.products.catalog/2aecdf00-c852-4f04-a831-194a09187a83> <http://schema.org/Product/manufacturer> "" .
+<http://dws.products.catalog/20fafb44-45fc-43ae-a3c0-a5a84bcba58d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://dws.products.catalog/20fafb44-45fc-43ae-a3c0-a5a84bcba58d> <http://schema.org/Product/ram> "512mb" .
+<http://dws.products.catalog/20fafb44-45fc-43ae-a3c0-a5a84bcba58d> <http://schema.org/Product/memory> "16gb" .
+<http://dws.products.catalog/20fafb44-45fc-43ae-a3c0-a5a84bcba58d> <http://schema.org/Product/brand> "apple" .
+<http://dws.products.catalog/20fafb44-45fc-43ae-a3c0-a5a84bcba58d> <http://schema.org/Product/phone_type> "iphone 4s" .
+<http://dws.products.catalog/20fafb44-45fc-43ae-a3c0-a5a84bcba58d> <http://schema.org/Product/computer_operating_system> "ios 5" .
+<http://dws.products.catalog/20fafb44-45fc-43ae-a3c0-a5a84bcba58d> <http://schema.org/Product/phone_carrier> "" .
+<http://dws.products.catalog/20fafb44-45fc-43ae-a3c0-a5a84bcba58d> <http://schema.org/Product/product_type> "smartphone" .
+<http://dws.products.catalog/20fafb44-45fc-43ae-a3c0-a5a84bcba58d> <http://schema.org/Product/core_count> "" .
+<http://dws.products.catalog/20fafb44-45fc-43ae-a3c0-a5a84bcba58d> <http://schema.org/Product/processor_type> "a5" .
+<http://dws.products.catalog/20fafb44-45fc-43ae-a3c0-a5a84bcba58d> <http://schema.org/Product/rear_cam_resolution> "8 mp" .
+<http://dws.products.catalog/20fafb44-45fc-43ae-a3c0-a5a84bcba58d> <http://schema.org/Product/front_cam_resolution> "" .
+<http://dws.products.catalog/20fafb44-45fc-43ae-a3c0-a5a84bcba58d> <http://schema.org/Product/color> "black|white" .
+<http://dws.products.catalog/20fafb44-45fc-43ae-a3c0-a5a84bcba58d> <http://schema.org/Product/wattage> "" .
+<http://dws.products.catalog/20fafb44-45fc-43ae-a3c0-a5a84bcba58d> <http://schema.org/Product/power_supply> "" .
+<http://dws.products.catalog/20fafb44-45fc-43ae-a3c0-a5a84bcba58d> <http://schema.org/Product/display_size> "3.5 in" .
+<http://dws.products.catalog/20fafb44-45fc-43ae-a3c0-a5a84bcba58d> <http://schema.org/Product/display_resolution> "960 x 640 pixels" .
+<http://dws.products.catalog/20fafb44-45fc-43ae-a3c0-a5a84bcba58d> <http://schema.org/Product/voltage> "" .
+<http://dws.products.catalog/20fafb44-45fc-43ae-a3c0-a5a84bcba58d> <http://schema.org/Product/mpn> "4s, iphone4s16gbblkvzw, md276ll/a, rs_496_apple iphone 4s 16gb black, vimap4s16bkxxup, vipap4s16bkxxhw, vipap4s16bkxxna, vzw-app-4s-16gb-blk" .
+<http://dws.products.catalog/20fafb44-45fc-43ae-a3c0-a5a84bcba58d> <http://schema.org/Product/modelnum> "" .
+<http://dws.products.catalog/20fafb44-45fc-43ae-a3c0-a5a84bcba58d> <http://schema.org/Product/width> "2.3 in" .
+<http://dws.products.catalog/20fafb44-45fc-43ae-a3c0-a5a84bcba58d> <http://schema.org/Product/height> "4.5 in" .
+<http://dws.products.catalog/20fafb44-45fc-43ae-a3c0-a5a84bcba58d> <http://schema.org/Product/depth> "0.4 in" .
+<http://dws.products.catalog/20fafb44-45fc-43ae-a3c0-a5a84bcba58d> <http://schema.org/Product/weight> "4.9 oz" .
+<http://dws.products.catalog/20fafb44-45fc-43ae-a3c0-a5a84bcba58d> <http://schema.org/Product/dimensions> "" .
+<http://dws.products.catalog/20fafb44-45fc-43ae-a3c0-a5a84bcba58d> <http://schema.org/Product/body_material> "stainless steel, glass" .
+<http://dws.products.catalog/20fafb44-45fc-43ae-a3c0-a5a84bcba58d> <http://schema.org/Product/package_height> "" .
+<http://dws.products.catalog/20fafb44-45fc-43ae-a3c0-a5a84bcba58d> <http://schema.org/Product/product_code> "" .
+<http://dws.products.catalog/20fafb44-45fc-43ae-a3c0-a5a84bcba58d> <http://schema.org/Product/product_gtin> "00700355478430, 00885909528905" .
+<http://dws.products.catalog/20fafb44-45fc-43ae-a3c0-a5a84bcba58d> <http://schema.org/Product/manufacturer> "" .
+<http://dws.products.catalog/c2a6cd86-5e36-498b-bfdb-01993b3c1fe9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://dws.products.catalog/c2a6cd86-5e36-498b-bfdb-01993b3c1fe9> <http://schema.org/Product/ram> "512mb" .
+<http://dws.products.catalog/c2a6cd86-5e36-498b-bfdb-01993b3c1fe9> <http://schema.org/Product/memory> "64gb" .
+<http://dws.products.catalog/c2a6cd86-5e36-498b-bfdb-01993b3c1fe9> <http://schema.org/Product/brand> "apple" .
+<http://dws.products.catalog/c2a6cd86-5e36-498b-bfdb-01993b3c1fe9> <http://schema.org/Product/phone_type> "iphone 4s" .
+<http://dws.products.catalog/c2a6cd86-5e36-498b-bfdb-01993b3c1fe9> <http://schema.org/Product/computer_operating_system> "ios 5" .
+<http://dws.products.catalog/c2a6cd86-5e36-498b-bfdb-01993b3c1fe9> <http://schema.org/Product/phone_carrier> "" .
+<http://dws.products.catalog/c2a6cd86-5e36-498b-bfdb-01993b3c1fe9> <http://schema.org/Product/product_type> "smartphone" .
+<http://dws.products.catalog/c2a6cd86-5e36-498b-bfdb-01993b3c1fe9> <http://schema.org/Product/core_count> "" .
+<http://dws.products.catalog/c2a6cd86-5e36-498b-bfdb-01993b3c1fe9> <http://schema.org/Product/processor_type> "a5" .
+<http://dws.products.catalog/c2a6cd86-5e36-498b-bfdb-01993b3c1fe9> <http://schema.org/Product/rear_cam_resolution> "8 mp" .
+<http://dws.products.catalog/c2a6cd86-5e36-498b-bfdb-01993b3c1fe9> <http://schema.org/Product/front_cam_resolution> "" .
+<http://dws.products.catalog/c2a6cd86-5e36-498b-bfdb-01993b3c1fe9> <http://schema.org/Product/color> "black|white" .
+<http://dws.products.catalog/c2a6cd86-5e36-498b-bfdb-01993b3c1fe9> <http://schema.org/Product/wattage> "" .
+<http://dws.products.catalog/c2a6cd86-5e36-498b-bfdb-01993b3c1fe9> <http://schema.org/Product/power_supply> "" .
+<http://dws.products.catalog/c2a6cd86-5e36-498b-bfdb-01993b3c1fe9> <http://schema.org/Product/display_size> "3.5 in" .
+<http://dws.products.catalog/c2a6cd86-5e36-498b-bfdb-01993b3c1fe9> <http://schema.org/Product/display_resolution> "960 x 640 pixels" .
+<http://dws.products.catalog/c2a6cd86-5e36-498b-bfdb-01993b3c1fe9> <http://schema.org/Product/voltage> "" .
+<http://dws.products.catalog/c2a6cd86-5e36-498b-bfdb-01993b3c1fe9> <http://schema.org/Product/mpn> "4s, aip4s64xxwhcshw, aip4s64xxwhcsna, aip4s64xxwhcsup, iphone4s 64gb att white md272ll, iphone4s64gbwhtatt, md271ll/a, rs_493_apple iphone 4s 64gb white" .
+<http://dws.products.catalog/c2a6cd86-5e36-498b-bfdb-01993b3c1fe9> <http://schema.org/Product/modelnum> "" .
+<http://dws.products.catalog/c2a6cd86-5e36-498b-bfdb-01993b3c1fe9> <http://schema.org/Product/width> "2.3 in" .
+<http://dws.products.catalog/c2a6cd86-5e36-498b-bfdb-01993b3c1fe9> <http://schema.org/Product/height> "4.5 in" .
+<http://dws.products.catalog/c2a6cd86-5e36-498b-bfdb-01993b3c1fe9> <http://schema.org/Product/depth> "0.4 in" .
+<http://dws.products.catalog/c2a6cd86-5e36-498b-bfdb-01993b3c1fe9> <http://schema.org/Product/weight> "4.9 oz" .
+<http://dws.products.catalog/c2a6cd86-5e36-498b-bfdb-01993b3c1fe9> <http://schema.org/Product/dimensions> "" .
+<http://dws.products.catalog/c2a6cd86-5e36-498b-bfdb-01993b3c1fe9> <http://schema.org/Product/body_material> "stainless steel, glass" .
+<http://dws.products.catalog/c2a6cd86-5e36-498b-bfdb-01993b3c1fe9> <http://schema.org/Product/package_height> "" .
+<http://dws.products.catalog/c2a6cd86-5e36-498b-bfdb-01993b3c1fe9> <http://schema.org/Product/product_code> "" .
+<http://dws.products.catalog/c2a6cd86-5e36-498b-bfdb-01993b3c1fe9> <http://schema.org/Product/product_gtin> "00885909537990" .
+<http://dws.products.catalog/c2a6cd86-5e36-498b-bfdb-01993b3c1fe9> <http://schema.org/Product/manufacturer> "" .
+<http://dws.products.catalog/4f875a48-7508-4407-814e-4ae96967dcb5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://dws.products.catalog/4f875a48-7508-4407-814e-4ae96967dcb5> <http://schema.org/Product/ram> "512mb" .
+<http://dws.products.catalog/4f875a48-7508-4407-814e-4ae96967dcb5> <http://schema.org/Product/memory> "8gb" .
+<http://dws.products.catalog/4f875a48-7508-4407-814e-4ae96967dcb5> <http://schema.org/Product/brand> "apple" .
+<http://dws.products.catalog/4f875a48-7508-4407-814e-4ae96967dcb5> <http://schema.org/Product/phone_type> "iphone 4s" .
+<http://dws.products.catalog/4f875a48-7508-4407-814e-4ae96967dcb5> <http://schema.org/Product/computer_operating_system> "ios 5" .
+<http://dws.products.catalog/4f875a48-7508-4407-814e-4ae96967dcb5> <http://schema.org/Product/phone_carrier> "" .
+<http://dws.products.catalog/4f875a48-7508-4407-814e-4ae96967dcb5> <http://schema.org/Product/product_type> "smartphone" .
+<http://dws.products.catalog/4f875a48-7508-4407-814e-4ae96967dcb5> <http://schema.org/Product/core_count> "" .
+<http://dws.products.catalog/4f875a48-7508-4407-814e-4ae96967dcb5> <http://schema.org/Product/processor_type> "a5" .
+<http://dws.products.catalog/4f875a48-7508-4407-814e-4ae96967dcb5> <http://schema.org/Product/rear_cam_resolution> "8 mp" .
+<http://dws.products.catalog/4f875a48-7508-4407-814e-4ae96967dcb5> <http://schema.org/Product/front_cam_resolution> "" .
+<http://dws.products.catalog/4f875a48-7508-4407-814e-4ae96967dcb5> <http://schema.org/Product/color> "black|white" .
+<http://dws.products.catalog/4f875a48-7508-4407-814e-4ae96967dcb5> <http://schema.org/Product/wattage> "" .
+<http://dws.products.catalog/4f875a48-7508-4407-814e-4ae96967dcb5> <http://schema.org/Product/power_supply> "" .
+<http://dws.products.catalog/4f875a48-7508-4407-814e-4ae96967dcb5> <http://schema.org/Product/display_size> "3.5 in" .
+<http://dws.products.catalog/4f875a48-7508-4407-814e-4ae96967dcb5> <http://schema.org/Product/display_resolution> "960 x 640 pixels" .
+<http://dws.products.catalog/4f875a48-7508-4407-814e-4ae96967dcb5> <http://schema.org/Product/voltage> "" .
+<http://dws.products.catalog/4f875a48-7508-4407-814e-4ae96967dcb5> <http://schema.org/Product/mpn> "mf257ll/a, mf257lla" .
+<http://dws.products.catalog/4f875a48-7508-4407-814e-4ae96967dcb5> <http://schema.org/Product/modelnum> "" .
+<http://dws.products.catalog/4f875a48-7508-4407-814e-4ae96967dcb5> <http://schema.org/Product/width> "2.3 in" .
+<http://dws.products.catalog/4f875a48-7508-4407-814e-4ae96967dcb5> <http://schema.org/Product/height> "4.5 in" .
+<http://dws.products.catalog/4f875a48-7508-4407-814e-4ae96967dcb5> <http://schema.org/Product/depth> "0.4 in" .
+<http://dws.products.catalog/4f875a48-7508-4407-814e-4ae96967dcb5> <http://schema.org/Product/weight> "4.9 oz" .
+<http://dws.products.catalog/4f875a48-7508-4407-814e-4ae96967dcb5> <http://schema.org/Product/dimensions> "" .
+<http://dws.products.catalog/4f875a48-7508-4407-814e-4ae96967dcb5> <http://schema.org/Product/body_material> "stainless steel, glass" .
+<http://dws.products.catalog/4f875a48-7508-4407-814e-4ae96967dcb5> <http://schema.org/Product/package_height> "" .
+<http://dws.products.catalog/4f875a48-7508-4407-814e-4ae96967dcb5> <http://schema.org/Product/product_code> "" .
+<http://dws.products.catalog/4f875a48-7508-4407-814e-4ae96967dcb5> <http://schema.org/Product/product_gtin> "00885909832750" .
+<http://dws.products.catalog/4f875a48-7508-4407-814e-4ae96967dcb5> <http://schema.org/Product/manufacturer> "" .
+<http://dws.products.catalog/1a88cd83-cf4c-49c7-82b5-1fd1f8253b2f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://dws.products.catalog/1a88cd83-cf4c-49c7-82b5-1fd1f8253b2f> <http://schema.org/Product/ram> "512mb" .
+<http://dws.products.catalog/1a88cd83-cf4c-49c7-82b5-1fd1f8253b2f> <http://schema.org/Product/memory> "16gb" .
+<http://dws.products.catalog/1a88cd83-cf4c-49c7-82b5-1fd1f8253b2f> <http://schema.org/Product/brand> "apple" .
+<http://dws.products.catalog/1a88cd83-cf4c-49c7-82b5-1fd1f8253b2f> <http://schema.org/Product/phone_type> "iphone 5" .
+<http://dws.products.catalog/1a88cd83-cf4c-49c7-82b5-1fd1f8253b2f> <http://schema.org/Product/computer_operating_system> "ios 6" .
+<http://dws.products.catalog/1a88cd83-cf4c-49c7-82b5-1fd1f8253b2f> <http://schema.org/Product/phone_carrier> "" .
+<http://dws.products.catalog/1a88cd83-cf4c-49c7-82b5-1fd1f8253b2f> <http://schema.org/Product/product_type> "smartphone" .
+<http://dws.products.catalog/1a88cd83-cf4c-49c7-82b5-1fd1f8253b2f> <http://schema.org/Product/core_count> "" .
+<http://dws.products.catalog/1a88cd83-cf4c-49c7-82b5-1fd1f8253b2f> <http://schema.org/Product/processor_type> "a6" .
+<http://dws.products.catalog/1a88cd83-cf4c-49c7-82b5-1fd1f8253b2f> <http://schema.org/Product/rear_cam_resolution> "8 mp" .
+<http://dws.products.catalog/1a88cd83-cf4c-49c7-82b5-1fd1f8253b2f> <http://schema.org/Product/front_cam_resolution> "" .
+<http://dws.products.catalog/1a88cd83-cf4c-49c7-82b5-1fd1f8253b2f> <http://schema.org/Product/color> "black|white" .
+<http://dws.products.catalog/1a88cd83-cf4c-49c7-82b5-1fd1f8253b2f> <http://schema.org/Product/wattage> "" .
+<http://dws.products.catalog/1a88cd83-cf4c-49c7-82b5-1fd1f8253b2f> <http://schema.org/Product/power_supply> "" .
+<http://dws.products.catalog/1a88cd83-cf4c-49c7-82b5-1fd1f8253b2f> <http://schema.org/Product/display_size> "4 in" .
+<http://dws.products.catalog/1a88cd83-cf4c-49c7-82b5-1fd1f8253b2f> <http://schema.org/Product/display_resolution> "1136 x 640 pixels" .
+<http://dws.products.catalog/1a88cd83-cf4c-49c7-82b5-1fd1f8253b2f> <http://schema.org/Product/voltage> "" .
+<http://dws.products.catalog/1a88cd83-cf4c-49c7-82b5-1fd1f8253b2f> <http://schema.org/Product/mpn> "md634ll/a, md634ll/ar4, md634ll/arefurb, md634lla, md638ll/a, iphone516gbblackatt" .
+<http://dws.products.catalog/1a88cd83-cf4c-49c7-82b5-1fd1f8253b2f> <http://schema.org/Product/modelnum> "" .
+<http://dws.products.catalog/1a88cd83-cf4c-49c7-82b5-1fd1f8253b2f> <http://schema.org/Product/width> "2.3 in" .
+<http://dws.products.catalog/1a88cd83-cf4c-49c7-82b5-1fd1f8253b2f> <http://schema.org/Product/height> "4.9 in" .
+<http://dws.products.catalog/1a88cd83-cf4c-49c7-82b5-1fd1f8253b2f> <http://schema.org/Product/depth> "0.3 in" .
+<http://dws.products.catalog/1a88cd83-cf4c-49c7-82b5-1fd1f8253b2f> <http://schema.org/Product/weight> "4 oz" .
+<http://dws.products.catalog/1a88cd83-cf4c-49c7-82b5-1fd1f8253b2f> <http://schema.org/Product/dimensions> "" .
+<http://dws.products.catalog/1a88cd83-cf4c-49c7-82b5-1fd1f8253b2f> <http://schema.org/Product/body_material> "aluminum, glass" .
+<http://dws.products.catalog/1a88cd83-cf4c-49c7-82b5-1fd1f8253b2f> <http://schema.org/Product/package_height> "" .
+<http://dws.products.catalog/1a88cd83-cf4c-49c7-82b5-1fd1f8253b2f> <http://schema.org/Product/product_code> "" .
+<http://dws.products.catalog/1a88cd83-cf4c-49c7-82b5-1fd1f8253b2f> <http://schema.org/Product/product_gtin> "00885909599639, 00885909599677" .
+<http://dws.products.catalog/1a88cd83-cf4c-49c7-82b5-1fd1f8253b2f> <http://schema.org/Product/manufacturer> "" .
+<http://dws.products.catalog/06b3b853-5246-4717-afed-4b40f94430ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://dws.products.catalog/06b3b853-5246-4717-afed-4b40f94430ac> <http://schema.org/Product/ram> "512mb" .
+<http://dws.products.catalog/06b3b853-5246-4717-afed-4b40f94430ac> <http://schema.org/Product/memory> "32gb" .
+<http://dws.products.catalog/06b3b853-5246-4717-afed-4b40f94430ac> <http://schema.org/Product/brand> "apple" .
+<http://dws.products.catalog/06b3b853-5246-4717-afed-4b40f94430ac> <http://schema.org/Product/phone_type> "iphone 5" .
+<http://dws.products.catalog/06b3b853-5246-4717-afed-4b40f94430ac> <http://schema.org/Product/computer_operating_system> "ios 6" .
+<http://dws.products.catalog/06b3b853-5246-4717-afed-4b40f94430ac> <http://schema.org/Product/phone_carrier> "" .
+<http://dws.products.catalog/06b3b853-5246-4717-afed-4b40f94430ac> <http://schema.org/Product/processor_type> "a6" .
+<http://dws.products.catalog/06b3b853-5246-4717-afed-4b40f94430ac> <http://schema.org/Product/product_type> "smartphone" .
+<http://dws.products.catalog/06b3b853-5246-4717-afed-4b40f94430ac> <http://schema.org/Product/core_count> "" .
+<http://dws.products.catalog/06b3b853-5246-4717-afed-4b40f94430ac> <http://schema.org/Product/rear_cam_resolution> "8 mp" .
+<http://dws.products.catalog/06b3b853-5246-4717-afed-4b40f94430ac> <http://schema.org/Product/front_cam_resolution> "" .
+<http://dws.products.catalog/06b3b853-5246-4717-afed-4b40f94430ac> <http://schema.org/Product/color> "black|white" .
+<http://dws.products.catalog/06b3b853-5246-4717-afed-4b40f94430ac> <http://schema.org/Product/wattage> "" .
+<http://dws.products.catalog/06b3b853-5246-4717-afed-4b40f94430ac> <http://schema.org/Product/power_supply> "" .
+<http://dws.products.catalog/06b3b853-5246-4717-afed-4b40f94430ac> <http://schema.org/Product/display_size> "4 in" .
+<http://dws.products.catalog/06b3b853-5246-4717-afed-4b40f94430ac> <http://schema.org/Product/display_resolution> "1136 x 640 pixels" .
+<http://dws.products.catalog/06b3b853-5246-4717-afed-4b40f94430ac> <http://schema.org/Product/voltage> "" .
+<http://dws.products.catalog/06b3b853-5246-4717-afed-4b40f94430ac> <http://schema.org/Product/mpn> "iphone532gbblackatt, md636ll/a, e63umtjxt1, iphone 5 - 32gb refurb" .
+<http://dws.products.catalog/06b3b853-5246-4717-afed-4b40f94430ac> <http://schema.org/Product/modelnum> "" .
+<http://dws.products.catalog/06b3b853-5246-4717-afed-4b40f94430ac> <http://schema.org/Product/width> "2.3 in" .
+<http://dws.products.catalog/06b3b853-5246-4717-afed-4b40f94430ac> <http://schema.org/Product/height> "4.9 in" .
+<http://dws.products.catalog/06b3b853-5246-4717-afed-4b40f94430ac> <http://schema.org/Product/depth> "0.3 in" .
+<http://dws.products.catalog/06b3b853-5246-4717-afed-4b40f94430ac> <http://schema.org/Product/weight> "4 oz" .
+<http://dws.products.catalog/06b3b853-5246-4717-afed-4b40f94430ac> <http://schema.org/Product/dimensions> "" .
+<http://dws.products.catalog/06b3b853-5246-4717-afed-4b40f94430ac> <http://schema.org/Product/body_material> "aluminum, glass" .
+<http://dws.products.catalog/06b3b853-5246-4717-afed-4b40f94430ac> <http://schema.org/Product/package_height> "" .
+<http://dws.products.catalog/06b3b853-5246-4717-afed-4b40f94430ac> <http://schema.org/Product/product_code> "" .
+<http://dws.products.catalog/06b3b853-5246-4717-afed-4b40f94430ac> <http://schema.org/Product/product_gtin> "00885909599653, 00885909599691" .
+<http://dws.products.catalog/06b3b853-5246-4717-afed-4b40f94430ac> <http://schema.org/Product/manufacturer> "" .
+<http://dws.products.catalog/46ff751e-7266-4302-a6bf-3471e4dc253a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://dws.products.catalog/46ff751e-7266-4302-a6bf-3471e4dc253a> <http://schema.org/Product/ram> "512mb" .
+<http://dws.products.catalog/46ff751e-7266-4302-a6bf-3471e4dc253a> <http://schema.org/Product/memory> "32gb" .
+<http://dws.products.catalog/46ff751e-7266-4302-a6bf-3471e4dc253a> <http://schema.org/Product/brand> "apple" .
+<http://dws.products.catalog/46ff751e-7266-4302-a6bf-3471e4dc253a> <http://schema.org/Product/phone_type> "iphone 5c" .
+<http://dws.products.catalog/46ff751e-7266-4302-a6bf-3471e4dc253a> <http://schema.org/Product/computer_operating_system> "ios 7" .
+<http://dws.products.catalog/46ff751e-7266-4302-a6bf-3471e4dc253a> <http://schema.org/Product/phone_carrier> "" .
+<http://dws.products.catalog/46ff751e-7266-4302-a6bf-3471e4dc253a> <http://schema.org/Product/product_type> "smartphone" .
+<http://dws.products.catalog/46ff751e-7266-4302-a6bf-3471e4dc253a> <http://schema.org/Product/core_count> "" .
+<http://dws.products.catalog/46ff751e-7266-4302-a6bf-3471e4dc253a> <http://schema.org/Product/processor_type> "a6" .
+<http://dws.products.catalog/46ff751e-7266-4302-a6bf-3471e4dc253a> <http://schema.org/Product/rear_cam_resolution> "8 mp" .
+<http://dws.products.catalog/46ff751e-7266-4302-a6bf-3471e4dc253a> <http://schema.org/Product/front_cam_resolution> "" .
+<http://dws.products.catalog/46ff751e-7266-4302-a6bf-3471e4dc253a> <http://schema.org/Product/color> "green|yelloe|pink|white|blue" .
+<http://dws.products.catalog/46ff751e-7266-4302-a6bf-3471e4dc253a> <http://schema.org/Product/wattage> "" .
+<http://dws.products.catalog/46ff751e-7266-4302-a6bf-3471e4dc253a> <http://schema.org/Product/power_supply> "" .
+<http://dws.products.catalog/46ff751e-7266-4302-a6bf-3471e4dc253a> <http://schema.org/Product/display_size> "4 in" .
+<http://dws.products.catalog/46ff751e-7266-4302-a6bf-3471e4dc253a> <http://schema.org/Product/display_resolution> "1136 x 640 pixels" .
+<http://dws.products.catalog/46ff751e-7266-4302-a6bf-3471e4dc253a> <http://schema.org/Product/voltage> "" .
+<http://dws.products.catalog/46ff751e-7266-4302-a6bf-3471e4dc253a> <http://schema.org/Product/mpn> "mf157ll/a" .
+<http://dws.products.catalog/46ff751e-7266-4302-a6bf-3471e4dc253a> <http://schema.org/Product/modelnum> "" .
+<http://dws.products.catalog/46ff751e-7266-4302-a6bf-3471e4dc253a> <http://schema.org/Product/width> "2.3 in" .
+<http://dws.products.catalog/46ff751e-7266-4302-a6bf-3471e4dc253a> <http://schema.org/Product/height> "4.9 in" .
+<http://dws.products.catalog/46ff751e-7266-4302-a6bf-3471e4dc253a> <http://schema.org/Product/depth> "0.4 in" .
+<http://dws.products.catalog/46ff751e-7266-4302-a6bf-3471e4dc253a> <http://schema.org/Product/weight> "4.7 oz" .
+<http://dws.products.catalog/46ff751e-7266-4302-a6bf-3471e4dc253a> <http://schema.org/Product/dimensions> "" .
+<http://dws.products.catalog/46ff751e-7266-4302-a6bf-3471e4dc253a> <http://schema.org/Product/body_material> "plastic" .
+<http://dws.products.catalog/46ff751e-7266-4302-a6bf-3471e4dc253a> <http://schema.org/Product/package_height> "" .
+<http://dws.products.catalog/46ff751e-7266-4302-a6bf-3471e4dc253a> <http://schema.org/Product/product_code> "" .
+<http://dws.products.catalog/46ff751e-7266-4302-a6bf-3471e4dc253a> <http://schema.org/Product/product_gtin> "00885909822188" .
+<http://dws.products.catalog/46ff751e-7266-4302-a6bf-3471e4dc253a> <http://schema.org/Product/manufacturer> "" .
+<http://dws.products.catalog/0fd9d78a-1ed6-4ed9-aa5b-82d49761a26b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://dws.products.catalog/0fd9d78a-1ed6-4ed9-aa5b-82d49761a26b> <http://schema.org/Product/ram> "512mb" .
+<http://dws.products.catalog/0fd9d78a-1ed6-4ed9-aa5b-82d49761a26b> <http://schema.org/Product/memory> "32gb" .
+<http://dws.products.catalog/0fd9d78a-1ed6-4ed9-aa5b-82d49761a26b> <http://schema.org/Product/brand> "apple" .
+<http://dws.products.catalog/0fd9d78a-1ed6-4ed9-aa5b-82d49761a26b> <http://schema.org/Product/phone_type> "iphone 5s" .
+<http://dws.products.catalog/0fd9d78a-1ed6-4ed9-aa5b-82d49761a26b> <http://schema.org/Product/computer_operating_system> "ios 8" .
+<http://dws.products.catalog/0fd9d78a-1ed6-4ed9-aa5b-82d49761a26b> <http://schema.org/Product/phone_carrier> "" .
+<http://dws.products.catalog/0fd9d78a-1ed6-4ed9-aa5b-82d49761a26b> <http://schema.org/Product/product_type> "smartphone" .
+<http://dws.products.catalog/0fd9d78a-1ed6-4ed9-aa5b-82d49761a26b> <http://schema.org/Product/core_count> "" .
+<http://dws.products.catalog/0fd9d78a-1ed6-4ed9-aa5b-82d49761a26b> <http://schema.org/Product/processor_type> "a7" .
+<http://dws.products.catalog/0fd9d78a-1ed6-4ed9-aa5b-82d49761a26b> <http://schema.org/Product/rear_cam_resolution> "8 mp" .
+<http://dws.products.catalog/0fd9d78a-1ed6-4ed9-aa5b-82d49761a26b> <http://schema.org/Product/front_cam_resolution> "1.2 mp" .
+<http://dws.products.catalog/0fd9d78a-1ed6-4ed9-aa5b-82d49761a26b> <http://schema.org/Product/color> "gold|silver|space gray" .
+<http://dws.products.catalog/0fd9d78a-1ed6-4ed9-aa5b-82d49761a26b> <http://schema.org/Product/wattage> "" .
+<http://dws.products.catalog/0fd9d78a-1ed6-4ed9-aa5b-82d49761a26b> <http://schema.org/Product/power_supply> "" .
+<http://dws.products.catalog/0fd9d78a-1ed6-4ed9-aa5b-82d49761a26b> <http://schema.org/Product/display_size> "4 in" .
+<http://dws.products.catalog/0fd9d78a-1ed6-4ed9-aa5b-82d49761a26b> <http://schema.org/Product/display_resolution> "1136 x 640 pixels" .
+<http://dws.products.catalog/0fd9d78a-1ed6-4ed9-aa5b-82d49761a26b> <http://schema.org/Product/voltage> "1560 mah " .
+<http://dws.products.catalog/0fd9d78a-1ed6-4ed9-aa5b-82d49761a26b> <http://schema.org/Product/mpn> "me299e/a, me299ll/a" .
+<http://dws.products.catalog/0fd9d78a-1ed6-4ed9-aa5b-82d49761a26b> <http://schema.org/Product/modelnum> "" .
+<http://dws.products.catalog/0fd9d78a-1ed6-4ed9-aa5b-82d49761a26b> <http://schema.org/Product/width> "2.3 in" .
+<http://dws.products.catalog/0fd9d78a-1ed6-4ed9-aa5b-82d49761a26b> <http://schema.org/Product/height> "4.9 in" .
+<http://dws.products.catalog/0fd9d78a-1ed6-4ed9-aa5b-82d49761a26b> <http://schema.org/Product/depth> "0.3 in" .
+<http://dws.products.catalog/0fd9d78a-1ed6-4ed9-aa5b-82d49761a26b> <http://schema.org/Product/weight> "3.95 oz" .
+<http://dws.products.catalog/0fd9d78a-1ed6-4ed9-aa5b-82d49761a26b> <http://schema.org/Product/dimensions> "123.8 x 58.6 x 7.6 mm" .
+<http://dws.products.catalog/0fd9d78a-1ed6-4ed9-aa5b-82d49761a26b> <http://schema.org/Product/body_material> "aluminum, glass" .
+<http://dws.products.catalog/0fd9d78a-1ed6-4ed9-aa5b-82d49761a26b> <http://schema.org/Product/package_height> "" .
+<http://dws.products.catalog/0fd9d78a-1ed6-4ed9-aa5b-82d49761a26b> <http://schema.org/Product/product_code> "" .
+<http://dws.products.catalog/0fd9d78a-1ed6-4ed9-aa5b-82d49761a26b> <http://schema.org/Product/product_gtin> "00885909771271" .
+<http://dws.products.catalog/0fd9d78a-1ed6-4ed9-aa5b-82d49761a26b> <http://schema.org/Product/manufacturer> "" .
+<http://dws.products.catalog/43ae8958-9d57-41fe-ac65-39b32e33ba61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://dws.products.catalog/43ae8958-9d57-41fe-ac65-39b32e33ba61> <http://schema.org/Product/ram> "512mb" .
+<http://dws.products.catalog/43ae8958-9d57-41fe-ac65-39b32e33ba61> <http://schema.org/Product/memory> "16gb" .
+<http://dws.products.catalog/43ae8958-9d57-41fe-ac65-39b32e33ba61> <http://schema.org/Product/brand> "apple" .
+<http://dws.products.catalog/43ae8958-9d57-41fe-ac65-39b32e33ba61> <http://schema.org/Product/phone_type> "iphone 5s" .
+<http://dws.products.catalog/43ae8958-9d57-41fe-ac65-39b32e33ba61> <http://schema.org/Product/computer_operating_system> "ios 8" .
+<http://dws.products.catalog/43ae8958-9d57-41fe-ac65-39b32e33ba61> <http://schema.org/Product/phone_carrier> "" .
+<http://dws.products.catalog/43ae8958-9d57-41fe-ac65-39b32e33ba61> <http://schema.org/Product/product_type> "smartphone" .
+<http://dws.products.catalog/43ae8958-9d57-41fe-ac65-39b32e33ba61> <http://schema.org/Product/core_count> "" .
+<http://dws.products.catalog/43ae8958-9d57-41fe-ac65-39b32e33ba61> <http://schema.org/Product/processor_type> "a7" .
+<http://dws.products.catalog/43ae8958-9d57-41fe-ac65-39b32e33ba61> <http://schema.org/Product/rear_cam_resolution> "8 mp" .
+<http://dws.products.catalog/43ae8958-9d57-41fe-ac65-39b32e33ba61> <http://schema.org/Product/front_cam_resolution> "1.2 mp" .
+<http://dws.products.catalog/43ae8958-9d57-41fe-ac65-39b32e33ba61> <http://schema.org/Product/color> "gold|silver|space gray" .
+<http://dws.products.catalog/43ae8958-9d57-41fe-ac65-39b32e33ba61> <http://schema.org/Product/wattage> "" .
+<http://dws.products.catalog/43ae8958-9d57-41fe-ac65-39b32e33ba61> <http://schema.org/Product/power_supply> "" .
+<http://dws.products.catalog/43ae8958-9d57-41fe-ac65-39b32e33ba61> <http://schema.org/Product/display_size> "4 in" .
+<http://dws.products.catalog/43ae8958-9d57-41fe-ac65-39b32e33ba61> <http://schema.org/Product/display_resolution> "1136 x 640 pixels" .
+<http://dws.products.catalog/43ae8958-9d57-41fe-ac65-39b32e33ba61> <http://schema.org/Product/voltage> "1560 mah " .
+<http://dws.products.catalog/43ae8958-9d57-41fe-ac65-39b32e33ba61> <http://schema.org/Product/mpn> "" .
+<http://dws.products.catalog/43ae8958-9d57-41fe-ac65-39b32e33ba61> <http://schema.org/Product/modelnum> "" .
+<http://dws.products.catalog/43ae8958-9d57-41fe-ac65-39b32e33ba61> <http://schema.org/Product/width> "2.3 in" .
+<http://dws.products.catalog/43ae8958-9d57-41fe-ac65-39b32e33ba61> <http://schema.org/Product/height> "4.9 in" .
+<http://dws.products.catalog/43ae8958-9d57-41fe-ac65-39b32e33ba61> <http://schema.org/Product/depth> "0.3 in" .
+<http://dws.products.catalog/43ae8958-9d57-41fe-ac65-39b32e33ba61> <http://schema.org/Product/weight> "3.95 oz" .
+<http://dws.products.catalog/43ae8958-9d57-41fe-ac65-39b32e33ba61> <http://schema.org/Product/dimensions> "123.8 x 58.6 x 7.6 mm" .
+<http://dws.products.catalog/43ae8958-9d57-41fe-ac65-39b32e33ba61> <http://schema.org/Product/body_material> "aluminum, glass" .
+<http://dws.products.catalog/43ae8958-9d57-41fe-ac65-39b32e33ba61> <http://schema.org/Product/package_height> "" .
+<http://dws.products.catalog/43ae8958-9d57-41fe-ac65-39b32e33ba61> <http://schema.org/Product/product_code> "" .
+<http://dws.products.catalog/43ae8958-9d57-41fe-ac65-39b32e33ba61> <http://schema.org/Product/product_gtin> "" .
+<http://dws.products.catalog/43ae8958-9d57-41fe-ac65-39b32e33ba61> <http://schema.org/Product/manufacturer> "" .
+<http://dws.products.catalog/4eb10db5-17f7-4889-bdb2-0d8111708a0c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://dws.products.catalog/4eb10db5-17f7-4889-bdb2-0d8111708a0c> <http://schema.org/Product/ram> "3gb" .
+<http://dws.products.catalog/4eb10db5-17f7-4889-bdb2-0d8111708a0c> <http://schema.org/Product/memory> "64gb" .
+<http://dws.products.catalog/4eb10db5-17f7-4889-bdb2-0d8111708a0c> <http://schema.org/Product/brand> "huawei" .
+<http://dws.products.catalog/4eb10db5-17f7-4889-bdb2-0d8111708a0c> <http://schema.org/Product/phone_type> "nexus 6p" .
+<http://dws.products.catalog/4eb10db5-17f7-4889-bdb2-0d8111708a0c> <http://schema.org/Product/computer_operating_system> "android 6.0 marshmallow" .
+<http://dws.products.catalog/4eb10db5-17f7-4889-bdb2-0d8111708a0c> <http://schema.org/Product/phone_carrier> "" .
+<http://dws.products.catalog/4eb10db5-17f7-4889-bdb2-0d8111708a0c> <http://schema.org/Product/product_type> "smartphone" .
+<http://dws.products.catalog/4eb10db5-17f7-4889-bdb2-0d8111708a0c> <http://schema.org/Product/core_count> "8" .
+<http://dws.products.catalog/4eb10db5-17f7-4889-bdb2-0d8111708a0c> <http://schema.org/Product/processor_type> "qualcomm msm8994 snapdragon 810" .
+<http://dws.products.catalog/4eb10db5-17f7-4889-bdb2-0d8111708a0c> <http://schema.org/Product/rear_cam_resolution> "12.3 mp" .
+<http://dws.products.catalog/4eb10db5-17f7-4889-bdb2-0d8111708a0c> <http://schema.org/Product/front_cam_resolution> "8 mp" .
+<http://dws.products.catalog/4eb10db5-17f7-4889-bdb2-0d8111708a0c> <http://schema.org/Product/color> "aluminium|graphite|frost" .
+<http://dws.products.catalog/4eb10db5-17f7-4889-bdb2-0d8111708a0c> <http://schema.org/Product/wattage> "" .
+<http://dws.products.catalog/4eb10db5-17f7-4889-bdb2-0d8111708a0c> <http://schema.org/Product/power_supply> "" .
+<http://dws.products.catalog/4eb10db5-17f7-4889-bdb2-0d8111708a0c> <http://schema.org/Product/display_size> "5.7 in" .
+<http://dws.products.catalog/4eb10db5-17f7-4889-bdb2-0d8111708a0c> <http://schema.org/Product/display_resolution> "2560 x 1440 pixels" .
+<http://dws.products.catalog/4eb10db5-17f7-4889-bdb2-0d8111708a0c> <http://schema.org/Product/voltage> "3450 mah " .
+<http://dws.products.catalog/4eb10db5-17f7-4889-bdb2-0d8111708a0c> <http://schema.org/Product/mpn> "h1511 128gb " .
+<http://dws.products.catalog/4eb10db5-17f7-4889-bdb2-0d8111708a0c> <http://schema.org/Product/modelnum> "" .
+<http://dws.products.catalog/4eb10db5-17f7-4889-bdb2-0d8111708a0c> <http://schema.org/Product/width> "3.06 in" .
+<http://dws.products.catalog/4eb10db5-17f7-4889-bdb2-0d8111708a0c> <http://schema.org/Product/height> "6.27 in" .
+<http://dws.products.catalog/4eb10db5-17f7-4889-bdb2-0d8111708a0c> <http://schema.org/Product/depth> "0.29 in" .
+<http://dws.products.catalog/4eb10db5-17f7-4889-bdb2-0d8111708a0c> <http://schema.org/Product/weight> "6.28 oz" .
+<http://dws.products.catalog/4eb10db5-17f7-4889-bdb2-0d8111708a0c> <http://schema.org/Product/dimensions> "159.3 x 77.8 x 7.3 mm" .
+<http://dws.products.catalog/4eb10db5-17f7-4889-bdb2-0d8111708a0c> <http://schema.org/Product/body_material> "anodized aluminum" .
+<http://dws.products.catalog/4eb10db5-17f7-4889-bdb2-0d8111708a0c> <http://schema.org/Product/package_height> "" .
+<http://dws.products.catalog/4eb10db5-17f7-4889-bdb2-0d8111708a0c> <http://schema.org/Product/product_code> "" .
+<http://dws.products.catalog/4eb10db5-17f7-4889-bdb2-0d8111708a0c> <http://schema.org/Product/product_gtin> "" .
+<http://dws.products.catalog/4eb10db5-17f7-4889-bdb2-0d8111708a0c> <http://schema.org/Product/manufacturer> "" .
+<http://dws.products.catalog/6611e07f-c01d-473d-8bde-3a93b7046f2e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://dws.products.catalog/6611e07f-c01d-473d-8bde-3a93b7046f2e> <http://schema.org/Product/ram> "3gb" .
+<http://dws.products.catalog/6611e07f-c01d-473d-8bde-3a93b7046f2e> <http://schema.org/Product/memory> "32gb" .
+<http://dws.products.catalog/6611e07f-c01d-473d-8bde-3a93b7046f2e> <http://schema.org/Product/brand> "huawei" .
+<http://dws.products.catalog/6611e07f-c01d-473d-8bde-3a93b7046f2e> <http://schema.org/Product/phone_type> "nexus 6p" .
+<http://dws.products.catalog/6611e07f-c01d-473d-8bde-3a93b7046f2e> <http://schema.org/Product/computer_operating_system> "android 6.0 marshmallow" .
+<http://dws.products.catalog/6611e07f-c01d-473d-8bde-3a93b7046f2e> <http://schema.org/Product/phone_carrier> "" .
+<http://dws.products.catalog/6611e07f-c01d-473d-8bde-3a93b7046f2e> <http://schema.org/Product/product_type> "smartphone" .
+<http://dws.products.catalog/6611e07f-c01d-473d-8bde-3a93b7046f2e> <http://schema.org/Product/core_count> "8" .
+<http://dws.products.catalog/6611e07f-c01d-473d-8bde-3a93b7046f2e> <http://schema.org/Product/processor_type> "qualcomm msm8994 snapdragon 810" .
+<http://dws.products.catalog/6611e07f-c01d-473d-8bde-3a93b7046f2e> <http://schema.org/Product/rear_cam_resolution> "12.3 mp" .
+<http://dws.products.catalog/6611e07f-c01d-473d-8bde-3a93b7046f2e> <http://schema.org/Product/front_cam_resolution> "8 mp" .
+<http://dws.products.catalog/6611e07f-c01d-473d-8bde-3a93b7046f2e> <http://schema.org/Product/color> "aluminium|graphite|frost" .
+<http://dws.products.catalog/6611e07f-c01d-473d-8bde-3a93b7046f2e> <http://schema.org/Product/wattage> "" .
+<http://dws.products.catalog/6611e07f-c01d-473d-8bde-3a93b7046f2e> <http://schema.org/Product/power_supply> "" .
+<http://dws.products.catalog/6611e07f-c01d-473d-8bde-3a93b7046f2e> <http://schema.org/Product/display_size> "5.7 in" .
+<http://dws.products.catalog/6611e07f-c01d-473d-8bde-3a93b7046f2e> <http://schema.org/Product/display_resolution> "2560 x 1440 pixels" .
+<http://dws.products.catalog/6611e07f-c01d-473d-8bde-3a93b7046f2e> <http://schema.org/Product/voltage> "3450 mah " .
+<http://dws.products.catalog/6611e07f-c01d-473d-8bde-3a93b7046f2e> <http://schema.org/Product/mpn> "51097231, gsrf-51097231" .
+<http://dws.products.catalog/6611e07f-c01d-473d-8bde-3a93b7046f2e> <http://schema.org/Product/modelnum> "" .
+<http://dws.products.catalog/6611e07f-c01d-473d-8bde-3a93b7046f2e> <http://schema.org/Product/width> "3.06 in" .
+<http://dws.products.catalog/6611e07f-c01d-473d-8bde-3a93b7046f2e> <http://schema.org/Product/height> "6.27 in" .
+<http://dws.products.catalog/6611e07f-c01d-473d-8bde-3a93b7046f2e> <http://schema.org/Product/depth> "0.29 in" .
+<http://dws.products.catalog/6611e07f-c01d-473d-8bde-3a93b7046f2e> <http://schema.org/Product/weight> "6.28 oz" .
+<http://dws.products.catalog/6611e07f-c01d-473d-8bde-3a93b7046f2e> <http://schema.org/Product/dimensions> "159.3 x 77.8 x 7.3 mm" .
+<http://dws.products.catalog/6611e07f-c01d-473d-8bde-3a93b7046f2e> <http://schema.org/Product/body_material> "anodized aluminum" .
+<http://dws.products.catalog/6611e07f-c01d-473d-8bde-3a93b7046f2e> <http://schema.org/Product/package_height> "" .
+<http://dws.products.catalog/6611e07f-c01d-473d-8bde-3a93b7046f2e> <http://schema.org/Product/product_code> "" .
+<http://dws.products.catalog/6611e07f-c01d-473d-8bde-3a93b7046f2e> <http://schema.org/Product/product_gtin> "00600736756174, 00886598036054" .
+<http://dws.products.catalog/6611e07f-c01d-473d-8bde-3a93b7046f2e> <http://schema.org/Product/manufacturer> "" .
+<http://dws.products.catalog/28a6672b-67f1-47da-9164-b5a658821dfc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://dws.products.catalog/28a6672b-67f1-47da-9164-b5a658821dfc> <http://schema.org/Product/ram> "2gb" .
+<http://dws.products.catalog/28a6672b-67f1-47da-9164-b5a658821dfc> <http://schema.org/Product/memory> "16gb" .
+<http://dws.products.catalog/28a6672b-67f1-47da-9164-b5a658821dfc> <http://schema.org/Product/brand> "lg" .
+<http://dws.products.catalog/28a6672b-67f1-47da-9164-b5a658821dfc> <http://schema.org/Product/phone_type> "nexus 5" .
+<http://dws.products.catalog/28a6672b-67f1-47da-9164-b5a658821dfc> <http://schema.org/Product/computer_operating_system> "android 4.4 (kitkat)" .
+<http://dws.products.catalog/28a6672b-67f1-47da-9164-b5a658821dfc> <http://schema.org/Product/phone_carrier> "not specified" .
+<http://dws.products.catalog/28a6672b-67f1-47da-9164-b5a658821dfc> <http://schema.org/Product/product_type> "android smartphone" .
+<http://dws.products.catalog/28a6672b-67f1-47da-9164-b5a658821dfc> <http://schema.org/Product/core_count> "" .
+<http://dws.products.catalog/28a6672b-67f1-47da-9164-b5a658821dfc> <http://schema.org/Product/processor_type> "" .
+<http://dws.products.catalog/28a6672b-67f1-47da-9164-b5a658821dfc> <http://schema.org/Product/rear_cam_resolution> "" .
+<http://dws.products.catalog/28a6672b-67f1-47da-9164-b5a658821dfc> <http://schema.org/Product/front_cam_resolution> "" .
+<http://dws.products.catalog/28a6672b-67f1-47da-9164-b5a658821dfc> <http://schema.org/Product/color> "black" .
+<http://dws.products.catalog/28a6672b-67f1-47da-9164-b5a658821dfc> <http://schema.org/Product/wattage> "" .
+<http://dws.products.catalog/28a6672b-67f1-47da-9164-b5a658821dfc> <http://schema.org/Product/power_supply> "" .
+<http://dws.products.catalog/28a6672b-67f1-47da-9164-b5a658821dfc> <http://schema.org/Product/display_size> "4.95 in" .
+<http://dws.products.catalog/28a6672b-67f1-47da-9164-b5a658821dfc> <http://schema.org/Product/display_resolution> "1920 x 1080 pixels" .
+<http://dws.products.catalog/28a6672b-67f1-47da-9164-b5a658821dfc> <http://schema.org/Product/voltage> "" .
+<http://dws.products.catalog/28a6672b-67f1-47da-9164-b5a658821dfc> <http://schema.org/Product/mpn> "" .
+<http://dws.products.catalog/28a6672b-67f1-47da-9164-b5a658821dfc> <http://schema.org/Product/modelnum> "" .
+<http://dws.products.catalog/28a6672b-67f1-47da-9164-b5a658821dfc> <http://schema.org/Product/width> "2.7 in" .
+<http://dws.products.catalog/28a6672b-67f1-47da-9164-b5a658821dfc> <http://schema.org/Product/height> "5.4 in" .
+<http://dws.products.catalog/28a6672b-67f1-47da-9164-b5a658821dfc> <http://schema.org/Product/depth> "0.3 in" .
+<http://dws.products.catalog/28a6672b-67f1-47da-9164-b5a658821dfc> <http://schema.org/Product/weight> "4.59 oz" .
+<http://dws.products.catalog/28a6672b-67f1-47da-9164-b5a658821dfc> <http://schema.org/Product/dimensions> "" .
+<http://dws.products.catalog/28a6672b-67f1-47da-9164-b5a658821dfc> <http://schema.org/Product/body_material> "" .
+<http://dws.products.catalog/28a6672b-67f1-47da-9164-b5a658821dfc> <http://schema.org/Product/package_height> "" .
+<http://dws.products.catalog/28a6672b-67f1-47da-9164-b5a658821dfc> <http://schema.org/Product/product_code> "" .
+<http://dws.products.catalog/28a6672b-67f1-47da-9164-b5a658821dfc> <http://schema.org/Product/product_gtin> "00336452638745, 00652810119337, 08808992088943" .
+<http://dws.products.catalog/28a6672b-67f1-47da-9164-b5a658821dfc> <http://schema.org/Product/manufacturer> "" .
+<http://dws.products.catalog/389d2228-5b6b-4f6b-969c-27b245f4c233> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://dws.products.catalog/389d2228-5b6b-4f6b-969c-27b245f4c233> <http://schema.org/Product/ram> "2gb" .
+<http://dws.products.catalog/389d2228-5b6b-4f6b-969c-27b245f4c233> <http://schema.org/Product/memory> "32gb" .
+<http://dws.products.catalog/389d2228-5b6b-4f6b-969c-27b245f4c233> <http://schema.org/Product/brand> "lg" .
+<http://dws.products.catalog/389d2228-5b6b-4f6b-969c-27b245f4c233> <http://schema.org/Product/phone_type> "nexus 5" .
+<http://dws.products.catalog/389d2228-5b6b-4f6b-969c-27b245f4c233> <http://schema.org/Product/computer_operating_system> "android 4.4 (kitkat)" .
+<http://dws.products.catalog/389d2228-5b6b-4f6b-969c-27b245f4c233> <http://schema.org/Product/phone_carrier> "not specified" .
+<http://dws.products.catalog/389d2228-5b6b-4f6b-969c-27b245f4c233> <http://schema.org/Product/product_type> "android phone" .
+<http://dws.products.catalog/389d2228-5b6b-4f6b-969c-27b245f4c233> <http://schema.org/Product/core_count> "" .
+<http://dws.products.catalog/389d2228-5b6b-4f6b-969c-27b245f4c233> <http://schema.org/Product/processor_type> "" .
+<http://dws.products.catalog/389d2228-5b6b-4f6b-969c-27b245f4c233> <http://schema.org/Product/rear_cam_resolution> "" .
+<http://dws.products.catalog/389d2228-5b6b-4f6b-969c-27b245f4c233> <http://schema.org/Product/front_cam_resolution> "" .
+<http://dws.products.catalog/389d2228-5b6b-4f6b-969c-27b245f4c233> <http://schema.org/Product/color> "white" .
+<http://dws.products.catalog/389d2228-5b6b-4f6b-969c-27b245f4c233> <http://schema.org/Product/wattage> "" .
+<http://dws.products.catalog/389d2228-5b6b-4f6b-969c-27b245f4c233> <http://schema.org/Product/power_supply> "" .
+<http://dws.products.catalog/389d2228-5b6b-4f6b-969c-27b245f4c233> <http://schema.org/Product/display_size> "4.95 in" .
+<http://dws.products.catalog/389d2228-5b6b-4f6b-969c-27b245f4c233> <http://schema.org/Product/display_resolution> "1920 x 1080 pixels" .
+<http://dws.products.catalog/389d2228-5b6b-4f6b-969c-27b245f4c233> <http://schema.org/Product/voltage> "" .
+<http://dws.products.catalog/389d2228-5b6b-4f6b-969c-27b245f4c233> <http://schema.org/Product/mpn> "" .
+<http://dws.products.catalog/389d2228-5b6b-4f6b-969c-27b245f4c233> <http://schema.org/Product/modelnum> "" .
+<http://dws.products.catalog/389d2228-5b6b-4f6b-969c-27b245f4c233> <http://schema.org/Product/width> "2.7 in" .
+<http://dws.products.catalog/389d2228-5b6b-4f6b-969c-27b245f4c233> <http://schema.org/Product/height> "5.4 in" .
+<http://dws.products.catalog/389d2228-5b6b-4f6b-969c-27b245f4c233> <http://schema.org/Product/depth> "0.3 in" .
+<http://dws.products.catalog/389d2228-5b6b-4f6b-969c-27b245f4c233> <http://schema.org/Product/weight> "4.6 oz" .
+<http://dws.products.catalog/389d2228-5b6b-4f6b-969c-27b245f4c233> <http://schema.org/Product/dimensions> "" .
+<http://dws.products.catalog/389d2228-5b6b-4f6b-969c-27b245f4c233> <http://schema.org/Product/body_material> "" .
+<http://dws.products.catalog/389d2228-5b6b-4f6b-969c-27b245f4c233> <http://schema.org/Product/package_height> "" .
+<http://dws.products.catalog/389d2228-5b6b-4f6b-969c-27b245f4c233> <http://schema.org/Product/product_code> "" .
+<http://dws.products.catalog/389d2228-5b6b-4f6b-969c-27b245f4c233> <http://schema.org/Product/product_gtin> "00652810119429, 08806084950932" .
+<http://dws.products.catalog/389d2228-5b6b-4f6b-969c-27b245f4c233> <http://schema.org/Product/manufacturer> "" .
+<http://dws.products.catalog/d79d3c56-0ca8-4a99-aeee-c5121e0b5fce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://dws.products.catalog/d79d3c56-0ca8-4a99-aeee-c5121e0b5fce> <http://schema.org/Product/ram> "2gb" .
+<http://dws.products.catalog/d79d3c56-0ca8-4a99-aeee-c5121e0b5fce> <http://schema.org/Product/memory> "24gb" .
+<http://dws.products.catalog/d79d3c56-0ca8-4a99-aeee-c5121e0b5fce> <http://schema.org/Product/brand> "htc" .
+<http://dws.products.catalog/d79d3c56-0ca8-4a99-aeee-c5121e0b5fce> <http://schema.org/Product/phone_type> "one m8" .
+<http://dws.products.catalog/d79d3c56-0ca8-4a99-aeee-c5121e0b5fce> <http://schema.org/Product/computer_operating_system> "android 4.4 (kitkat)" .
+<http://dws.products.catalog/d79d3c56-0ca8-4a99-aeee-c5121e0b5fce> <http://schema.org/Product/phone_carrier> "at&t" .
+<http://dws.products.catalog/d79d3c56-0ca8-4a99-aeee-c5121e0b5fce> <http://schema.org/Product/product_type> "android phone" .
+<http://dws.products.catalog/d79d3c56-0ca8-4a99-aeee-c5121e0b5fce> <http://schema.org/Product/core_count> "" .
+<http://dws.products.catalog/d79d3c56-0ca8-4a99-aeee-c5121e0b5fce> <http://schema.org/Product/processor_type> "" .
+<http://dws.products.catalog/d79d3c56-0ca8-4a99-aeee-c5121e0b5fce> <http://schema.org/Product/rear_cam_resolution> "" .
+<http://dws.products.catalog/d79d3c56-0ca8-4a99-aeee-c5121e0b5fce> <http://schema.org/Product/front_cam_resolution> "" .
+<http://dws.products.catalog/d79d3c56-0ca8-4a99-aeee-c5121e0b5fce> <http://schema.org/Product/color> "gunmetal gray" .
+<http://dws.products.catalog/d79d3c56-0ca8-4a99-aeee-c5121e0b5fce> <http://schema.org/Product/wattage> "" .
+<http://dws.products.catalog/d79d3c56-0ca8-4a99-aeee-c5121e0b5fce> <http://schema.org/Product/power_supply> "" .
+<http://dws.products.catalog/d79d3c56-0ca8-4a99-aeee-c5121e0b5fce> <http://schema.org/Product/display_size> "5 in" .
+<http://dws.products.catalog/d79d3c56-0ca8-4a99-aeee-c5121e0b5fce> <http://schema.org/Product/display_resolution> "1920 x 1080 pixels" .
+<http://dws.products.catalog/d79d3c56-0ca8-4a99-aeee-c5121e0b5fce> <http://schema.org/Product/voltage> "" .
+<http://dws.products.catalog/d79d3c56-0ca8-4a99-aeee-c5121e0b5fce> <http://schema.org/Product/mpn> "" .
+<http://dws.products.catalog/d79d3c56-0ca8-4a99-aeee-c5121e0b5fce> <http://schema.org/Product/modelnum> "" .
+<http://dws.products.catalog/d79d3c56-0ca8-4a99-aeee-c5121e0b5fce> <http://schema.org/Product/width> "2.8 in" .
+<http://dws.products.catalog/d79d3c56-0ca8-4a99-aeee-c5121e0b5fce> <http://schema.org/Product/height> "5.8 in" .
+<http://dws.products.catalog/d79d3c56-0ca8-4a99-aeee-c5121e0b5fce> <http://schema.org/Product/depth> "0.4 in" .
+<http://dws.products.catalog/d79d3c56-0ca8-4a99-aeee-c5121e0b5fce> <http://schema.org/Product/weight> "5.6 oz" .
+<http://dws.products.catalog/d79d3c56-0ca8-4a99-aeee-c5121e0b5fce> <http://schema.org/Product/dimensions> "" .
+<http://dws.products.catalog/d79d3c56-0ca8-4a99-aeee-c5121e0b5fce> <http://schema.org/Product/body_material> "brushed metal" .
+<http://dws.products.catalog/d79d3c56-0ca8-4a99-aeee-c5121e0b5fce> <http://schema.org/Product/package_height> "" .
+<http://dws.products.catalog/d79d3c56-0ca8-4a99-aeee-c5121e0b5fce> <http://schema.org/Product/product_code> "" .
+<http://dws.products.catalog/d79d3c56-0ca8-4a99-aeee-c5121e0b5fce> <http://schema.org/Product/product_gtin> "00821793039523, 00821793043384" .
+<http://dws.products.catalog/d79d3c56-0ca8-4a99-aeee-c5121e0b5fce> <http://schema.org/Product/manufacturer> "" .
+<http://dws.products.catalog/c9f3ab2a-ed78-4755-96e9-bba808ac5680> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://dws.products.catalog/c9f3ab2a-ed78-4755-96e9-bba808ac5680> <http://schema.org/Product/ram> "1gb" .
+<http://dws.products.catalog/c9f3ab2a-ed78-4755-96e9-bba808ac5680> <http://schema.org/Product/memory> "16gb" .
+<http://dws.products.catalog/c9f3ab2a-ed78-4755-96e9-bba808ac5680> <http://schema.org/Product/brand> "htc" .
+<http://dws.products.catalog/c9f3ab2a-ed78-4755-96e9-bba808ac5680> <http://schema.org/Product/phone_type> "one s" .
+<http://dws.products.catalog/c9f3ab2a-ed78-4755-96e9-bba808ac5680> <http://schema.org/Product/computer_operating_system> "android 4.0 (ice cream sandwich)" .
+<http://dws.products.catalog/c9f3ab2a-ed78-4755-96e9-bba808ac5680> <http://schema.org/Product/phone_carrier> "t-mobile" .
+<http://dws.products.catalog/c9f3ab2a-ed78-4755-96e9-bba808ac5680> <http://schema.org/Product/product_type> "android phone" .
+<http://dws.products.catalog/c9f3ab2a-ed78-4755-96e9-bba808ac5680> <http://schema.org/Product/core_count> "" .
+<http://dws.products.catalog/c9f3ab2a-ed78-4755-96e9-bba808ac5680> <http://schema.org/Product/processor_type> "" .
+<http://dws.products.catalog/c9f3ab2a-ed78-4755-96e9-bba808ac5680> <http://schema.org/Product/rear_cam_resolution> "" .
+<http://dws.products.catalog/c9f3ab2a-ed78-4755-96e9-bba808ac5680> <http://schema.org/Product/front_cam_resolution> "" .
+<http://dws.products.catalog/c9f3ab2a-ed78-4755-96e9-bba808ac5680> <http://schema.org/Product/color> "blue gradient" .
+<http://dws.products.catalog/c9f3ab2a-ed78-4755-96e9-bba808ac5680> <http://schema.org/Product/wattage> "" .
+<http://dws.products.catalog/c9f3ab2a-ed78-4755-96e9-bba808ac5680> <http://schema.org/Product/power_supply> "" .
+<http://dws.products.catalog/c9f3ab2a-ed78-4755-96e9-bba808ac5680> <http://schema.org/Product/display_size> "4.3 in" .
+<http://dws.products.catalog/c9f3ab2a-ed78-4755-96e9-bba808ac5680> <http://schema.org/Product/display_resolution> "960 x 540 pixels" .
+<http://dws.products.catalog/c9f3ab2a-ed78-4755-96e9-bba808ac5680> <http://schema.org/Product/voltage> "" .
+<http://dws.products.catalog/c9f3ab2a-ed78-4755-96e9-bba808ac5680> <http://schema.org/Product/mpn> "" .
+<http://dws.products.catalog/c9f3ab2a-ed78-4755-96e9-bba808ac5680> <http://schema.org/Product/modelnum> "" .
+<http://dws.products.catalog/c9f3ab2a-ed78-4755-96e9-bba808ac5680> <http://schema.org/Product/width> "2.6 in" .
+<http://dws.products.catalog/c9f3ab2a-ed78-4755-96e9-bba808ac5680> <http://schema.org/Product/height> "5.2 in" .
+<http://dws.products.catalog/c9f3ab2a-ed78-4755-96e9-bba808ac5680> <http://schema.org/Product/depth> "0.3 in" .
+<http://dws.products.catalog/c9f3ab2a-ed78-4755-96e9-bba808ac5680> <http://schema.org/Product/weight> "4.3 oz" .
+<http://dws.products.catalog/c9f3ab2a-ed78-4755-96e9-bba808ac5680> <http://schema.org/Product/dimensions> "" .
+<http://dws.products.catalog/c9f3ab2a-ed78-4755-96e9-bba808ac5680> <http://schema.org/Product/body_material> "" .
+<http://dws.products.catalog/c9f3ab2a-ed78-4755-96e9-bba808ac5680> <http://schema.org/Product/package_height> "" .
+<http://dws.products.catalog/c9f3ab2a-ed78-4755-96e9-bba808ac5680> <http://schema.org/Product/product_code> "" .
+<http://dws.products.catalog/c9f3ab2a-ed78-4755-96e9-bba808ac5680> <http://schema.org/Product/product_gtin> "00610214629555, 04710937373103" .
+<http://dws.products.catalog/c9f3ab2a-ed78-4755-96e9-bba808ac5680> <http://schema.org/Product/manufacturer> "" .
+<http://dws.products.catalog/b1eb60e3-f0cf-4209-b750-a28c01bed354> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://dws.products.catalog/b1eb60e3-f0cf-4209-b750-a28c01bed354> <http://schema.org/Product/ram> "512mb" .
+<http://dws.products.catalog/b1eb60e3-f0cf-4209-b750-a28c01bed354> <http://schema.org/Product/memory> "4gb" .
+<http://dws.products.catalog/b1eb60e3-f0cf-4209-b750-a28c01bed354> <http://schema.org/Product/brand> "htc" .
+<http://dws.products.catalog/b1eb60e3-f0cf-4209-b750-a28c01bed354> <http://schema.org/Product/phone_type> "one v" .
+<http://dws.products.catalog/b1eb60e3-f0cf-4209-b750-a28c01bed354> <http://schema.org/Product/computer_operating_system> "android 4.0 (ice cream sandwich)" .
+<http://dws.products.catalog/b1eb60e3-f0cf-4209-b750-a28c01bed354> <http://schema.org/Product/phone_carrier> "not specified" .
+<http://dws.products.catalog/b1eb60e3-f0cf-4209-b750-a28c01bed354> <http://schema.org/Product/product_type> "android phone" .
+<http://dws.products.catalog/b1eb60e3-f0cf-4209-b750-a28c01bed354> <http://schema.org/Product/core_count> "" .
+<http://dws.products.catalog/b1eb60e3-f0cf-4209-b750-a28c01bed354> <http://schema.org/Product/processor_type> "" .
+<http://dws.products.catalog/b1eb60e3-f0cf-4209-b750-a28c01bed354> <http://schema.org/Product/rear_cam_resolution> "" .
+<http://dws.products.catalog/b1eb60e3-f0cf-4209-b750-a28c01bed354> <http://schema.org/Product/front_cam_resolution> "" .
+<http://dws.products.catalog/b1eb60e3-f0cf-4209-b750-a28c01bed354> <http://schema.org/Product/color> "" .
+<http://dws.products.catalog/b1eb60e3-f0cf-4209-b750-a28c01bed354> <http://schema.org/Product/wattage> "" .
+<http://dws.products.catalog/b1eb60e3-f0cf-4209-b750-a28c01bed354> <http://schema.org/Product/power_supply> "" .
+<http://dws.products.catalog/b1eb60e3-f0cf-4209-b750-a28c01bed354> <http://schema.org/Product/display_size> "3.7 in" .
+<http://dws.products.catalog/b1eb60e3-f0cf-4209-b750-a28c01bed354> <http://schema.org/Product/display_resolution> "800 x 480 pixels" .
+<http://dws.products.catalog/b1eb60e3-f0cf-4209-b750-a28c01bed354> <http://schema.org/Product/voltage> "" .
+<http://dws.products.catalog/b1eb60e3-f0cf-4209-b750-a28c01bed354> <http://schema.org/Product/mpn> "99hrs006-00" .
+<http://dws.products.catalog/b1eb60e3-f0cf-4209-b750-a28c01bed354> <http://schema.org/Product/modelnum> "" .
+<http://dws.products.catalog/b1eb60e3-f0cf-4209-b750-a28c01bed354> <http://schema.org/Product/width> "2.4 in" .
+<http://dws.products.catalog/b1eb60e3-f0cf-4209-b750-a28c01bed354> <http://schema.org/Product/height> "4.7 in" .
+<http://dws.products.catalog/b1eb60e3-f0cf-4209-b750-a28c01bed354> <http://schema.org/Product/depth> "0.4 in" .
+<http://dws.products.catalog/b1eb60e3-f0cf-4209-b750-a28c01bed354> <http://schema.org/Product/weight> "4.1 oz" .
+<http://dws.products.catalog/b1eb60e3-f0cf-4209-b750-a28c01bed354> <http://schema.org/Product/dimensions> "" .
+<http://dws.products.catalog/b1eb60e3-f0cf-4209-b750-a28c01bed354> <http://schema.org/Product/body_material> "" .
+<http://dws.products.catalog/b1eb60e3-f0cf-4209-b750-a28c01bed354> <http://schema.org/Product/package_height> "" .
+<http://dws.products.catalog/b1eb60e3-f0cf-4209-b750-a28c01bed354> <http://schema.org/Product/product_code> "" .
+<http://dws.products.catalog/b1eb60e3-f0cf-4209-b750-a28c01bed354> <http://schema.org/Product/product_gtin> "04710937373301, 04710937373363" .
+<http://dws.products.catalog/b1eb60e3-f0cf-4209-b750-a28c01bed354> <http://schema.org/Product/manufacturer> "" .
+<http://dws.products.catalog/4ef8e536-a291-4481-80dc-0b8d14cd1077> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://dws.products.catalog/4ef8e536-a291-4481-80dc-0b8d14cd1077> <http://schema.org/Product/ram> "1gb" .
+<http://dws.products.catalog/4ef8e536-a291-4481-80dc-0b8d14cd1077> <http://schema.org/Product/memory> "32gb" .
+<http://dws.products.catalog/4ef8e536-a291-4481-80dc-0b8d14cd1077> <http://schema.org/Product/brand> "htc" .
+<http://dws.products.catalog/4ef8e536-a291-4481-80dc-0b8d14cd1077> <http://schema.org/Product/phone_type> "one x" .
+<http://dws.products.catalog/4ef8e536-a291-4481-80dc-0b8d14cd1077> <http://schema.org/Product/computer_operating_system> "android 4.0 (ice cream sandwich)" .
+<http://dws.products.catalog/4ef8e536-a291-4481-80dc-0b8d14cd1077> <http://schema.org/Product/phone_carrier> "not specified" .
+<http://dws.products.catalog/4ef8e536-a291-4481-80dc-0b8d14cd1077> <http://schema.org/Product/product_type> "android phone" .
+<http://dws.products.catalog/4ef8e536-a291-4481-80dc-0b8d14cd1077> <http://schema.org/Product/core_count> "" .
+<http://dws.products.catalog/4ef8e536-a291-4481-80dc-0b8d14cd1077> <http://schema.org/Product/processor_type> "" .
+<http://dws.products.catalog/4ef8e536-a291-4481-80dc-0b8d14cd1077> <http://schema.org/Product/rear_cam_resolution> "" .
+<http://dws.products.catalog/4ef8e536-a291-4481-80dc-0b8d14cd1077> <http://schema.org/Product/front_cam_resolution> "" .
+<http://dws.products.catalog/4ef8e536-a291-4481-80dc-0b8d14cd1077> <http://schema.org/Product/color> "gray" .
+<http://dws.products.catalog/4ef8e536-a291-4481-80dc-0b8d14cd1077> <http://schema.org/Product/wattage> "" .
+<http://dws.products.catalog/4ef8e536-a291-4481-80dc-0b8d14cd1077> <http://schema.org/Product/power_supply> "" .
+<http://dws.products.catalog/4ef8e536-a291-4481-80dc-0b8d14cd1077> <http://schema.org/Product/display_size> "4.7 in" .
+<http://dws.products.catalog/4ef8e536-a291-4481-80dc-0b8d14cd1077> <http://schema.org/Product/display_resolution> "1280 x 720 pixels" .
+<http://dws.products.catalog/4ef8e536-a291-4481-80dc-0b8d14cd1077> <http://schema.org/Product/voltage> "" .
+<http://dws.products.catalog/4ef8e536-a291-4481-80dc-0b8d14cd1077> <http://schema.org/Product/mpn> "" .
+<http://dws.products.catalog/4ef8e536-a291-4481-80dc-0b8d14cd1077> <http://schema.org/Product/modelnum> "" .
+<http://dws.products.catalog/4ef8e536-a291-4481-80dc-0b8d14cd1077> <http://schema.org/Product/width> "2.8 in" .
+<http://dws.products.catalog/4ef8e536-a291-4481-80dc-0b8d14cd1077> <http://schema.org/Product/height> "5.3 in" .
+<http://dws.products.catalog/4ef8e536-a291-4481-80dc-0b8d14cd1077> <http://schema.org/Product/depth> "0.4 in" .
+<http://dws.products.catalog/4ef8e536-a291-4481-80dc-0b8d14cd1077> <http://schema.org/Product/weight> "4.6 oz" .
+<http://dws.products.catalog/4ef8e536-a291-4481-80dc-0b8d14cd1077> <http://schema.org/Product/dimensions> "" .
+<http://dws.products.catalog/4ef8e536-a291-4481-80dc-0b8d14cd1077> <http://schema.org/Product/body_material> "" .
+<http://dws.products.catalog/4ef8e536-a291-4481-80dc-0b8d14cd1077> <http://schema.org/Product/package_height> "" .
+<http://dws.products.catalog/4ef8e536-a291-4481-80dc-0b8d14cd1077> <http://schema.org/Product/product_code> "" .
+<http://dws.products.catalog/4ef8e536-a291-4481-80dc-0b8d14cd1077> <http://schema.org/Product/product_gtin> "00821793033132, 04710937374919, 04710937374933" .
+<http://dws.products.catalog/4ef8e536-a291-4481-80dc-0b8d14cd1077> <http://schema.org/Product/manufacturer> "" .
+<http://dws.products.catalog/3ffc3029-68a3-4333-9be0-f335fe44511d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://dws.products.catalog/3ffc3029-68a3-4333-9be0-f335fe44511d> <http://schema.org/Product/ram> "4gb" .
+<http://dws.products.catalog/3ffc3029-68a3-4333-9be0-f335fe44511d> <http://schema.org/Product/memory> "22gb" .
+<http://dws.products.catalog/3ffc3029-68a3-4333-9be0-f335fe44511d> <http://schema.org/Product/brand> "lg" .
+<http://dws.products.catalog/3ffc3029-68a3-4333-9be0-f335fe44511d> <http://schema.org/Product/phone_type> "g5" .
+<http://dws.products.catalog/3ffc3029-68a3-4333-9be0-f335fe44511d> <http://schema.org/Product/computer_operating_system> "android 6.0 (marshmallow)" .
+<http://dws.products.catalog/3ffc3029-68a3-4333-9be0-f335fe44511d> <http://schema.org/Product/phone_carrier> "at&t" .
+<http://dws.products.catalog/3ffc3029-68a3-4333-9be0-f335fe44511d> <http://schema.org/Product/product_type> "android smartphone" .
+<http://dws.products.catalog/3ffc3029-68a3-4333-9be0-f335fe44511d> <http://schema.org/Product/core_count> "" .
+<http://dws.products.catalog/3ffc3029-68a3-4333-9be0-f335fe44511d> <http://schema.org/Product/processor_type> "" .
+<http://dws.products.catalog/3ffc3029-68a3-4333-9be0-f335fe44511d> <http://schema.org/Product/rear_cam_resolution> "" .
+<http://dws.products.catalog/3ffc3029-68a3-4333-9be0-f335fe44511d> <http://schema.org/Product/front_cam_resolution> "" .
+<http://dws.products.catalog/3ffc3029-68a3-4333-9be0-f335fe44511d> <http://schema.org/Product/color> "titan" .
+<http://dws.products.catalog/3ffc3029-68a3-4333-9be0-f335fe44511d> <http://schema.org/Product/wattage> "" .
+<http://dws.products.catalog/3ffc3029-68a3-4333-9be0-f335fe44511d> <http://schema.org/Product/power_supply> "" .
+<http://dws.products.catalog/3ffc3029-68a3-4333-9be0-f335fe44511d> <http://schema.org/Product/display_size> "5.3 in" .
+<http://dws.products.catalog/3ffc3029-68a3-4333-9be0-f335fe44511d> <http://schema.org/Product/display_resolution> "2560 x 1440 pixels" .
+<http://dws.products.catalog/3ffc3029-68a3-4333-9be0-f335fe44511d> <http://schema.org/Product/voltage> "" .
+<http://dws.products.catalog/3ffc3029-68a3-4333-9be0-f335fe44511d> <http://schema.org/Product/mpn> "" .
+<http://dws.products.catalog/3ffc3029-68a3-4333-9be0-f335fe44511d> <http://schema.org/Product/modelnum> "" .
+<http://dws.products.catalog/3ffc3029-68a3-4333-9be0-f335fe44511d> <http://schema.org/Product/width> "2.9 in" .
+<http://dws.products.catalog/3ffc3029-68a3-4333-9be0-f335fe44511d> <http://schema.org/Product/height> "5.9 in" .
+<http://dws.products.catalog/3ffc3029-68a3-4333-9be0-f335fe44511d> <http://schema.org/Product/depth> "0.3 in" .
+<http://dws.products.catalog/3ffc3029-68a3-4333-9be0-f335fe44511d> <http://schema.org/Product/weight> "5.61 oz" .
+<http://dws.products.catalog/3ffc3029-68a3-4333-9be0-f335fe44511d> <http://schema.org/Product/dimensions> "" .
+<http://dws.products.catalog/3ffc3029-68a3-4333-9be0-f335fe44511d> <http://schema.org/Product/body_material> "aluminum alloy" .
+<http://dws.products.catalog/3ffc3029-68a3-4333-9be0-f335fe44511d> <http://schema.org/Product/package_height> "" .
+<http://dws.products.catalog/3ffc3029-68a3-4333-9be0-f335fe44511d> <http://schema.org/Product/product_code> "" .
+<http://dws.products.catalog/3ffc3029-68a3-4333-9be0-f335fe44511d> <http://schema.org/Product/product_gtin> "00652810518710" .
+<http://dws.products.catalog/3ffc3029-68a3-4333-9be0-f335fe44511d> <http://schema.org/Product/manufacturer> "" .
+<http://dws.products.catalog/9967ff46-df0c-4b73-b4f9-7fa4ea6e0049> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://dws.products.catalog/9967ff46-df0c-4b73-b4f9-7fa4ea6e0049> <http://schema.org/Product/ram> "2gb" .
+<http://dws.products.catalog/9967ff46-df0c-4b73-b4f9-7fa4ea6e0049> <http://schema.org/Product/memory> "32gb" .
+<http://dws.products.catalog/9967ff46-df0c-4b73-b4f9-7fa4ea6e0049> <http://schema.org/Product/brand> "nokia" .
+<http://dws.products.catalog/9967ff46-df0c-4b73-b4f9-7fa4ea6e0049> <http://schema.org/Product/phone_type> "lumia 1020" .
+<http://dws.products.catalog/9967ff46-df0c-4b73-b4f9-7fa4ea6e0049> <http://schema.org/Product/computer_operating_system> "windows phone os 8" .
+<http://dws.products.catalog/9967ff46-df0c-4b73-b4f9-7fa4ea6e0049> <http://schema.org/Product/phone_carrier> "at&t" .
+<http://dws.products.catalog/9967ff46-df0c-4b73-b4f9-7fa4ea6e0049> <http://schema.org/Product/product_type> "windows phone" .
+<http://dws.products.catalog/9967ff46-df0c-4b73-b4f9-7fa4ea6e0049> <http://schema.org/Product/core_count> "" .
+<http://dws.products.catalog/9967ff46-df0c-4b73-b4f9-7fa4ea6e0049> <http://schema.org/Product/processor_type> "" .
+<http://dws.products.catalog/9967ff46-df0c-4b73-b4f9-7fa4ea6e0049> <http://schema.org/Product/rear_cam_resolution> "" .
+<http://dws.products.catalog/9967ff46-df0c-4b73-b4f9-7fa4ea6e0049> <http://schema.org/Product/front_cam_resolution> "" .
+<http://dws.products.catalog/9967ff46-df0c-4b73-b4f9-7fa4ea6e0049> <http://schema.org/Product/color> "matte yellow" .
+<http://dws.products.catalog/9967ff46-df0c-4b73-b4f9-7fa4ea6e0049> <http://schema.org/Product/wattage> "" .
+<http://dws.products.catalog/9967ff46-df0c-4b73-b4f9-7fa4ea6e0049> <http://schema.org/Product/power_supply> "" .
+<http://dws.products.catalog/9967ff46-df0c-4b73-b4f9-7fa4ea6e0049> <http://schema.org/Product/display_size> "4.5 in" .
+<http://dws.products.catalog/9967ff46-df0c-4b73-b4f9-7fa4ea6e0049> <http://schema.org/Product/display_resolution> "1280 x 768 pixels" .
+<http://dws.products.catalog/9967ff46-df0c-4b73-b4f9-7fa4ea6e0049> <http://schema.org/Product/voltage> "" .
+<http://dws.products.catalog/9967ff46-df0c-4b73-b4f9-7fa4ea6e0049> <http://schema.org/Product/mpn> "" .
+<http://dws.products.catalog/9967ff46-df0c-4b73-b4f9-7fa4ea6e0049> <http://schema.org/Product/modelnum> "" .
+<http://dws.products.catalog/9967ff46-df0c-4b73-b4f9-7fa4ea6e0049> <http://schema.org/Product/width> "2.8 in" .
+<http://dws.products.catalog/9967ff46-df0c-4b73-b4f9-7fa4ea6e0049> <http://schema.org/Product/height> "5.1 in" .
+<http://dws.products.catalog/9967ff46-df0c-4b73-b4f9-7fa4ea6e0049> <http://schema.org/Product/depth> "0.4 in" .
+<http://dws.products.catalog/9967ff46-df0c-4b73-b4f9-7fa4ea6e0049> <http://schema.org/Product/weight> "5 oz" .
+<http://dws.products.catalog/9967ff46-df0c-4b73-b4f9-7fa4ea6e0049> <http://schema.org/Product/dimensions> "" .
+<http://dws.products.catalog/9967ff46-df0c-4b73-b4f9-7fa4ea6e0049> <http://schema.org/Product/body_material> "" .
+<http://dws.products.catalog/9967ff46-df0c-4b73-b4f9-7fa4ea6e0049> <http://schema.org/Product/package_height> "" .
+<http://dws.products.catalog/9967ff46-df0c-4b73-b4f9-7fa4ea6e0049> <http://schema.org/Product/product_code> "" .
+<http://dws.products.catalog/9967ff46-df0c-4b73-b4f9-7fa4ea6e0049> <http://schema.org/Product/product_gtin> "06438158559554" .
+<http://dws.products.catalog/9967ff46-df0c-4b73-b4f9-7fa4ea6e0049> <http://schema.org/Product/manufacturer> "" .
+<http://dws.products.catalog/0bfe4eac-5a9c-4bb0-8a04-74f856e148c9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://dws.products.catalog/0bfe4eac-5a9c-4bb0-8a04-74f856e148c9> <http://schema.org/Product/ram> "512mb" .
+<http://dws.products.catalog/0bfe4eac-5a9c-4bb0-8a04-74f856e148c9> <http://schema.org/Product/memory> "8gb" .
+<http://dws.products.catalog/0bfe4eac-5a9c-4bb0-8a04-74f856e148c9> <http://schema.org/Product/brand> "nokia" .
+<http://dws.products.catalog/0bfe4eac-5a9c-4bb0-8a04-74f856e148c9> <http://schema.org/Product/phone_type> "lumia 520" .
+<http://dws.products.catalog/0bfe4eac-5a9c-4bb0-8a04-74f856e148c9> <http://schema.org/Product/computer_operating_system> "windows phone os 8" .
+<http://dws.products.catalog/0bfe4eac-5a9c-4bb0-8a04-74f856e148c9> <http://schema.org/Product/phone_carrier> "not specified" .
+<http://dws.products.catalog/0bfe4eac-5a9c-4bb0-8a04-74f856e148c9> <http://schema.org/Product/product_type> "windows phone" .
+<http://dws.products.catalog/0bfe4eac-5a9c-4bb0-8a04-74f856e148c9> <http://schema.org/Product/core_count> "" .
+<http://dws.products.catalog/0bfe4eac-5a9c-4bb0-8a04-74f856e148c9> <http://schema.org/Product/processor_type> "" .
+<http://dws.products.catalog/0bfe4eac-5a9c-4bb0-8a04-74f856e148c9> <http://schema.org/Product/rear_cam_resolution> "5 mp" .
+<http://dws.products.catalog/0bfe4eac-5a9c-4bb0-8a04-74f856e148c9> <http://schema.org/Product/front_cam_resolution> "" .
+<http://dws.products.catalog/0bfe4eac-5a9c-4bb0-8a04-74f856e148c9> <http://schema.org/Product/color> "black" .
+<http://dws.products.catalog/0bfe4eac-5a9c-4bb0-8a04-74f856e148c9> <http://schema.org/Product/wattage> "" .
+<http://dws.products.catalog/0bfe4eac-5a9c-4bb0-8a04-74f856e148c9> <http://schema.org/Product/power_supply> "" .
+<http://dws.products.catalog/0bfe4eac-5a9c-4bb0-8a04-74f856e148c9> <http://schema.org/Product/display_size> "4 in" .
+<http://dws.products.catalog/0bfe4eac-5a9c-4bb0-8a04-74f856e148c9> <http://schema.org/Product/display_resolution> "800 x 480 pixels" .
+<http://dws.products.catalog/0bfe4eac-5a9c-4bb0-8a04-74f856e148c9> <http://schema.org/Product/voltage> "" .
+<http://dws.products.catalog/0bfe4eac-5a9c-4bb0-8a04-74f856e148c9> <http://schema.org/Product/mpn> "" .
+<http://dws.products.catalog/0bfe4eac-5a9c-4bb0-8a04-74f856e148c9> <http://schema.org/Product/modelnum> "" .
+<http://dws.products.catalog/0bfe4eac-5a9c-4bb0-8a04-74f856e148c9> <http://schema.org/Product/width> "2.5 in" .
+<http://dws.products.catalog/0bfe4eac-5a9c-4bb0-8a04-74f856e148c9> <http://schema.org/Product/height> "4.7 in" .
+<http://dws.products.catalog/0bfe4eac-5a9c-4bb0-8a04-74f856e148c9> <http://schema.org/Product/depth> "0.4 in" .
+<http://dws.products.catalog/0bfe4eac-5a9c-4bb0-8a04-74f856e148c9> <http://schema.org/Product/weight> "4.4 oz" .
+<http://dws.products.catalog/0bfe4eac-5a9c-4bb0-8a04-74f856e148c9> <http://schema.org/Product/dimensions> "" .
+<http://dws.products.catalog/0bfe4eac-5a9c-4bb0-8a04-74f856e148c9> <http://schema.org/Product/body_material> "" .
+<http://dws.products.catalog/0bfe4eac-5a9c-4bb0-8a04-74f856e148c9> <http://schema.org/Product/package_height> "" .
+<http://dws.products.catalog/0bfe4eac-5a9c-4bb0-8a04-74f856e148c9> <http://schema.org/Product/product_code> "" .
+<http://dws.products.catalog/0bfe4eac-5a9c-4bb0-8a04-74f856e148c9> <http://schema.org/Product/product_gtin> "00701748198928, 00710500599798, 00819201013395, 06438158560826, 06438158562714, 06438158563247, 06438158565562, 06438158570306" .
+<http://dws.products.catalog/0bfe4eac-5a9c-4bb0-8a04-74f856e148c9> <http://schema.org/Product/manufacturer> "" .
+<http://dws.products.catalog/5676e967-2909-4eb5-9c92-47498fd96c34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://dws.products.catalog/5676e967-2909-4eb5-9c92-47498fd96c34> <http://schema.org/Product/ram> "512mb" .
+<http://dws.products.catalog/5676e967-2909-4eb5-9c92-47498fd96c34> <http://schema.org/Product/memory> "8gb" .
+<http://dws.products.catalog/5676e967-2909-4eb5-9c92-47498fd96c34> <http://schema.org/Product/brand> "nokia" .
+<http://dws.products.catalog/5676e967-2909-4eb5-9c92-47498fd96c34> <http://schema.org/Product/phone_type> "lumia 521" .
+<http://dws.products.catalog/5676e967-2909-4eb5-9c92-47498fd96c34> <http://schema.org/Product/computer_operating_system> "windows phone os 8" .
+<http://dws.products.catalog/5676e967-2909-4eb5-9c92-47498fd96c34> <http://schema.org/Product/phone_carrier> "t-mobile" .
+<http://dws.products.catalog/5676e967-2909-4eb5-9c92-47498fd96c34> <http://schema.org/Product/product_type> "windows phone" .
+<http://dws.products.catalog/5676e967-2909-4eb5-9c92-47498fd96c34> <http://schema.org/Product/core_count> "" .
+<http://dws.products.catalog/5676e967-2909-4eb5-9c92-47498fd96c34> <http://schema.org/Product/processor_type> "" .
+<http://dws.products.catalog/5676e967-2909-4eb5-9c92-47498fd96c34> <http://schema.org/Product/rear_cam_resolution> "5 mp" .
+<http://dws.products.catalog/5676e967-2909-4eb5-9c92-47498fd96c34> <http://schema.org/Product/front_cam_resolution> "" .
+<http://dws.products.catalog/5676e967-2909-4eb5-9c92-47498fd96c34> <http://schema.org/Product/color> "white" .
+<http://dws.products.catalog/5676e967-2909-4eb5-9c92-47498fd96c34> <http://schema.org/Product/wattage> "" .
+<http://dws.products.catalog/5676e967-2909-4eb5-9c92-47498fd96c34> <http://schema.org/Product/power_supply> "" .
+<http://dws.products.catalog/5676e967-2909-4eb5-9c92-47498fd96c34> <http://schema.org/Product/display_size> "4 in" .
+<http://dws.products.catalog/5676e967-2909-4eb5-9c92-47498fd96c34> <http://schema.org/Product/display_resolution> "800 x 480 pixels" .
+<http://dws.products.catalog/5676e967-2909-4eb5-9c92-47498fd96c34> <http://schema.org/Product/voltage> "" .
+<http://dws.products.catalog/5676e967-2909-4eb5-9c92-47498fd96c34> <http://schema.org/Product/mpn> "" .
+<http://dws.products.catalog/5676e967-2909-4eb5-9c92-47498fd96c34> <http://schema.org/Product/modelnum> "" .
+<http://dws.products.catalog/5676e967-2909-4eb5-9c92-47498fd96c34> <http://schema.org/Product/width> "2.5 in" .
+<http://dws.products.catalog/5676e967-2909-4eb5-9c92-47498fd96c34> <http://schema.org/Product/height> "4.9 in" .
+<http://dws.products.catalog/5676e967-2909-4eb5-9c92-47498fd96c34> <http://schema.org/Product/depth> "0.4 in" .
+<http://dws.products.catalog/5676e967-2909-4eb5-9c92-47498fd96c34> <http://schema.org/Product/weight> "4.4 oz" .
+<http://dws.products.catalog/5676e967-2909-4eb5-9c92-47498fd96c34> <http://schema.org/Product/dimensions> "" .
+<http://dws.products.catalog/5676e967-2909-4eb5-9c92-47498fd96c34> <http://schema.org/Product/body_material> "" .
+<http://dws.products.catalog/5676e967-2909-4eb5-9c92-47498fd96c34> <http://schema.org/Product/package_height> "" .
+<http://dws.products.catalog/5676e967-2909-4eb5-9c92-47498fd96c34> <http://schema.org/Product/product_code> "" .
+<http://dws.products.catalog/5676e967-2909-4eb5-9c92-47498fd96c34> <http://schema.org/Product/product_gtin> "00610214632005, 00610214632074, 00752053641111" .
+<http://dws.products.catalog/5676e967-2909-4eb5-9c92-47498fd96c34> <http://schema.org/Product/manufacturer> "" .
+<http://dws.products.catalog/95bf36df-f210-41a6-afb3-01f0637f1b60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://dws.products.catalog/95bf36df-f210-41a6-afb3-01f0637f1b60> <http://schema.org/Product/ram> "512mb" .
+<http://dws.products.catalog/95bf36df-f210-41a6-afb3-01f0637f1b60> <http://schema.org/Product/memory> "8gb" .
+<http://dws.products.catalog/95bf36df-f210-41a6-afb3-01f0637f1b60> <http://schema.org/Product/brand> "nokia" .
+<http://dws.products.catalog/95bf36df-f210-41a6-afb3-01f0637f1b60> <http://schema.org/Product/phone_type> "lumia 530" .
+<http://dws.products.catalog/95bf36df-f210-41a6-afb3-01f0637f1b60> <http://schema.org/Product/computer_operating_system> "windows phone os 8.1 with lumia cyan update" .
+<http://dws.products.catalog/95bf36df-f210-41a6-afb3-01f0637f1b60> <http://schema.org/Product/phone_carrier> "t-mobile" .
+<http://dws.products.catalog/95bf36df-f210-41a6-afb3-01f0637f1b60> <http://schema.org/Product/product_type> "windows smartphone" .
+<http://dws.products.catalog/95bf36df-f210-41a6-afb3-01f0637f1b60> <http://schema.org/Product/core_count> "" .
+<http://dws.products.catalog/95bf36df-f210-41a6-afb3-01f0637f1b60> <http://schema.org/Product/processor_type> "" .
+<http://dws.products.catalog/95bf36df-f210-41a6-afb3-01f0637f1b60> <http://schema.org/Product/rear_cam_resolution> "" .
+<http://dws.products.catalog/95bf36df-f210-41a6-afb3-01f0637f1b60> <http://schema.org/Product/front_cam_resolution> "" .
+<http://dws.products.catalog/95bf36df-f210-41a6-afb3-01f0637f1b60> <http://schema.org/Product/color> "white" .
+<http://dws.products.catalog/95bf36df-f210-41a6-afb3-01f0637f1b60> <http://schema.org/Product/wattage> "" .
+<http://dws.products.catalog/95bf36df-f210-41a6-afb3-01f0637f1b60> <http://schema.org/Product/power_supply> "" .
+<http://dws.products.catalog/95bf36df-f210-41a6-afb3-01f0637f1b60> <http://schema.org/Product/display_size> "4 in" .
+<http://dws.products.catalog/95bf36df-f210-41a6-afb3-01f0637f1b60> <http://schema.org/Product/display_resolution> "480 x 854 pixels" .
+<http://dws.products.catalog/95bf36df-f210-41a6-afb3-01f0637f1b60> <http://schema.org/Product/voltage> "" .
+<http://dws.products.catalog/95bf36df-f210-41a6-afb3-01f0637f1b60> <http://schema.org/Product/mpn> "" .
+<http://dws.products.catalog/95bf36df-f210-41a6-afb3-01f0637f1b60> <http://schema.org/Product/modelnum> "" .
+<http://dws.products.catalog/95bf36df-f210-41a6-afb3-01f0637f1b60> <http://schema.org/Product/width> "2.5 in" .
+<http://dws.products.catalog/95bf36df-f210-41a6-afb3-01f0637f1b60> <http://schema.org/Product/height> "4.7 in" .
+<http://dws.products.catalog/95bf36df-f210-41a6-afb3-01f0637f1b60> <http://schema.org/Product/depth> "0.5 in" .
+<http://dws.products.catalog/95bf36df-f210-41a6-afb3-01f0637f1b60> <http://schema.org/Product/weight> "4.55 oz" .
+<http://dws.products.catalog/95bf36df-f210-41a6-afb3-01f0637f1b60> <http://schema.org/Product/dimensions> "" .
+<http://dws.products.catalog/95bf36df-f210-41a6-afb3-01f0637f1b60> <http://schema.org/Product/body_material> "" .
+<http://dws.products.catalog/95bf36df-f210-41a6-afb3-01f0637f1b60> <http://schema.org/Product/package_height> "" .
+<http://dws.products.catalog/95bf36df-f210-41a6-afb3-01f0637f1b60> <http://schema.org/Product/product_code> "" .
+<http://dws.products.catalog/95bf36df-f210-41a6-afb3-01f0637f1b60> <http://schema.org/Product/product_gtin> "00610214637321" .
+<http://dws.products.catalog/95bf36df-f210-41a6-afb3-01f0637f1b60> <http://schema.org/Product/manufacturer> "" .
+<http://dws.products.catalog/b34f869d-7a06-4135-826a-73e433ff9e4a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://dws.products.catalog/b34f869d-7a06-4135-826a-73e433ff9e4a> <http://schema.org/Product/ram> "512mb" .
+<http://dws.products.catalog/b34f869d-7a06-4135-826a-73e433ff9e4a> <http://schema.org/Product/memory> "8gb" .
+<http://dws.products.catalog/b34f869d-7a06-4135-826a-73e433ff9e4a> <http://schema.org/Product/brand> "nokia" .
+<http://dws.products.catalog/b34f869d-7a06-4135-826a-73e433ff9e4a> <http://schema.org/Product/phone_type> "lumia 635" .
+<http://dws.products.catalog/b34f869d-7a06-4135-826a-73e433ff9e4a> <http://schema.org/Product/computer_operating_system> "windows phone os 8.1" .
+<http://dws.products.catalog/b34f869d-7a06-4135-826a-73e433ff9e4a> <http://schema.org/Product/phone_carrier> "boost mobile" .
+<http://dws.products.catalog/b34f869d-7a06-4135-826a-73e433ff9e4a> <http://schema.org/Product/product_type> "windows smartphone" .
+<http://dws.products.catalog/b34f869d-7a06-4135-826a-73e433ff9e4a> <http://schema.org/Product/core_count> "" .
+<http://dws.products.catalog/b34f869d-7a06-4135-826a-73e433ff9e4a> <http://schema.org/Product/processor_type> "" .
+<http://dws.products.catalog/b34f869d-7a06-4135-826a-73e433ff9e4a> <http://schema.org/Product/rear_cam_resolution> "" .
+<http://dws.products.catalog/b34f869d-7a06-4135-826a-73e433ff9e4a> <http://schema.org/Product/front_cam_resolution> "" .
+<http://dws.products.catalog/b34f869d-7a06-4135-826a-73e433ff9e4a> <http://schema.org/Product/color> "blue" .
+<http://dws.products.catalog/b34f869d-7a06-4135-826a-73e433ff9e4a> <http://schema.org/Product/wattage> "" .
+<http://dws.products.catalog/b34f869d-7a06-4135-826a-73e433ff9e4a> <http://schema.org/Product/power_supply> "" .
+<http://dws.products.catalog/b34f869d-7a06-4135-826a-73e433ff9e4a> <http://schema.org/Product/display_size> "4.5 in" .
+<http://dws.products.catalog/b34f869d-7a06-4135-826a-73e433ff9e4a> <http://schema.org/Product/display_resolution> "854 x 480 pixelss" .
+<http://dws.products.catalog/b34f869d-7a06-4135-826a-73e433ff9e4a> <http://schema.org/Product/voltage> "" .
+<http://dws.products.catalog/b34f869d-7a06-4135-826a-73e433ff9e4a> <http://schema.org/Product/mpn> "97768580" .
+<http://dws.products.catalog/b34f869d-7a06-4135-826a-73e433ff9e4a> <http://schema.org/Product/modelnum> "" .
+<http://dws.products.catalog/b34f869d-7a06-4135-826a-73e433ff9e4a> <http://schema.org/Product/width> "2.6 in" .
+<http://dws.products.catalog/b34f869d-7a06-4135-826a-73e433ff9e4a> <http://schema.org/Product/height> "5.1 in" .
+<http://dws.products.catalog/b34f869d-7a06-4135-826a-73e433ff9e4a> <http://schema.org/Product/depth> "0.4 in" .
+<http://dws.products.catalog/b34f869d-7a06-4135-826a-73e433ff9e4a> <http://schema.org/Product/weight> "4.73 oz" .
+<http://dws.products.catalog/b34f869d-7a06-4135-826a-73e433ff9e4a> <http://schema.org/Product/dimensions> "" .
+<http://dws.products.catalog/b34f869d-7a06-4135-826a-73e433ff9e4a> <http://schema.org/Product/body_material> "" .
+<http://dws.products.catalog/b34f869d-7a06-4135-826a-73e433ff9e4a> <http://schema.org/Product/package_height> "" .
+<http://dws.products.catalog/b34f869d-7a06-4135-826a-73e433ff9e4a> <http://schema.org/Product/product_code> "" .
+<http://dws.products.catalog/b34f869d-7a06-4135-826a-73e433ff9e4a> <http://schema.org/Product/product_gtin> "00758478027431" .
+<http://dws.products.catalog/b34f869d-7a06-4135-826a-73e433ff9e4a> <http://schema.org/Product/manufacturer> "" .
+<http://dws.products.catalog/bd8b9f57-8f23-48a9-8f06-e6037233c8d9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://dws.products.catalog/bd8b9f57-8f23-48a9-8f06-e6037233c8d9> <http://schema.org/Product/ram> "1gb" .
+<http://dws.products.catalog/bd8b9f57-8f23-48a9-8f06-e6037233c8d9> <http://schema.org/Product/memory> "8gb" .
+<http://dws.products.catalog/bd8b9f57-8f23-48a9-8f06-e6037233c8d9> <http://schema.org/Product/brand> "nokia" .
+<http://dws.products.catalog/bd8b9f57-8f23-48a9-8f06-e6037233c8d9> <http://schema.org/Product/phone_type> "lumia 820" .
+<http://dws.products.catalog/bd8b9f57-8f23-48a9-8f06-e6037233c8d9> <http://schema.org/Product/computer_operating_system> "windows phone os 8" .
+<http://dws.products.catalog/bd8b9f57-8f23-48a9-8f06-e6037233c8d9> <http://schema.org/Product/phone_carrier> "not specified" .
+<http://dws.products.catalog/bd8b9f57-8f23-48a9-8f06-e6037233c8d9> <http://schema.org/Product/product_type> "windows phone" .
+<http://dws.products.catalog/bd8b9f57-8f23-48a9-8f06-e6037233c8d9> <http://schema.org/Product/core_count> "" .
+<http://dws.products.catalog/bd8b9f57-8f23-48a9-8f06-e6037233c8d9> <http://schema.org/Product/processor_type> "" .
+<http://dws.products.catalog/bd8b9f57-8f23-48a9-8f06-e6037233c8d9> <http://schema.org/Product/rear_cam_resolution> "8 mp" .
+<http://dws.products.catalog/bd8b9f57-8f23-48a9-8f06-e6037233c8d9> <http://schema.org/Product/front_cam_resolution> "" .
+<http://dws.products.catalog/bd8b9f57-8f23-48a9-8f06-e6037233c8d9> <http://schema.org/Product/color> "black" .
+<http://dws.products.catalog/bd8b9f57-8f23-48a9-8f06-e6037233c8d9> <http://schema.org/Product/wattage> "" .
+<http://dws.products.catalog/bd8b9f57-8f23-48a9-8f06-e6037233c8d9> <http://schema.org/Product/power_supply> "" .
+<http://dws.products.catalog/bd8b9f57-8f23-48a9-8f06-e6037233c8d9> <http://schema.org/Product/display_size> "4.3 in" .
+<http://dws.products.catalog/bd8b9f57-8f23-48a9-8f06-e6037233c8d9> <http://schema.org/Product/display_resolution> "800 x 480 pixels" .
+<http://dws.products.catalog/bd8b9f57-8f23-48a9-8f06-e6037233c8d9> <http://schema.org/Product/voltage> "" .
+<http://dws.products.catalog/bd8b9f57-8f23-48a9-8f06-e6037233c8d9> <http://schema.org/Product/mpn> "" .
+<http://dws.products.catalog/bd8b9f57-8f23-48a9-8f06-e6037233c8d9> <http://schema.org/Product/modelnum> "" .
+<http://dws.products.catalog/bd8b9f57-8f23-48a9-8f06-e6037233c8d9> <http://schema.org/Product/width> "2.7 in" .
+<http://dws.products.catalog/bd8b9f57-8f23-48a9-8f06-e6037233c8d9> <http://schema.org/Product/height> "4.9 in" .
+<http://dws.products.catalog/bd8b9f57-8f23-48a9-8f06-e6037233c8d9> <http://schema.org/Product/depth> "0.4 in" .
+<http://dws.products.catalog/bd8b9f57-8f23-48a9-8f06-e6037233c8d9> <http://schema.org/Product/weight> "5.6 oz" .
+<http://dws.products.catalog/bd8b9f57-8f23-48a9-8f06-e6037233c8d9> <http://schema.org/Product/dimensions> "" .
+<http://dws.products.catalog/bd8b9f57-8f23-48a9-8f06-e6037233c8d9> <http://schema.org/Product/body_material> "" .
+<http://dws.products.catalog/bd8b9f57-8f23-48a9-8f06-e6037233c8d9> <http://schema.org/Product/package_height> "" .
+<http://dws.products.catalog/bd8b9f57-8f23-48a9-8f06-e6037233c8d9> <http://schema.org/Product/product_code> "" .
+<http://dws.products.catalog/bd8b9f57-8f23-48a9-8f06-e6037233c8d9> <http://schema.org/Product/product_gtin> "00758478026359, 06438158497559, 06438158525764, 06438158528659" .
+<http://dws.products.catalog/bd8b9f57-8f23-48a9-8f06-e6037233c8d9> <http://schema.org/Product/manufacturer> "" .
+<http://dws.products.catalog/63a7141a-da97-4c51-846c-7a976a1386c7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://dws.products.catalog/63a7141a-da97-4c51-846c-7a976a1386c7> <http://schema.org/Product/ram> "512mb" .
+<http://dws.products.catalog/63a7141a-da97-4c51-846c-7a976a1386c7> <http://schema.org/Product/memory> "16gb" .
+<http://dws.products.catalog/63a7141a-da97-4c51-846c-7a976a1386c7> <http://schema.org/Product/brand> "nokia" .
+<http://dws.products.catalog/63a7141a-da97-4c51-846c-7a976a1386c7> <http://schema.org/Product/phone_type> "lumia 900" .
+<http://dws.products.catalog/63a7141a-da97-4c51-846c-7a976a1386c7> <http://schema.org/Product/computer_operating_system> "windows phone os 7.5 mango" .
+<http://dws.products.catalog/63a7141a-da97-4c51-846c-7a976a1386c7> <http://schema.org/Product/phone_carrier> "not specified" .
+<http://dws.products.catalog/63a7141a-da97-4c51-846c-7a976a1386c7> <http://schema.org/Product/product_type> "windows phone" .
+<http://dws.products.catalog/63a7141a-da97-4c51-846c-7a976a1386c7> <http://schema.org/Product/core_count> "" .
+<http://dws.products.catalog/63a7141a-da97-4c51-846c-7a976a1386c7> <http://schema.org/Product/processor_type> "" .
+<http://dws.products.catalog/63a7141a-da97-4c51-846c-7a976a1386c7> <http://schema.org/Product/rear_cam_resolution> "" .
+<http://dws.products.catalog/63a7141a-da97-4c51-846c-7a976a1386c7> <http://schema.org/Product/front_cam_resolution> "" .
+<http://dws.products.catalog/63a7141a-da97-4c51-846c-7a976a1386c7> <http://schema.org/Product/color> "cyan" .
+<http://dws.products.catalog/63a7141a-da97-4c51-846c-7a976a1386c7> <http://schema.org/Product/wattage> "" .
+<http://dws.products.catalog/63a7141a-da97-4c51-846c-7a976a1386c7> <http://schema.org/Product/power_supply> "" .
+<http://dws.products.catalog/63a7141a-da97-4c51-846c-7a976a1386c7> <http://schema.org/Product/display_size> "4.3 in" .
+<http://dws.products.catalog/63a7141a-da97-4c51-846c-7a976a1386c7> <http://schema.org/Product/display_resolution> "800 x 480 pixels" .
+<http://dws.products.catalog/63a7141a-da97-4c51-846c-7a976a1386c7> <http://schema.org/Product/voltage> "" .
+<http://dws.products.catalog/63a7141a-da97-4c51-846c-7a976a1386c7> <http://schema.org/Product/mpn> "" .
+<http://dws.products.catalog/63a7141a-da97-4c51-846c-7a976a1386c7> <http://schema.org/Product/modelnum> "" .
+<http://dws.products.catalog/63a7141a-da97-4c51-846c-7a976a1386c7> <http://schema.org/Product/width> "2.7 in" .
+<http://dws.products.catalog/63a7141a-da97-4c51-846c-7a976a1386c7> <http://schema.org/Product/height> "5 in" .
+<http://dws.products.catalog/63a7141a-da97-4c51-846c-7a976a1386c7> <http://schema.org/Product/depth> "0.5 in" .
+<http://dws.products.catalog/63a7141a-da97-4c51-846c-7a976a1386c7> <http://schema.org/Product/weight> "5.6 oz" .
+<http://dws.products.catalog/63a7141a-da97-4c51-846c-7a976a1386c7> <http://schema.org/Product/dimensions> "" .
+<http://dws.products.catalog/63a7141a-da97-4c51-846c-7a976a1386c7> <http://schema.org/Product/body_material> "polycarbonate" .
+<http://dws.products.catalog/63a7141a-da97-4c51-846c-7a976a1386c7> <http://schema.org/Product/package_height> "" .
+<http://dws.products.catalog/63a7141a-da97-4c51-846c-7a976a1386c7> <http://schema.org/Product/product_code> "" .
+<http://dws.products.catalog/63a7141a-da97-4c51-846c-7a976a1386c7> <http://schema.org/Product/product_gtin> "00899794010377" .
+<http://dws.products.catalog/63a7141a-da97-4c51-846c-7a976a1386c7> <http://schema.org/Product/manufacturer> "" .
+<http://dws.products.catalog/e6f4f6ca-fa54-438b-b0a1-ab1e32e6eaae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://dws.products.catalog/e6f4f6ca-fa54-438b-b0a1-ab1e32e6eaae> <http://schema.org/Product/ram> "1gb" .
+<http://dws.products.catalog/e6f4f6ca-fa54-438b-b0a1-ab1e32e6eaae> <http://schema.org/Product/memory> "16gb" .
+<http://dws.products.catalog/e6f4f6ca-fa54-438b-b0a1-ab1e32e6eaae> <http://schema.org/Product/brand> "nokia" .
+<http://dws.products.catalog/e6f4f6ca-fa54-438b-b0a1-ab1e32e6eaae> <http://schema.org/Product/phone_type> "lumia 925" .
+<http://dws.products.catalog/e6f4f6ca-fa54-438b-b0a1-ab1e32e6eaae> <http://schema.org/Product/computer_operating_system> "windows phone os 8" .
+<http://dws.products.catalog/e6f4f6ca-fa54-438b-b0a1-ab1e32e6eaae> <http://schema.org/Product/phone_carrier> "t-mobile" .
+<http://dws.products.catalog/e6f4f6ca-fa54-438b-b0a1-ab1e32e6eaae> <http://schema.org/Product/product_type> "windows phone" .
+<http://dws.products.catalog/e6f4f6ca-fa54-438b-b0a1-ab1e32e6eaae> <http://schema.org/Product/core_count> "" .
+<http://dws.products.catalog/e6f4f6ca-fa54-438b-b0a1-ab1e32e6eaae> <http://schema.org/Product/processor_type> "" .
+<http://dws.products.catalog/e6f4f6ca-fa54-438b-b0a1-ab1e32e6eaae> <http://schema.org/Product/rear_cam_resolution> "" .
+<http://dws.products.catalog/e6f4f6ca-fa54-438b-b0a1-ab1e32e6eaae> <http://schema.org/Product/front_cam_resolution> "" .
+<http://dws.products.catalog/e6f4f6ca-fa54-438b-b0a1-ab1e32e6eaae> <http://schema.org/Product/color> "white, silver" .
+<http://dws.products.catalog/e6f4f6ca-fa54-438b-b0a1-ab1e32e6eaae> <http://schema.org/Product/wattage> "" .
+<http://dws.products.catalog/e6f4f6ca-fa54-438b-b0a1-ab1e32e6eaae> <http://schema.org/Product/power_supply> "" .
+<http://dws.products.catalog/e6f4f6ca-fa54-438b-b0a1-ab1e32e6eaae> <http://schema.org/Product/display_size> "4.5 in" .
+<http://dws.products.catalog/e6f4f6ca-fa54-438b-b0a1-ab1e32e6eaae> <http://schema.org/Product/display_resolution> "1280 x 768 pixels" .
+<http://dws.products.catalog/e6f4f6ca-fa54-438b-b0a1-ab1e32e6eaae> <http://schema.org/Product/voltage> "" .
+<http://dws.products.catalog/e6f4f6ca-fa54-438b-b0a1-ab1e32e6eaae> <http://schema.org/Product/mpn> "" .
+<http://dws.products.catalog/e6f4f6ca-fa54-438b-b0a1-ab1e32e6eaae> <http://schema.org/Product/modelnum> "" .
+<http://dws.products.catalog/e6f4f6ca-fa54-438b-b0a1-ab1e32e6eaae> <http://schema.org/Product/width> "2.8 in" .
+<http://dws.products.catalog/e6f4f6ca-fa54-438b-b0a1-ab1e32e6eaae> <http://schema.org/Product/height> "5.1 in" .
+<http://dws.products.catalog/e6f4f6ca-fa54-438b-b0a1-ab1e32e6eaae> <http://schema.org/Product/depth> "0.3 in" .
+<http://dws.products.catalog/e6f4f6ca-fa54-438b-b0a1-ab1e32e6eaae> <http://schema.org/Product/weight> "4.9 oz" .
+<http://dws.products.catalog/e6f4f6ca-fa54-438b-b0a1-ab1e32e6eaae> <http://schema.org/Product/dimensions> "" .
+<http://dws.products.catalog/e6f4f6ca-fa54-438b-b0a1-ab1e32e6eaae> <http://schema.org/Product/body_material> "" .
+<http://dws.products.catalog/e6f4f6ca-fa54-438b-b0a1-ab1e32e6eaae> <http://schema.org/Product/package_height> "" .
+<http://dws.products.catalog/e6f4f6ca-fa54-438b-b0a1-ab1e32e6eaae> <http://schema.org/Product/product_code> "" .
+<http://dws.products.catalog/e6f4f6ca-fa54-438b-b0a1-ab1e32e6eaae> <http://schema.org/Product/product_gtin> "00610214632081" .
+<http://dws.products.catalog/e6f4f6ca-fa54-438b-b0a1-ab1e32e6eaae> <http://schema.org/Product/manufacturer> "" .
+<http://dws.products.catalog/a2f59f49-ac58-46eb-b682-04355acdbdf2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://dws.products.catalog/a2f59f49-ac58-46eb-b682-04355acdbdf2> <http://schema.org/Product/ram> "2gb" .
+<http://dws.products.catalog/a2f59f49-ac58-46eb-b682-04355acdbdf2> <http://schema.org/Product/memory> "32gb" .
+<http://dws.products.catalog/a2f59f49-ac58-46eb-b682-04355acdbdf2> <http://schema.org/Product/brand> "samsung" .
+<http://dws.products.catalog/a2f59f49-ac58-46eb-b682-04355acdbdf2> <http://schema.org/Product/phone_type> "galaxy s4" .
+<http://dws.products.catalog/a2f59f49-ac58-46eb-b682-04355acdbdf2> <http://schema.org/Product/computer_operating_system> "android 4.2.2 (jelly bean)" .
+<http://dws.products.catalog/a2f59f49-ac58-46eb-b682-04355acdbdf2> <http://schema.org/Product/phone_carrier> "verizon wireless" .
+<http://dws.products.catalog/a2f59f49-ac58-46eb-b682-04355acdbdf2> <http://schema.org/Product/product_type> "android phone" .
+<http://dws.products.catalog/a2f59f49-ac58-46eb-b682-04355acdbdf2> <http://schema.org/Product/core_count> "" .
+<http://dws.products.catalog/a2f59f49-ac58-46eb-b682-04355acdbdf2> <http://schema.org/Product/processor_type> "" .
+<http://dws.products.catalog/a2f59f49-ac58-46eb-b682-04355acdbdf2> <http://schema.org/Product/rear_cam_resolution> "" .
+<http://dws.products.catalog/a2f59f49-ac58-46eb-b682-04355acdbdf2> <http://schema.org/Product/front_cam_resolution> "" .
+<http://dws.products.catalog/a2f59f49-ac58-46eb-b682-04355acdbdf2> <http://schema.org/Product/color> "mist black" .
+<http://dws.products.catalog/a2f59f49-ac58-46eb-b682-04355acdbdf2> <http://schema.org/Product/wattage> "" .
+<http://dws.products.catalog/a2f59f49-ac58-46eb-b682-04355acdbdf2> <http://schema.org/Product/power_supply> "" .
+<http://dws.products.catalog/a2f59f49-ac58-46eb-b682-04355acdbdf2> <http://schema.org/Product/display_size> "5 in" .
+<http://dws.products.catalog/a2f59f49-ac58-46eb-b682-04355acdbdf2> <http://schema.org/Product/display_resolution> "1920 x 1080 pixels" .
+<http://dws.products.catalog/a2f59f49-ac58-46eb-b682-04355acdbdf2> <http://schema.org/Product/voltage> "" .
+<http://dws.products.catalog/a2f59f49-ac58-46eb-b682-04355acdbdf2> <http://schema.org/Product/mpn> "sch-i545zkbvzw" .
+<http://dws.products.catalog/a2f59f49-ac58-46eb-b682-04355acdbdf2> <http://schema.org/Product/modelnum> "" .
+<http://dws.products.catalog/a2f59f49-ac58-46eb-b682-04355acdbdf2> <http://schema.org/Product/width> "2.7 in" .
+<http://dws.products.catalog/a2f59f49-ac58-46eb-b682-04355acdbdf2> <http://schema.org/Product/height> "5.4 in" .
+<http://dws.products.catalog/a2f59f49-ac58-46eb-b682-04355acdbdf2> <http://schema.org/Product/depth> "0.3 in" .
+<http://dws.products.catalog/a2f59f49-ac58-46eb-b682-04355acdbdf2> <http://schema.org/Product/weight> "4.6 oz" .
+<http://dws.products.catalog/a2f59f49-ac58-46eb-b682-04355acdbdf2> <http://schema.org/Product/dimensions> "" .
+<http://dws.products.catalog/a2f59f49-ac58-46eb-b682-04355acdbdf2> <http://schema.org/Product/body_material> "" .
+<http://dws.products.catalog/a2f59f49-ac58-46eb-b682-04355acdbdf2> <http://schema.org/Product/package_height> "" .
+<http://dws.products.catalog/a2f59f49-ac58-46eb-b682-04355acdbdf2> <http://schema.org/Product/product_code> "" .
+<http://dws.products.catalog/a2f59f49-ac58-46eb-b682-04355acdbdf2> <http://schema.org/Product/product_gtin> "" .
+<http://dws.products.catalog/a2f59f49-ac58-46eb-b682-04355acdbdf2> <http://schema.org/Product/manufacturer> "" .
+<http://dws.products.catalog/b96f142c-b20d-4d76-8bc1-66f646dedb35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://dws.products.catalog/b96f142c-b20d-4d76-8bc1-66f646dedb35> <http://schema.org/Product/ram> "1.5gb" .
+<http://dws.products.catalog/b96f142c-b20d-4d76-8bc1-66f646dedb35> <http://schema.org/Product/memory> "16gb" .
+<http://dws.products.catalog/b96f142c-b20d-4d76-8bc1-66f646dedb35> <http://schema.org/Product/brand> "samsung" .
+<http://dws.products.catalog/b96f142c-b20d-4d76-8bc1-66f646dedb35> <http://schema.org/Product/phone_type> "galaxy s4 mini" .
+<http://dws.products.catalog/b96f142c-b20d-4d76-8bc1-66f646dedb35> <http://schema.org/Product/computer_operating_system> "android 4.2.2 (jelly bean)" .
+<http://dws.products.catalog/b96f142c-b20d-4d76-8bc1-66f646dedb35> <http://schema.org/Product/phone_carrier> "sprint" .
+<http://dws.products.catalog/b96f142c-b20d-4d76-8bc1-66f646dedb35> <http://schema.org/Product/product_type> "android smartphone" .
+<http://dws.products.catalog/b96f142c-b20d-4d76-8bc1-66f646dedb35> <http://schema.org/Product/core_count> "" .
+<http://dws.products.catalog/b96f142c-b20d-4d76-8bc1-66f646dedb35> <http://schema.org/Product/processor_type> "" .
+<http://dws.products.catalog/b96f142c-b20d-4d76-8bc1-66f646dedb35> <http://schema.org/Product/rear_cam_resolution> "" .
+<http://dws.products.catalog/b96f142c-b20d-4d76-8bc1-66f646dedb35> <http://schema.org/Product/front_cam_resolution> "" .
+<http://dws.products.catalog/b96f142c-b20d-4d76-8bc1-66f646dedb35> <http://schema.org/Product/color> "white" .
+<http://dws.products.catalog/b96f142c-b20d-4d76-8bc1-66f646dedb35> <http://schema.org/Product/wattage> "" .
+<http://dws.products.catalog/b96f142c-b20d-4d76-8bc1-66f646dedb35> <http://schema.org/Product/power_supply> "" .
+<http://dws.products.catalog/b96f142c-b20d-4d76-8bc1-66f646dedb35> <http://schema.org/Product/display_size> "4.27 in" .
+<http://dws.products.catalog/b96f142c-b20d-4d76-8bc1-66f646dedb35> <http://schema.org/Product/display_resolution> "960 x 540 pixels" .
+<http://dws.products.catalog/b96f142c-b20d-4d76-8bc1-66f646dedb35> <http://schema.org/Product/voltage> "" .
+<http://dws.products.catalog/b96f142c-b20d-4d76-8bc1-66f646dedb35> <http://schema.org/Product/mpn> "sph-l520zwaspr" .
+<http://dws.products.catalog/b96f142c-b20d-4d76-8bc1-66f646dedb35> <http://schema.org/Product/modelnum> "" .
+<http://dws.products.catalog/b96f142c-b20d-4d76-8bc1-66f646dedb35> <http://schema.org/Product/width> "2.4 in" .
+<http://dws.products.catalog/b96f142c-b20d-4d76-8bc1-66f646dedb35> <http://schema.org/Product/height> "4.9 in" .
+<http://dws.products.catalog/b96f142c-b20d-4d76-8bc1-66f646dedb35> <http://schema.org/Product/depth> "0.3 in" .
+<http://dws.products.catalog/b96f142c-b20d-4d76-8bc1-66f646dedb35> <http://schema.org/Product/weight> "3.8 oz" .
+<http://dws.products.catalog/b96f142c-b20d-4d76-8bc1-66f646dedb35> <http://schema.org/Product/dimensions> "" .
+<http://dws.products.catalog/b96f142c-b20d-4d76-8bc1-66f646dedb35> <http://schema.org/Product/body_material> "" .
+<http://dws.products.catalog/b96f142c-b20d-4d76-8bc1-66f646dedb35> <http://schema.org/Product/package_height> "" .
+<http://dws.products.catalog/b96f142c-b20d-4d76-8bc1-66f646dedb35> <http://schema.org/Product/product_code> "" .
+<http://dws.products.catalog/b96f142c-b20d-4d76-8bc1-66f646dedb35> <http://schema.org/Product/product_gtin> "" .
+<http://dws.products.catalog/b96f142c-b20d-4d76-8bc1-66f646dedb35> <http://schema.org/Product/manufacturer> "" .
+<http://dws.products.catalog/1ac0e750-0aba-411c-bce7-9676cfc97383> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://dws.products.catalog/1ac0e750-0aba-411c-bce7-9676cfc97383> <http://schema.org/Product/ram> "1.5gb" .
+<http://dws.products.catalog/1ac0e750-0aba-411c-bce7-9676cfc97383> <http://schema.org/Product/memory> "16gb" .
+<http://dws.products.catalog/1ac0e750-0aba-411c-bce7-9676cfc97383> <http://schema.org/Product/brand> "samsung" .
+<http://dws.products.catalog/1ac0e750-0aba-411c-bce7-9676cfc97383> <http://schema.org/Product/phone_type> "galaxy s5 mini" .
+<http://dws.products.catalog/1ac0e750-0aba-411c-bce7-9676cfc97383> <http://schema.org/Product/computer_operating_system> "android 4.4 (kitkat)" .
+<http://dws.products.catalog/1ac0e750-0aba-411c-bce7-9676cfc97383> <http://schema.org/Product/phone_carrier> "at&t" .
+<http://dws.products.catalog/1ac0e750-0aba-411c-bce7-9676cfc97383> <http://schema.org/Product/product_type> "android smartphone" .
+<http://dws.products.catalog/1ac0e750-0aba-411c-bce7-9676cfc97383> <http://schema.org/Product/core_count> "" .
+<http://dws.products.catalog/1ac0e750-0aba-411c-bce7-9676cfc97383> <http://schema.org/Product/processor_type> "" .
+<http://dws.products.catalog/1ac0e750-0aba-411c-bce7-9676cfc97383> <http://schema.org/Product/rear_cam_resolution> "" .
+<http://dws.products.catalog/1ac0e750-0aba-411c-bce7-9676cfc97383> <http://schema.org/Product/front_cam_resolution> "" .
+<http://dws.products.catalog/1ac0e750-0aba-411c-bce7-9676cfc97383> <http://schema.org/Product/color> "black" .
+<http://dws.products.catalog/1ac0e750-0aba-411c-bce7-9676cfc97383> <http://schema.org/Product/wattage> "" .
+<http://dws.products.catalog/1ac0e750-0aba-411c-bce7-9676cfc97383> <http://schema.org/Product/power_supply> "" .
+<http://dws.products.catalog/1ac0e750-0aba-411c-bce7-9676cfc97383> <http://schema.org/Product/display_size> "4.5 in" .
+<http://dws.products.catalog/1ac0e750-0aba-411c-bce7-9676cfc97383> <http://schema.org/Product/display_resolution> "1280 x 720 pixels" .
+<http://dws.products.catalog/1ac0e750-0aba-411c-bce7-9676cfc97383> <http://schema.org/Product/voltage> "" .
+<http://dws.products.catalog/1ac0e750-0aba-411c-bce7-9676cfc97383> <http://schema.org/Product/mpn> "sm-g800azkaatt" .
+<http://dws.products.catalog/1ac0e750-0aba-411c-bce7-9676cfc97383> <http://schema.org/Product/modelnum> "" .
+<http://dws.products.catalog/1ac0e750-0aba-411c-bce7-9676cfc97383> <http://schema.org/Product/width> "2.6 in" .
+<http://dws.products.catalog/1ac0e750-0aba-411c-bce7-9676cfc97383> <http://schema.org/Product/height> "5.2 in" .
+<http://dws.products.catalog/1ac0e750-0aba-411c-bce7-9676cfc97383> <http://schema.org/Product/depth> "0.4 in" .
+<http://dws.products.catalog/1ac0e750-0aba-411c-bce7-9676cfc97383> <http://schema.org/Product/weight> "4.23 oz" .
+<http://dws.products.catalog/1ac0e750-0aba-411c-bce7-9676cfc97383> <http://schema.org/Product/dimensions> "" .
+<http://dws.products.catalog/1ac0e750-0aba-411c-bce7-9676cfc97383> <http://schema.org/Product/body_material> "" .
+<http://dws.products.catalog/1ac0e750-0aba-411c-bce7-9676cfc97383> <http://schema.org/Product/package_height> "" .
+<http://dws.products.catalog/1ac0e750-0aba-411c-bce7-9676cfc97383> <http://schema.org/Product/product_code> "" .
+<http://dws.products.catalog/1ac0e750-0aba-411c-bce7-9676cfc97383> <http://schema.org/Product/product_gtin> "" .
+<http://dws.products.catalog/1ac0e750-0aba-411c-bce7-9676cfc97383> <http://schema.org/Product/manufacturer> "" .
+<http://dws.products.catalog/51554813-8b96-41e2-89df-4d36d06598e2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://dws.products.catalog/51554813-8b96-41e2-89df-4d36d06598e2> <http://schema.org/Product/ram> "3gb" .
+<http://dws.products.catalog/51554813-8b96-41e2-89df-4d36d06598e2> <http://schema.org/Product/memory> "32gb" .
+<http://dws.products.catalog/51554813-8b96-41e2-89df-4d36d06598e2> <http://schema.org/Product/brand> "samsung" .
+<http://dws.products.catalog/51554813-8b96-41e2-89df-4d36d06598e2> <http://schema.org/Product/phone_type> "galaxy s6 edge" .
+<http://dws.products.catalog/51554813-8b96-41e2-89df-4d36d06598e2> <http://schema.org/Product/computer_operating_system> "google android" .
+<http://dws.products.catalog/51554813-8b96-41e2-89df-4d36d06598e2> <http://schema.org/Product/phone_carrier> "not specified" .
+<http://dws.products.catalog/51554813-8b96-41e2-89df-4d36d06598e2> <http://schema.org/Product/product_type> "android smartphone" .
+<http://dws.products.catalog/51554813-8b96-41e2-89df-4d36d06598e2> <http://schema.org/Product/core_count> "" .
+<http://dws.products.catalog/51554813-8b96-41e2-89df-4d36d06598e2> <http://schema.org/Product/processor_type> "" .
+<http://dws.products.catalog/51554813-8b96-41e2-89df-4d36d06598e2> <http://schema.org/Product/rear_cam_resolution> "" .
+<http://dws.products.catalog/51554813-8b96-41e2-89df-4d36d06598e2> <http://schema.org/Product/front_cam_resolution> "" .
+<http://dws.products.catalog/51554813-8b96-41e2-89df-4d36d06598e2> <http://schema.org/Product/color> "black" .
+<http://dws.products.catalog/51554813-8b96-41e2-89df-4d36d06598e2> <http://schema.org/Product/wattage> "" .
+<http://dws.products.catalog/51554813-8b96-41e2-89df-4d36d06598e2> <http://schema.org/Product/power_supply> "" .
+<http://dws.products.catalog/51554813-8b96-41e2-89df-4d36d06598e2> <http://schema.org/Product/display_size> "5.1 in" .
+<http://dws.products.catalog/51554813-8b96-41e2-89df-4d36d06598e2> <http://schema.org/Product/display_resolution> "2560 x 1440 pixels" .
+<http://dws.products.catalog/51554813-8b96-41e2-89df-4d36d06598e2> <http://schema.org/Product/voltage> "" .
+<http://dws.products.catalog/51554813-8b96-41e2-89df-4d36d06598e2> <http://schema.org/Product/mpn> "" .
+<http://dws.products.catalog/51554813-8b96-41e2-89df-4d36d06598e2> <http://schema.org/Product/modelnum> "" .
+<http://dws.products.catalog/51554813-8b96-41e2-89df-4d36d06598e2> <http://schema.org/Product/width> "2.8 in" .
+<http://dws.products.catalog/51554813-8b96-41e2-89df-4d36d06598e2> <http://schema.org/Product/height> "5.6 in" .
+<http://dws.products.catalog/51554813-8b96-41e2-89df-4d36d06598e2> <http://schema.org/Product/depth> "0.3 in" .
+<http://dws.products.catalog/51554813-8b96-41e2-89df-4d36d06598e2> <http://schema.org/Product/weight> "4.66 oz" .
+<http://dws.products.catalog/51554813-8b96-41e2-89df-4d36d06598e2> <http://schema.org/Product/dimensions> "" .
+<http://dws.products.catalog/51554813-8b96-41e2-89df-4d36d06598e2> <http://schema.org/Product/body_material> "aluminum" .
+<http://dws.products.catalog/51554813-8b96-41e2-89df-4d36d06598e2> <http://schema.org/Product/package_height> "" .
+<http://dws.products.catalog/51554813-8b96-41e2-89df-4d36d06598e2> <http://schema.org/Product/product_code> "" .
+<http://dws.products.catalog/51554813-8b96-41e2-89df-4d36d06598e2> <http://schema.org/Product/product_gtin> "08806086738088, 08806086827218, 08806086911788" .
+<http://dws.products.catalog/51554813-8b96-41e2-89df-4d36d06598e2> <http://schema.org/Product/manufacturer> "" .
+<http://dws.products.catalog/4b0480b4-a623-4493-8970-5bbed00f8e79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://dws.products.catalog/4b0480b4-a623-4493-8970-5bbed00f8e79> <http://schema.org/Product/ram> "3gb" .
+<http://dws.products.catalog/4b0480b4-a623-4493-8970-5bbed00f8e79> <http://schema.org/Product/memory> "64gb" .
+<http://dws.products.catalog/4b0480b4-a623-4493-8970-5bbed00f8e79> <http://schema.org/Product/brand> "samsung" .
+<http://dws.products.catalog/4b0480b4-a623-4493-8970-5bbed00f8e79> <http://schema.org/Product/phone_type> "galaxy s6 edge" .
+<http://dws.products.catalog/4b0480b4-a623-4493-8970-5bbed00f8e79> <http://schema.org/Product/computer_operating_system> "android 5.0 (lollipop)" .
+<http://dws.products.catalog/4b0480b4-a623-4493-8970-5bbed00f8e79> <http://schema.org/Product/phone_carrier> "at&t" .
+<http://dws.products.catalog/4b0480b4-a623-4493-8970-5bbed00f8e79> <http://schema.org/Product/product_type> "android phone" .
+<http://dws.products.catalog/4b0480b4-a623-4493-8970-5bbed00f8e79> <http://schema.org/Product/core_count> "" .
+<http://dws.products.catalog/4b0480b4-a623-4493-8970-5bbed00f8e79> <http://schema.org/Product/processor_type> "" .
+<http://dws.products.catalog/4b0480b4-a623-4493-8970-5bbed00f8e79> <http://schema.org/Product/rear_cam_resolution> "16 mp" .
+<http://dws.products.catalog/4b0480b4-a623-4493-8970-5bbed00f8e79> <http://schema.org/Product/front_cam_resolution> "5 mp" .
+<http://dws.products.catalog/4b0480b4-a623-4493-8970-5bbed00f8e79> <http://schema.org/Product/color> "platinum gold" .
+<http://dws.products.catalog/4b0480b4-a623-4493-8970-5bbed00f8e79> <http://schema.org/Product/wattage> "" .
+<http://dws.products.catalog/4b0480b4-a623-4493-8970-5bbed00f8e79> <http://schema.org/Product/power_supply> "" .
+<http://dws.products.catalog/4b0480b4-a623-4493-8970-5bbed00f8e79> <http://schema.org/Product/display_size> "5.1 in" .
+<http://dws.products.catalog/4b0480b4-a623-4493-8970-5bbed00f8e79> <http://schema.org/Product/display_resolution> "2560 x 1440 pixels" .
+<http://dws.products.catalog/4b0480b4-a623-4493-8970-5bbed00f8e79> <http://schema.org/Product/voltage> "" .
+<http://dws.products.catalog/4b0480b4-a623-4493-8970-5bbed00f8e79> <http://schema.org/Product/mpn> "sm-g925azdeatt" .
+<http://dws.products.catalog/4b0480b4-a623-4493-8970-5bbed00f8e79> <http://schema.org/Product/modelnum> "" .
+<http://dws.products.catalog/4b0480b4-a623-4493-8970-5bbed00f8e79> <http://schema.org/Product/width> "2.8 in" .
+<http://dws.products.catalog/4b0480b4-a623-4493-8970-5bbed00f8e79> <http://schema.org/Product/height> "5.6 in" .
+<http://dws.products.catalog/4b0480b4-a623-4493-8970-5bbed00f8e79> <http://schema.org/Product/depth> "0.3 in" .
+<http://dws.products.catalog/4b0480b4-a623-4493-8970-5bbed00f8e79> <http://schema.org/Product/weight> "4.6 oz" .
+<http://dws.products.catalog/4b0480b4-a623-4493-8970-5bbed00f8e79> <http://schema.org/Product/dimensions> "" .
+<http://dws.products.catalog/4b0480b4-a623-4493-8970-5bbed00f8e79> <http://schema.org/Product/body_material> "aluminum" .
+<http://dws.products.catalog/4b0480b4-a623-4493-8970-5bbed00f8e79> <http://schema.org/Product/package_height> "" .
+<http://dws.products.catalog/4b0480b4-a623-4493-8970-5bbed00f8e79> <http://schema.org/Product/product_code> "" .
+<http://dws.products.catalog/4b0480b4-a623-4493-8970-5bbed00f8e79> <http://schema.org/Product/product_gtin> "00887276099934" .
+<http://dws.products.catalog/4b0480b4-a623-4493-8970-5bbed00f8e79> <http://schema.org/Product/manufacturer> "" .
+<http://dws.products.catalog/fe04c8f6-2ada-4d7f-823e-d25f100f7aa9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://dws.products.catalog/fe04c8f6-2ada-4d7f-823e-d25f100f7aa9> <http://schema.org/Product/ram> "3gb" .
+<http://dws.products.catalog/fe04c8f6-2ada-4d7f-823e-d25f100f7aa9> <http://schema.org/Product/memory> "21.7gb" .
+<http://dws.products.catalog/fe04c8f6-2ada-4d7f-823e-d25f100f7aa9> <http://schema.org/Product/brand> "sony" .
+<http://dws.products.catalog/fe04c8f6-2ada-4d7f-823e-d25f100f7aa9> <http://schema.org/Product/phone_type> "xperia c5 ultra" .
+<http://dws.products.catalog/fe04c8f6-2ada-4d7f-823e-d25f100f7aa9> <http://schema.org/Product/computer_operating_system> "android 5.1 (lollipop)" .
+<http://dws.products.catalog/fe04c8f6-2ada-4d7f-823e-d25f100f7aa9> <http://schema.org/Product/phone_carrier> "not specified" .
+<http://dws.products.catalog/fe04c8f6-2ada-4d7f-823e-d25f100f7aa9> <http://schema.org/Product/product_type> "android smartphone" .
+<http://dws.products.catalog/fe04c8f6-2ada-4d7f-823e-d25f100f7aa9> <http://schema.org/Product/core_count> "" .
+<http://dws.products.catalog/fe04c8f6-2ada-4d7f-823e-d25f100f7aa9> <http://schema.org/Product/processor_type> "" .
+<http://dws.products.catalog/fe04c8f6-2ada-4d7f-823e-d25f100f7aa9> <http://schema.org/Product/rear_cam_resolution> "" .
+<http://dws.products.catalog/fe04c8f6-2ada-4d7f-823e-d25f100f7aa9> <http://schema.org/Product/front_cam_resolution> "" .
+<http://dws.products.catalog/fe04c8f6-2ada-4d7f-823e-d25f100f7aa9> <http://schema.org/Product/color> "graphite black" .
+<http://dws.products.catalog/fe04c8f6-2ada-4d7f-823e-d25f100f7aa9> <http://schema.org/Product/wattage> "" .
+<http://dws.products.catalog/fe04c8f6-2ada-4d7f-823e-d25f100f7aa9> <http://schema.org/Product/power_supply> "" .
+<http://dws.products.catalog/fe04c8f6-2ada-4d7f-823e-d25f100f7aa9> <http://schema.org/Product/display_size> "5.2 in" .
+<http://dws.products.catalog/fe04c8f6-2ada-4d7f-823e-d25f100f7aa9> <http://schema.org/Product/display_resolution> "1920 x 1080 pixels" .
+<http://dws.products.catalog/fe04c8f6-2ada-4d7f-823e-d25f100f7aa9> <http://schema.org/Product/voltage> "" .
+<http://dws.products.catalog/fe04c8f6-2ada-4d7f-823e-d25f100f7aa9> <http://schema.org/Product/mpn> "" .
+<http://dws.products.catalog/fe04c8f6-2ada-4d7f-823e-d25f100f7aa9> <http://schema.org/Product/modelnum> "" .
+<http://dws.products.catalog/fe04c8f6-2ada-4d7f-823e-d25f100f7aa9> <http://schema.org/Product/width> "2.8 in" .
+<http://dws.products.catalog/fe04c8f6-2ada-4d7f-823e-d25f100f7aa9> <http://schema.org/Product/height> "5.7 in" .
+<http://dws.products.catalog/fe04c8f6-2ada-4d7f-823e-d25f100f7aa9> <http://schema.org/Product/depth> "0.3 in" .
+<http://dws.products.catalog/fe04c8f6-2ada-4d7f-823e-d25f100f7aa9> <http://schema.org/Product/weight> "5.43 oz" .
+<http://dws.products.catalog/fe04c8f6-2ada-4d7f-823e-d25f100f7aa9> <http://schema.org/Product/dimensions> "" .
+<http://dws.products.catalog/fe04c8f6-2ada-4d7f-823e-d25f100f7aa9> <http://schema.org/Product/body_material> "tempered glass" .
+<http://dws.products.catalog/fe04c8f6-2ada-4d7f-823e-d25f100f7aa9> <http://schema.org/Product/package_height> "" .
+<http://dws.products.catalog/fe04c8f6-2ada-4d7f-823e-d25f100f7aa9> <http://schema.org/Product/product_code> "" .
+<http://dws.products.catalog/fe04c8f6-2ada-4d7f-823e-d25f100f7aa9> <http://schema.org/Product/product_gtin> "00095673861232" .
+<http://dws.products.catalog/fe04c8f6-2ada-4d7f-823e-d25f100f7aa9> <http://schema.org/Product/manufacturer> "" .
+<http://dws.products.catalog/e182209f-12d3-428f-8157-03da60b91514> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://dws.products.catalog/e182209f-12d3-428f-8157-03da60b91514> <http://schema.org/Product/ram> "2gb" .
+<http://dws.products.catalog/e182209f-12d3-428f-8157-03da60b91514> <http://schema.org/Product/memory> "16gb" .
+<http://dws.products.catalog/e182209f-12d3-428f-8157-03da60b91514> <http://schema.org/Product/brand> "sony" .
+<http://dws.products.catalog/e182209f-12d3-428f-8157-03da60b91514> <http://schema.org/Product/phone_type> "xperia z" .
+<http://dws.products.catalog/e182209f-12d3-428f-8157-03da60b91514> <http://schema.org/Product/computer_operating_system> "android 4.1 (jelly bean)" .
+<http://dws.products.catalog/e182209f-12d3-428f-8157-03da60b91514> <http://schema.org/Product/phone_carrier> "not specified" .
+<http://dws.products.catalog/e182209f-12d3-428f-8157-03da60b91514> <http://schema.org/Product/product_type> "android phone" .
+<http://dws.products.catalog/e182209f-12d3-428f-8157-03da60b91514> <http://schema.org/Product/core_count> "" .
+<http://dws.products.catalog/e182209f-12d3-428f-8157-03da60b91514> <http://schema.org/Product/processor_type> "" .
+<http://dws.products.catalog/e182209f-12d3-428f-8157-03da60b91514> <http://schema.org/Product/rear_cam_resolution> "" .
+<http://dws.products.catalog/e182209f-12d3-428f-8157-03da60b91514> <http://schema.org/Product/front_cam_resolution> "" .
+<http://dws.products.catalog/e182209f-12d3-428f-8157-03da60b91514> <http://schema.org/Product/color> "white" .
+<http://dws.products.catalog/e182209f-12d3-428f-8157-03da60b91514> <http://schema.org/Product/wattage> "" .
+<http://dws.products.catalog/e182209f-12d3-428f-8157-03da60b91514> <http://schema.org/Product/power_supply> "" .
+<http://dws.products.catalog/e182209f-12d3-428f-8157-03da60b91514> <http://schema.org/Product/display_size> "5 in" .
+<http://dws.products.catalog/e182209f-12d3-428f-8157-03da60b91514> <http://schema.org/Product/display_resolution> "1920 x 1080 pixels" .
+<http://dws.products.catalog/e182209f-12d3-428f-8157-03da60b91514> <http://schema.org/Product/voltage> "" .
+<http://dws.products.catalog/e182209f-12d3-428f-8157-03da60b91514> <http://schema.org/Product/mpn> "" .
+<http://dws.products.catalog/e182209f-12d3-428f-8157-03da60b91514> <http://schema.org/Product/modelnum> "" .
+<http://dws.products.catalog/e182209f-12d3-428f-8157-03da60b91514> <http://schema.org/Product/width> "2.8 in" .
+<http://dws.products.catalog/e182209f-12d3-428f-8157-03da60b91514> <http://schema.org/Product/height> "5.5 in" .
+<http://dws.products.catalog/e182209f-12d3-428f-8157-03da60b91514> <http://schema.org/Product/depth> "0.3 in" .
+<http://dws.products.catalog/e182209f-12d3-428f-8157-03da60b91514> <http://schema.org/Product/weight> "5.1 oz" .
+<http://dws.products.catalog/e182209f-12d3-428f-8157-03da60b91514> <http://schema.org/Product/dimensions> "" .
+<http://dws.products.catalog/e182209f-12d3-428f-8157-03da60b91514> <http://schema.org/Product/body_material> "" .
+<http://dws.products.catalog/e182209f-12d3-428f-8157-03da60b91514> <http://schema.org/Product/package_height> "" .
+<http://dws.products.catalog/e182209f-12d3-428f-8157-03da60b91514> <http://schema.org/Product/product_code> "" .
+<http://dws.products.catalog/e182209f-12d3-428f-8157-03da60b91514> <http://schema.org/Product/product_gtin> "00095673855408, 00095673858225, 07311271407676, 07311271407782, 07311271407812, 07311271409328, 07311271432678" .
+<http://dws.products.catalog/e182209f-12d3-428f-8157-03da60b91514> <http://schema.org/Product/manufacturer> "" .
+<http://dws.products.catalog/9d296f8a-f07a-4e29-9b6b-6c3db6ba9263> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://dws.products.catalog/9d296f8a-f07a-4e29-9b6b-6c3db6ba9263> <http://schema.org/Product/ram> "3gb" .
+<http://dws.products.catalog/9d296f8a-f07a-4e29-9b6b-6c3db6ba9263> <http://schema.org/Product/memory> "12gb" .
+<http://dws.products.catalog/9d296f8a-f07a-4e29-9b6b-6c3db6ba9263> <http://schema.org/Product/brand> "sony" .
+<http://dws.products.catalog/9d296f8a-f07a-4e29-9b6b-6c3db6ba9263> <http://schema.org/Product/phone_type> "xperia z3" .
+<http://dws.products.catalog/9d296f8a-f07a-4e29-9b6b-6c3db6ba9263> <http://schema.org/Product/computer_operating_system> "android 4.4.4 (kitkat)" .
+<http://dws.products.catalog/9d296f8a-f07a-4e29-9b6b-6c3db6ba9263> <http://schema.org/Product/phone_carrier> "not specified" .
+<http://dws.products.catalog/9d296f8a-f07a-4e29-9b6b-6c3db6ba9263> <http://schema.org/Product/product_type> "android phone" .
+<http://dws.products.catalog/9d296f8a-f07a-4e29-9b6b-6c3db6ba9263> <http://schema.org/Product/core_count> "" .
+<http://dws.products.catalog/9d296f8a-f07a-4e29-9b6b-6c3db6ba9263> <http://schema.org/Product/processor_type> "" .
+<http://dws.products.catalog/9d296f8a-f07a-4e29-9b6b-6c3db6ba9263> <http://schema.org/Product/rear_cam_resolution> "20.7 mp" .
+<http://dws.products.catalog/9d296f8a-f07a-4e29-9b6b-6c3db6ba9263> <http://schema.org/Product/front_cam_resolution> "2.2 mp" .
+<http://dws.products.catalog/9d296f8a-f07a-4e29-9b6b-6c3db6ba9263> <http://schema.org/Product/color> "black" .
+<http://dws.products.catalog/9d296f8a-f07a-4e29-9b6b-6c3db6ba9263> <http://schema.org/Product/wattage> "" .
+<http://dws.products.catalog/9d296f8a-f07a-4e29-9b6b-6c3db6ba9263> <http://schema.org/Product/power_supply> "" .
+<http://dws.products.catalog/9d296f8a-f07a-4e29-9b6b-6c3db6ba9263> <http://schema.org/Product/display_size> "5.2 in" .
+<http://dws.products.catalog/9d296f8a-f07a-4e29-9b6b-6c3db6ba9263> <http://schema.org/Product/display_resolution> "1920 x 1080 pixels" .
+<http://dws.products.catalog/9d296f8a-f07a-4e29-9b6b-6c3db6ba9263> <http://schema.org/Product/voltage> "" .
+<http://dws.products.catalog/9d296f8a-f07a-4e29-9b6b-6c3db6ba9263> <http://schema.org/Product/mpn> "" .
+<http://dws.products.catalog/9d296f8a-f07a-4e29-9b6b-6c3db6ba9263> <http://schema.org/Product/modelnum> "" .
+<http://dws.products.catalog/9d296f8a-f07a-4e29-9b6b-6c3db6ba9263> <http://schema.org/Product/width> "2.8 in" .
+<http://dws.products.catalog/9d296f8a-f07a-4e29-9b6b-6c3db6ba9263> <http://schema.org/Product/height> "5.8 in" .
+<http://dws.products.catalog/9d296f8a-f07a-4e29-9b6b-6c3db6ba9263> <http://schema.org/Product/depth> "0.3 in" .
+<http://dws.products.catalog/9d296f8a-f07a-4e29-9b6b-6c3db6ba9263> <http://schema.org/Product/weight> "5.4 oz" .
+<http://dws.products.catalog/9d296f8a-f07a-4e29-9b6b-6c3db6ba9263> <http://schema.org/Product/dimensions> "" .
+<http://dws.products.catalog/9d296f8a-f07a-4e29-9b6b-6c3db6ba9263> <http://schema.org/Product/body_material> "aluminum, tempered glass" .
+<http://dws.products.catalog/9d296f8a-f07a-4e29-9b6b-6c3db6ba9263> <http://schema.org/Product/package_height> "" .
+<http://dws.products.catalog/9d296f8a-f07a-4e29-9b6b-6c3db6ba9263> <http://schema.org/Product/product_code> "" .
+<http://dws.products.catalog/9d296f8a-f07a-4e29-9b6b-6c3db6ba9263> <http://schema.org/Product/product_gtin> "00095673859024" .
+<http://dws.products.catalog/9d296f8a-f07a-4e29-9b6b-6c3db6ba9263> <http://schema.org/Product/manufacturer> "" .
+<http://dws.products.catalog/9e37631f-3d0d-4f98-9c91-98990d597fc9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://dws.products.catalog/9e37631f-3d0d-4f98-9c91-98990d597fc9> <http://schema.org/Product/ram> "2gb" .
+<http://dws.products.catalog/9e37631f-3d0d-4f98-9c91-98990d597fc9> <http://schema.org/Product/memory> "12gb" .
+<http://dws.products.catalog/9e37631f-3d0d-4f98-9c91-98990d597fc9> <http://schema.org/Product/brand> "sony" .
+<http://dws.products.catalog/9e37631f-3d0d-4f98-9c91-98990d597fc9> <http://schema.org/Product/phone_type> "xperia z3 compact" .
+<http://dws.products.catalog/9e37631f-3d0d-4f98-9c91-98990d597fc9> <http://schema.org/Product/computer_operating_system> "android 4.4.4 (kitkat)" .
+<http://dws.products.catalog/9e37631f-3d0d-4f98-9c91-98990d597fc9> <http://schema.org/Product/phone_carrier> "not specified" .
+<http://dws.products.catalog/9e37631f-3d0d-4f98-9c91-98990d597fc9> <http://schema.org/Product/product_type> "android phone" .
+<http://dws.products.catalog/9e37631f-3d0d-4f98-9c91-98990d597fc9> <http://schema.org/Product/core_count> "" .
+<http://dws.products.catalog/9e37631f-3d0d-4f98-9c91-98990d597fc9> <http://schema.org/Product/processor_type> "" .
+<http://dws.products.catalog/9e37631f-3d0d-4f98-9c91-98990d597fc9> <http://schema.org/Product/rear_cam_resolution> "20.7 mp" .
+<http://dws.products.catalog/9e37631f-3d0d-4f98-9c91-98990d597fc9> <http://schema.org/Product/front_cam_resolution> "2.2 mp" .
+<http://dws.products.catalog/9e37631f-3d0d-4f98-9c91-98990d597fc9> <http://schema.org/Product/color> "black" .
+<http://dws.products.catalog/9e37631f-3d0d-4f98-9c91-98990d597fc9> <http://schema.org/Product/wattage> "" .
+<http://dws.products.catalog/9e37631f-3d0d-4f98-9c91-98990d597fc9> <http://schema.org/Product/power_supply> "" .
+<http://dws.products.catalog/9e37631f-3d0d-4f98-9c91-98990d597fc9> <http://schema.org/Product/display_size> "4.6 in" .
+<http://dws.products.catalog/9e37631f-3d0d-4f98-9c91-98990d597fc9> <http://schema.org/Product/display_resolution> "1280 x 720 pixels" .
+<http://dws.products.catalog/9e37631f-3d0d-4f98-9c91-98990d597fc9> <http://schema.org/Product/voltage> "" .
+<http://dws.products.catalog/9e37631f-3d0d-4f98-9c91-98990d597fc9> <http://schema.org/Product/mpn> "" .
+<http://dws.products.catalog/9e37631f-3d0d-4f98-9c91-98990d597fc9> <http://schema.org/Product/modelnum> "" .
+<http://dws.products.catalog/9e37631f-3d0d-4f98-9c91-98990d597fc9> <http://schema.org/Product/width> "2.6 in" .
+<http://dws.products.catalog/9e37631f-3d0d-4f98-9c91-98990d597fc9> <http://schema.org/Product/height> "5 in" .
+<http://dws.products.catalog/9e37631f-3d0d-4f98-9c91-98990d597fc9> <http://schema.org/Product/depth> "0.3 in" .
+<http://dws.products.catalog/9e37631f-3d0d-4f98-9c91-98990d597fc9> <http://schema.org/Product/weight> "4.5 oz" .
+<http://dws.products.catalog/9e37631f-3d0d-4f98-9c91-98990d597fc9> <http://schema.org/Product/dimensions> "" .
+<http://dws.products.catalog/9e37631f-3d0d-4f98-9c91-98990d597fc9> <http://schema.org/Product/body_material> "tempered glass" .
+<http://dws.products.catalog/9e37631f-3d0d-4f98-9c91-98990d597fc9> <http://schema.org/Product/package_height> "" .
+<http://dws.products.catalog/9e37631f-3d0d-4f98-9c91-98990d597fc9> <http://schema.org/Product/product_code> "" .
+<http://dws.products.catalog/9e37631f-3d0d-4f98-9c91-98990d597fc9> <http://schema.org/Product/product_gtin> "00095673859536" .
+<http://dws.products.catalog/9e37631f-3d0d-4f98-9c91-98990d597fc9> <http://schema.org/Product/manufacturer> "" .
+<http://dws.products.catalog/f64ddc54-7fe9-490e-a527-441abf396831> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+<http://dws.products.catalog/f64ddc54-7fe9-490e-a527-441abf396831> <http://schema.org/Product/ram> "3gb" .
+<http://dws.products.catalog/f64ddc54-7fe9-490e-a527-441abf396831> <http://schema.org/Product/memory> "32gb" .
+<http://dws.products.catalog/f64ddc54-7fe9-490e-a527-441abf396831> <http://schema.org/Product/brand> "sony" .
+<http://dws.products.catalog/f64ddc54-7fe9-490e-a527-441abf396831> <http://schema.org/Product/phone_type> "xperia z5" .
+<http://dws.products.catalog/f64ddc54-7fe9-490e-a527-441abf396831> <http://schema.org/Product/computer_operating_system> "android 5.1 (lollipop)" .
+<http://dws.products.catalog/f64ddc54-7fe9-490e-a527-441abf396831> <http://schema.org/Product/phone_carrier> "not specified" .
+<http://dws.products.catalog/f64ddc54-7fe9-490e-a527-441abf396831> <http://schema.org/Product/product_type> "android smartphone" .
+<http://dws.products.catalog/f64ddc54-7fe9-490e-a527-441abf396831> <http://schema.org/Product/core_count> "" .
+<http://dws.products.catalog/f64ddc54-7fe9-490e-a527-441abf396831> <http://schema.org/Product/processor_type> "" .
+<http://dws.products.catalog/f64ddc54-7fe9-490e-a527-441abf396831> <http://schema.org/Product/rear_cam_resolution> "23 mp" .
+<http://dws.products.catalog/f64ddc54-7fe9-490e-a527-441abf396831> <http://schema.org/Product/front_cam_resolution> "" .
+<http://dws.products.catalog/f64ddc54-7fe9-490e-a527-441abf396831> <http://schema.org/Product/color> "gold" .
+<http://dws.products.catalog/f64ddc54-7fe9-490e-a527-441abf396831> <http://schema.org/Product/wattage> "" .
+<http://dws.products.catalog/f64ddc54-7fe9-490e-a527-441abf396831> <http://schema.org/Product/power_supply> "" .
+<http://dws.products.catalog/f64ddc54-7fe9-490e-a527-441abf396831> <http://schema.org/Product/display_size> "5.2 in" .
+<http://dws.products.catalog/f64ddc54-7fe9-490e-a527-441abf396831> <http://schema.org/Product/display_resolution> "1920 x 1080 pixels" .
+<http://dws.products.catalog/f64ddc54-7fe9-490e-a527-441abf396831> <http://schema.org/Product/voltage> "" .
+<http://dws.products.catalog/f64ddc54-7fe9-490e-a527-441abf396831> <http://schema.org/Product/mpn> "" .
+<http://dws.products.catalog/f64ddc54-7fe9-490e-a527-441abf396831> <http://schema.org/Product/modelnum> "" .
+<http://dws.products.catalog/f64ddc54-7fe9-490e-a527-441abf396831> <http://schema.org/Product/width> "2.8 in" .
+<http://dws.products.catalog/f64ddc54-7fe9-490e-a527-441abf396831> <http://schema.org/Product/height> "5.7 in" .
+<http://dws.products.catalog/f64ddc54-7fe9-490e-a527-441abf396831> <http://schema.org/Product/depth> "0.3 in" .
+<http://dws.products.catalog/f64ddc54-7fe9-490e-a527-441abf396831> <http://schema.org/Product/weight> "5.43 oz" .
+<http://dws.products.catalog/f64ddc54-7fe9-490e-a527-441abf396831> <http://schema.org/Product/dimensions> "" .
+<http://dws.products.catalog/f64ddc54-7fe9-490e-a527-441abf396831> <http://schema.org/Product/body_material> "tempered glass" .
+<http://dws.products.catalog/f64ddc54-7fe9-490e-a527-441abf396831> <http://schema.org/Product/package_height> "" .
+<http://dws.products.catalog/f64ddc54-7fe9-490e-a527-441abf396831> <http://schema.org/Product/product_code> "" .
+<http://dws.products.catalog/f64ddc54-7fe9-490e-a527-441abf396831> <http://schema.org/Product/product_gtin> "00095673861256, 00956738612568, 07311271538028" .
+<http://dws.products.catalog/f64ddc54-7fe9-490e-a527-441abf396831> <http://schema.org/Product/manufacturer> "" .
