@@ -16,4 +16,4 @@ package de.fuberlin.wiwiss.silk.learning.reproduction
 
 case class ReproductionConfiguration(mutationProbability: Double = 0.5,
                                      elitismCount: Int = 2,
-                                     tournamentSize: Int = 5)
+                                     tournamentSize: Int = 10)

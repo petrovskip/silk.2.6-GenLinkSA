@@ -103,6 +103,8 @@ class LearningTask(input: LearningInput = LearningInput.empty,
     val bestRule = population.bestIndividual.node.build
     println(bestRule) // print best rule
     //println(bestRule.toXML) //copy XML in  linkspec
+    val score = LinkageRuleEvaluator(bestRule, input.trainingEntities)
+    println(score.precision + "--" + score.recall + "--" + score.fMeasure)
 
     val result =
       LearningResult(
