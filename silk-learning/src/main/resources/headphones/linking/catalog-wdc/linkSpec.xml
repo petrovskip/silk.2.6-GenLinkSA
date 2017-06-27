@@ -1,0 +1,12 @@
+<Interlink id="catalog-wdc">
+  <LinkType>&lt;http://www.w3.org/2002/07/owl#sameAs&gt;</LinkType>
+  <SourceDataset dataSource="catalog" var="a">
+    <RestrictTo> ?a ?p ?v . </RestrictTo>
+  </SourceDataset>
+  <TargetDataset dataSource="wdc" var="b">
+    <RestrictTo> ?a ?p ?v . </RestrictTo>
+  </TargetDataset>
+  <LinkageRule> </LinkageRule>
+  <Filter/>
+  <Outputs> </Outputs>
+</Interlink>

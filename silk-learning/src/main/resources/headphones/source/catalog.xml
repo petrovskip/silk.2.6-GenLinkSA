@@ -1,0 +1,5 @@
+<DataSource id="catalog" type="file">
+  <Param name="file" value="catalog_resource"/>
+  <Param name="format" value="N-Triples"/>
+  <Param name="graph" value=""/>
+</DataSource>
